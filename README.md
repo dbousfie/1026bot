@@ -4,7 +4,7 @@ A modular, copyable bot for answering course or assignment-related questions usi
 What It Does
 
 * Accepts free-text questions 
-* Uses OpenAI to generate responses based on syllabus.txt
+* Uses OpenAI to generate responses based on syllabus.md
 * Optionally logs responses to a Qualtrics survey
 * Can be embedded in Brightspace or hosted via GitHub Pages
 
@@ -18,7 +18,7 @@ How to Use
 
 2. Replace the Syllabus Content
 
-* Open `syllabus.txt`
+* Open `syllabus.md`
 * Replace its contents with your course material or grading criteria
 * This file is sent with every query to provide context to the AI
 
@@ -89,7 +89,7 @@ Files in This Repo
 * `index.html` - Main public interface
 * `brightspace.html` - LMS-friendly iframe wrapper
 * `main.ts` - Backend Deno script
-* `syllabus.txt` - Syllabus or grading criteria context
+* `syllabus.md` - Syllabus or grading criteria context
 * `README.md` - This file
 
 License
