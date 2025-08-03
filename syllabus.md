@@ -1,0 +1,1262 @@
+The University of Western Ontario
+
+Department of Political Science
+
+Political Science 1026: Political Power and Participation
+
+  -----------------------------------------------------------------------
+  **Course Title:**    Political Science 1026: Political Power and
+                       Participation
+  -------------------- --------------------------------------------------
+  **Day(s):**          Tuesdays and Thursdays
+
+  **Instructor(s):**   Prof Dan Bousfield
+
+  **Course             Prof Nig Narain <nnarain@uwo.ca>
+  Coordinator**        
+
+  **Office Hours:**    Wednesday 10:00am-noon via zoom - link in
+                       Brightspace
+
+  **Email:**           <dbousfie@uwo.ca>
+
+  **Telephone:**       289-620-6665 text only
+
+  **Lectures**         See your timetable
+  -----------------------------------------------------------------------
+
+## Course description: what is this course about?
+
+What is politics?
+
+Who has political power and why?
+
+Who gets to speak and what happens when they are not heard?
+
+What are the different ways to set up political systems and government?
+
+What is democracy and is it the best political system?
+
+What do ideas like capitalism, socialism, equality or freedom mean in
+politics?
+
+How must politics transform to address reconciliation, racism, gender,
+sexualities, ableism, settler colonialism, and fundamentalism and their
+impact on everyday life?
+
+Why do people and states fight each other?
+
+Should international rules govern the Internet, pandemic responses,
+refugee policies, or Indigenous-settler treaties?
+
+Should the environment be a political priority and why is it not?
+
+Together, we will consider what politics is, worldviews which explain
+our political world, the different political systems and institutions,
+and important global issues.
+
+We provide an exciting opportunity to understand and challenge political
+ideas; discuss varied and critical political issues; learn reading,
+discussion & writing skills; and understand our world.
+
+We look forward to having YOU in our class and pursuing a journey of
+learning!
+
+## Course objectives: what will you learn in this course?
+
+(1) We start with learning about some key concepts. From there, we focus
+    primarily on global politics, including discussion about war,
+    international economies, issues related to the environment and
+    pandemics. In the second term, we will consider ideas, arguments,
+    theories, and ideologies produced in the history of political
+    thought in the West, including power, democracy, freedom, justice,
+    liberalism, conservatism, socialism, feminism, and ecologism.
+
+(2) Students will develop the capacity to think about politics
+    analytically and critically. In particular, they will acquire and
+    strengthen their abilities to: understand and analyze arguments in
+    political texts; connect and assess them in light of current
+    political debates; and, defend clear positions on potentially
+    controversial political issues, such as the obligation to obey the
+    law, the nature of justice, the legitimacy of democracy, the nature
+    of a free society, the status of the dominant ideologies of our
+    time, the value of political participation, and the role of global
+    organization in the modern world.
+
+(3) Students will achieve objectives for (1) by engaging in
+    lecture-class discussions, watching video lectures, and doing
+    readings from the textbook. Students will achieve objective (2) by
+    completing a research and outline assignment for the essay, writing
+    an argumentative essay, participating in discussions, and completing
+    a test and an exams throughout the semester. The discussions and
+    writing assignments, along with your reading and lecture attendance,
+    will provide the practice needed to succeed in the tests and exams.
+
+## Important dates
+
+- Sept 4 -- First day of classes
+
+- Sept 12 -- Last day to add full course or 1st term half course
+
+- Sept 30 -- no classes (National Day for Truth and Reconciliation)
+
+- Nov 1 -- Nov 9 -- Fall Reading Week
+
+- Dec 6 -- Last day of classes
+
+- Dec 11 to 22 -- Exam Period - do not book travel plans, etc., until
+  the final schedule is posted
+
+## Course texts: what must you read
+
+Note: UWO Bookstore sells physical and electronic copies, so please the
+Bookstore's website for the ebooks options to purchase the ebook.
+
+We are using the editions listed below so if you use older or other
+editions, please note you are still responsible for the materials in the
+edition we have listed below.
+
+Brodie, M. Janine, Sandra Rein, and Malinda S. Smith. 2022. *Critical
+Concepts: an Introduction to Politics*. Sixth edition. Toronto: Oxford
+University Press.
+
+<https://bookstore.uwo.ca/textbook-search?campus=UWO&term=W2025A&courses%5B0%5D=001_UW/POL1026F>
+
+## Learning outcomes: what is this course teaching you?
+
++-----------------+----------------------------------------------------+
+| Assignment      | Learning outcomes                                  |
++=================+====================================================+
+| Participation   | - Recognize the importance of engaging colleagues' |
+|                 |   ideas                                            |
+|                 |                                                    |
+|                 | - Communicate verbally in an analytic and clear    |
+|                 |   fashion                                          |
+|                 |                                                    |
+|                 | - An awareness of the extent and limits of one's   |
+|                 |   own knowledge, informed by exposure to           |
+|                 |   information, concepts, theories and experience   |
++-----------------+----------------------------------------------------+
+| Essays          | - Organizational skills that contribute to         |
+|                 |   scholarly and personal independence              |
+|                 |                                                    |
+|                 | - Well-developed research skills, such as those    |
+|                 |   articulated by the Political Science Research    |
+|                 |   Competency Guidelines adopted by the Association |
+|                 |   of College and Research Libraries                |
+|                 |                                                    |
+|                 | - Communicate in written format in an analytic and |
+|                 |   clear fashion                                    |
+|                 |                                                    |
+|                 | - Situate knowledge historically and contextually  |
+|                 |                                                    |
+|                 | - Assess evidence critically                       |
+|                 |                                                    |
+|                 | - Ethical dimensions of problem identification and |
+|                 |   methodology                                      |
++-----------------+----------------------------------------------------+
+| Lectures and    | - Knowledge of diverse theories and approaches     |
+| Tests and Exams |                                                    |
+|                 | - Understanding of methods; knowledge of           |
+|                 |   epistemological approaches and ontological       |
+|                 |   diversity                                        |
+|                 |                                                    |
+|                 | - Communicate in written format in an analytic and |
+|                 |   clear fashion                                    |
+|                 |                                                    |
+|                 | - Situate knowledge historically and contextually  |
+|                 |                                                    |
+|                 | - Assess evidence critically                       |
+|                 |                                                    |
+|                 | - How power, culture, and history condition        |
+|                 |   knowledge formation                              |
+|                 |                                                    |
+|                 | - Understand the ambiguity, uncertainty,           |
+|                 |   ubiquitous and controversial nature of politics  |
++-----------------+----------------------------------------------------+
+
+## Methods of Evaluation
+
+## 
+
+  -----------------------------------------------------------------------
+  You will be evaluated as follows:
+  -----------------------------------------------------------------------
+  October Test
+
+  Essay bibliography and outline
+
+  Essay
+
+  December Exam
+  -----------------------------------------------------------------------
+
+**Necessary conditions for passing this course or receiving your earned
+grade:** you must write the December Exam (not necessarily pass them),
+and submit the Essay for the course (not necessarily earn a passing
+grade on the Essay, but your Essay must be assessed as minimally
+acceptable effort to complete a proper essay). If you do not meet the
+aforementioned conditions, then you will receive a failing grade (not
+your earned grade based on completed assignments) for the course and not
+receive credit for this course. Contact Nig Narain (nnarain@uwo.ca) if
+you have any questions.
+
+## Attendance Bonus (5% on Final Exam)
+
+Students will receive a 0.625% bonus on their final exam grade for every
+**Thursday** class attended (attendance must be recorded through the
+Microsoft form each week during class time). There is no attendance for
+the Tuesday class. There is a maximum of 8 classes considered to earn
+the full 5% bonus. You can check your participation through the link in
+Brightspace weekly. You cannot receive more than 100% on the final exam.
+
+## OWL Brightspace website: why should I check this regularly?
+
+To enter our OWL website, go to https://westernu.brightspace.com/ to
+look for your "POLISCI 1026" tab. On this website, you will find
+information about the class, grades, links to other resources, and more.
+In particular, Lecture Videos, non-textbook readings, etc., will be
+posted on the OWL site. All course announcements, etc., will come from
+the OWL site. Please do check the OWL site regularly and constantly. Do
+not turn off notifications for announcements, students are responsible
+for all notifications from this course.
+
+"All course material will be posted to OWL Brightspace:
+https://westernu.brightspace.com/. If students need assistance with OWL
+Brightspace, they can seek support on the OWL Brightspace Help
+https://wts.uwo.ca/helpdesk page. Alternatively, they can contact the
+Western Technology Services Helpdesk https://wts.uwo.ca/helpdesk online
+or by phone at 519-661-3800 or ext. 83800 for technical support. Current
+versions of all popular browsers (e.g., Safari, Chrome, Edge, Firefox)
+are supported with OWL Brightspace; what is most important is that you
+update your browser frequently to ensure it is current. All JavaScript
+and cookies should be enabled." (UWO guidance to students)
+
+Note that the latest, most-up-to-date information is posted on the OWL
+site, so though dates, evaluations, policies, etc., are stated in this
+Course Outline, **it is your responsibility to check the OWL site** for
+updated and most current information.
+
+## Schedule of Lectures and Assignments Due Dates: What questions are we covering? What do we read? What Academic Considerations are applicable?
+
+**TERM 1: September -- December**
+
+**Week 0: Sep 4**
+
+- Intro to the Course
+
+**Week 1: Sep 9 -- 11**
+
+- Lecture: Governing Ideas and Enduring Ideas
+
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 1 - Governing Ideas ***and*** Chapter 2 --
+    Emerging Ideas
+
+**Week 2: Sep 16 -- 18**
+
+- Lecture: Democratic Ideas
+
+- Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+  Politics 6e* - Chapter 3 - Democratic Ideas
+
+**Week 3: Sep 23 -- 25**
+
+- Lecture: Radical Ideas
+
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 4 -Radical Ideas (continued from last week)
+
+**September 30 - no class** (National Day for Truth and Reconciliation)
+
+**Week 4: Oct 7 - 9**
+
+- Lecture: Non-Western Ideas
+
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 5 - Non-Western Ideas
+
+**Week 5: Oct 14 -- 16**
+
+- Lecture: Indigenous peoples, Land and the UNDRIP
+
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 6 - Indigenous peoples, land and the UNDRIP
+
+**Sun Oct 18? \> Term 1 October Test via OWL site**
+
+- *ONLY covers Weeks 1-4 of Lectures*
+
+- Further details, rules, directions, cautions, etc., will be provided
+  on the OWL site
+
+- This Test is a Designated Assessment exemption from "Undocumented
+  Absence" Academic Consideration:
+
+  - October Test is designated as exempt from "undocumented absence"
+    academic consideration
+
+  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+    absence? \... Undocumented absences also cannot be used for the
+    "designated assessment" in each course."
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+  - Per Senate regulation "Policy on Academic Consideration --
+    Undergraduate Students in First Entry Programs", under "Policy":
+    "Instructors may designate one assessment per half-course weight as
+    requiring formal supporting documentation. In such cases, the
+    instructor must provide the student with another opportunity to
+    demonstrate proficiency in the content evaluated by the missed
+    assessment within the time frame of the course.", and note that our
+    course is a full-year course so each term is 'half-course weight'
+    <https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf>)
+
+- Documented Absence Academic Consideration: to request academic
+  consideration for your medical, varsity sport, or other documented
+  matter, you should read the Registrar's Academic Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration to write the Make-up Test
+
+- If you don't have documented grounds for academic consideration, e.g.
+  you slept-in or you forgot about the test, you may write the Make-up
+  Test with a --10% penalty applied
+
+- Make-up Test dates:
+
+  - Thu Oct
+
+  - Thu Oct
+
+  - Fri Oct
+
+- Those students who are accommodated with exam accommodations through
+  Accessible Education (AE) should check the OWL site for your
+  particular AE test details
+
+**Week 6: Oct 21 -- 23**
+
+- Lecture: The Politics of Race
+
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 7 - The Politics of Race
+
+**Week 7: Oct 28 -- 30**
+
+- Lecture: Genders and sexualities
+
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 8 - Genders and sexualities
+
+**READING WEEK NOV 1 - 9**
+
+**Mon Nov 4^th^? : Essay Bibliography and Outline (EBO) assignment Due
+via OWL site**\
+**(no penalty applied if submitted by Fri Nov 8 11:55pm)**
+
+- [Concerning "Undocumented Absence" Academic
+  Consideration:]{.underline}
+
+  - You do not need to submit a request for academic consideration if
+    the EBO deadline cannot be met (self-attestation or otherwise)
+
+  - This is because an extension will be granted automatically, without
+    penalty, to Friday, November 8, for those experiencing extenuating
+    circumstances (e.g., illness, bereavement, etc.) that prevent
+    submission on the Due Date of Monday, November 4
+
+  - TO BE CLEAR: *this does not mean the EBO is "really" due on Friday,
+    November 8*. It is due on Monday, November 4, but after Friday,
+    November 8 11:55pm, the EBO is considered late, but we will still
+    accept submission until Friday, November 15 with a late penalty of
+    -10% applied
+
+  - Again, a request for academic consideration will not be considered
+    if submitting between Friday, November 8 and Friday, November 15,
+    because an extension was already granted, and the EBO is now late
+
+  - Per Senate Regulations: "An instructor may deny academic
+    consideration relating to the timeframe submission of work where
+    there is already flexibility in the submission timeframe (e.g.,
+    72-hour submission window). This assessment flexibility must be
+    indicated on the course outline"
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+    absence? When flexibility in assessment exists and is clearly stated
+    on the course outline, both undocumented absences and academic
+    consideration requests with documentation may be denied."
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+- If you have significant extenuating documented circumstances, you
+  should read the Registrar's Academic Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration
+
+- If you have documented grounds for a late submission extension beyond
+  November 15, in that case, you should read the Registrar's Academic
+  Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration
+
+- Those students who are accommodated with flexible deadlines through
+  Accessible Education (AE) should check the OWL site for your
+  particular AE dates and other details and notes
+
+**Week 8: Nov 11 - 13**
+
+- Lecture: Ableism and Disability: A Peculiar Politics
+
+  - Reading:
+
+  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
+    6e* - Chapter 9 - Disability - A peculiar politics
+
+**Week 9: Nov 18 -- 20**
+
+- Lecture: Citizenship and Borders
+
+<!-- -->
+
+- Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+  Politics 6e* - Chapter 10 - Citizenship and borders
+
+**Week 10: Nov 25 - 27**
+
+- Lecture: Digital Technology and Democracy
+
+  - Reading:
+
+  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
+    6e* - Chapter 14: \' it\'s kinda complicated\': Digital technology
+    and democracy
+
+**Week 11: Dec 2 - 4**
+
+- Lecture: International Relations
+
+  - Reading:
+
+  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
+    6e - Chapter 16 - International Relations*
+
+**Week 12: Dec 9**
+
+- Lecture: Political Ecology
+
+  - Reading:
+
+  - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
+    6e* - Chapter 19: Political Ecology
+
+**Essay assignment Due via OWL site**\
+**(no penalty applied if submitted by \_\_\_\_\_\_\_\_\_\_ 11:55pm)**
+
+- Concerning "Undocumented Absence" Academic Consideration:
+
+  - You do not need to submit a request for academic consideration if
+    this Essay deadline cannot be met (self-attestation or otherwise)
+
+  - This is because an extension will be granted automatically, without
+    penalty, to Friday, February 28, for those experiencing extenuating
+    circumstances (e.g., illness, bereavement, etc.) that prevent
+    submission on the Due Date of Monday, February 24
+
+  - TO BE CLEAR: this does not mean the Essay is "really" due on Friday,
+    February 28; it is due on Monday, February 24, but after Friday,
+    February 28 11:55pm, the Essay is considered late, but we will still
+    accept submission until Friday, March 7, with a late penalty of -10%
+    applied
+
+  - Again, a request for academic consideration will not be considered
+    if submitting between Monday, February 24, and Friday, March 7,
+    because an extension was already granted, and the Essay is now late
+
+  - Per Senate Regulations: "An instructor may deny academic
+    consideration relating to the timeframe submission of work where
+    there is already flexibility in the submission timeframe (e.g.,
+    72-hour submission window). This assessment flexibility must be
+    indicated on the course outline"
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+    absence? When flexibility in assessment exists and is clearly stated
+    on the course outline, both undocumented absences and academic
+    consideration requests with documentation may be denied"
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+- If you have significant extenuating documented circumstances, you
+  should read the Registrar's Academic Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration
+
+- If you have documented grounds for a late submission beyond March 7,
+  in that case, you should read the Registrar's Academic Consideration
+  page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration
+
+- Those students who are accommodated with flexible deadlines through
+  Accessible Education should check the OWL site for your particular AE
+  dates and other details and notes
+
+**Term 1 December Exam: 2-hours, Date & Time set by Registrar, during
+Official Exam Period**
+
+- ONLY covers Weeks 5-12 Lectures
+
+- Note: this is during the Official Exam Period, so per the Office of
+  the Registrar: "When CAN\'T I use an undocumented absence?
+  Undocumented absences cannot be used for examinations scheduled by the
+  Office of the Registrar during official examination periods (including
+  take-home final exams and December mid-year exams for full courses)"
+  (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+- Documented Absence Academic Consideration: to request academic
+  consideration for your medical, varsity sport, or other documented
+  matter, you should read the Registrar's Academic Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration to write the Make-up Exam
+
+- If you don't have documented grounds for academic consideration, e.g.
+  you slept-in or you forgot about the exam, you may write the Make-up
+  Exam with a --10% penalty applied
+
+- Make-up Exam dates will be posted on the OWL site after the Registrar
+  sets the date for the Regularly Scheduled Exam (we do not permit
+  writing the exam *ahead* of the Regularly Scheduled Exam date) with
+  write options in December and early January
+
+- Those students who are accommodated with exam accommodations through
+  Accessible Education (AE) should check the OWL site for your
+  particular AE exam details
+
+## Important information and rules about the course: what are some general rules governing this course
+
+- [Necessary conditions for passing this course]{.underline}: see under
+  "Evaluations" above
+
+- [Pre-requisites and Anti-Requisites]{.underline}:\
+  *Prerequisites*: none\
+  *Anti-requisites*: the former Politics 020E and 021F-026G, Politics
+  1020E 002, Politics 1020E 003, Politics 1020E 200, Politics 1020E 201,
+  Politics 1021F/G-1026F/G\
+  Please Note: You are responsible for ensuring that you have
+  successfully completed all course prerequisites, and that you have not
+  taken an anti-requisite course. Lack of prerequisites may not be used
+  as a basis for an appeal. If you are found to be ineligible for a
+  course, you may be removed from it at any time and you will receive no
+  adjustment to your fees. This decision cannot be appealed. If you find
+  that you do not have the course prerequisites, it is in your best
+  interest to drop the course well before the end of the add/drop
+  period. Your prompt attention to this matter will not only help
+  protect your academic record but will ensure that spaces become
+  available for students who require the course in question for
+  graduation." -- *Office of the Dean, Faculty of Social Science*
+
+> [USE your UWO/Western email account]{.underline}: Send and receive
+> emails by the UWO email system so that your information is
+> confidential and secure. Also, your non-UWO email may get caught in
+> spam, etc., and may not get a response or review.
+
+- [Statement on Use of Electronic Devices]{.underline}: NO electronics
+  devices are allowed during tests and examinations unless specified
+  differently.
+
+- [Statement on Academic Offences]{.underline}: "Scholastic offences are
+  taken seriously and students are directed to read the appropriate
+  policy, specifically, the definition of what constitutes a Scholastic
+  Offence, at the following Web site:
+  <https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
+
+- [Concerning Turnitin]{.underline}: "All required papers may be subject
+  to submission for textual similarity review to the commercial
+  plagiarism detection software under license to the University for the
+  detection of plagiarism. All papers submitted for such checking will
+  be included as source documents in the reference database for the
+  purpose of detecting plagiarism of papers subsequently submitted to
+  the system. Use of the service is subject to the licensing agreement,
+  currently between The University of Western Ontario and Turnitin.com
+  (<http://www.turnitin.com>)."\
+  Also check:
+  <http://www.westerncalendar.uwo.ca/PolicyPages.cfm?PolicyCategoryID=1&command=showCategory&SelectedCalendar=Live&ArchiveID>
+
+- [Multiple-Choice Exam format checking software]{.underline}:
+  "Computer-marked multiple-choice tests and/or exams may be subject to
+  submission for similarity review by software that will check for
+  unusual coincidences in answer patterns that may indicate cheating."\
+  Also check:
+  <http://www.westerncalendar.uwo.ca/PolicyPages.cfm?PolicyCategoryID=1&command=showCategory&SelectedCalendar=Live&ArchiveID>
+
+- [Support Services]{.underline}:\
+  Please visit the Social Science Academic Counselling webpage for
+  information on adding/dropping courses, academic considerations for
+  absences, appeals, exam conflicts, and many other academic related
+  matters: Academic Counselling - Western University (uwo.ca).\
+  Students who are in emotional/mental distress should refer to Mental
+  Health@Western (<https://uwo.ca/health/>) for a complete list of
+  options about how to obtain help.\
+  Western is committed to reducing incidents of gender-based and sexual
+  violence and providing compassionate support to anyone who has gone
+  through these traumatic events. If you have experienced sexual or
+  gender-based violence (either recently or in the past), you will find
+  information about support services for survivors, including emergency
+  contacts at
+  <https://www.uwo.ca/health/student_support/survivor_support/get-help.html>.
+  To connect with a case manager or set up an appointment, please
+  contact <support@uwo.ca>.\
+  Please contact Accessible Education at
+  <http://academicsupport.uwo.ca/accessible_education/index.html> if you
+  have any questions regarding accommodations.\
+  Learning-skills counsellors at the Learning Development and Success
+  Centre (<https://learning.uwo.ca>) are ready to help you improve your
+  learning skills. They offer presentations on strategies for improving
+  time management, multiple-choice exam preparation/writing, textbook
+  reading, and more. Individual support is offered throughout the
+  Fall/Winter terms in the drop-in Learning Help Centre, and year-round
+  through individual counselling.\
+  Western University is committed to a thriving campus as we deliver our
+  courses in the mixed model of both virtual and face-to-face formats.
+  We encourage you to check out the Digital Student Experience website
+  to manage your academics and well-being:
+  <https://www.uwo.ca/se/digital/>. Additional student-run support
+  services are offered by the USC, <https://westernusc.ca/services/>.
+
+- [Respectful conduct and engagement]{.underline}: Note conduct should
+  accord with the University of Western Ontario Student Code of Conduct,
+  which can be accessed as a PDF from:
+  <http://studentexperience.uwo.ca/student_experience/studentconduct.html>.\
+  In general, please be respectful of and courteous to yourself, me, our
+  TAs, your class colleagues, and others during discussions and other
+  course engagements.
+
+Religious Accommodation
+
+When conflicts with a religious holiday that requires an absence from
+the University or prohibits certain activities, students should request
+an accommodation for their absence in writing to the course instructor
+and/or the Academic Advising office of their Faculty of Registration.
+This notice should be made as early as possible but not later than two
+weeks prior to the writing or the examination (or one week prior to the
+writing of the test).
+
+Please visit the Diversity Calendars posted on our university's EDID
+website for the recognized religious holidays:
+[https://www.edi.uwo.ca](https://www.edi.uwo.ca/)
+
+Accommodation Policies
+
+Students with disabilities are encouraged to contact Accessible
+Education, which provides recommendations for accommodation based on
+medical documentation or psychological and cognitive testing. The policy
+on Academic Accommodation for Students with Disabilities can be found
+at:
+<https://www.uwo.ca/univsec/pdf/academic_policies/appeals/Academic%20Accommodation_disabilities.pdf>
+
+Academic Policies- The website for Registrar Services is
+<https://www.registrar.uwo.ca/>.
+
+In accordance with policy,
+<https://www.uwo.ca/univsec/pdf/policies_procedures/section1/mapp113.pdf>
+
+the centrally administered e-mail account provided to students will be
+considered the individual's official university e-mail address. It is
+the responsibility of the account holder to ensure that e-mail received
+from the University at their official university address is attended to
+in a timely manner.
+
+Scholastic offences are taken seriously and students are directed to
+read the appropriate policy, specifically, the definition of what
+constitutes a Scholastic Offence, at the following Web site:
+
+<https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
+
+All required papers may be subject to submission for textual similarity
+review to the commercial plagiarism detection software under license to
+the University for the detection of plagiarism. All papers submitted for
+such checking will be included as source documents in the reference
+database for the purpose of detecting plagiarism of papers subsequently
+submitted to the system. Use of the service is subject to the licensing
+agreement, currently between The University of Western Ontario and
+Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
+
+# Zoom Etiquette (for office hours)
+
+1.  Please pay attention to video, microphone and screensharing
+    settings. Keep chat rooms and images appropriate for an academic
+    setting. Any inappropriate actions, imagery, discussion or chat
+    messages may result in your removal from the meeting at my
+    discretion. Audio recordings may be available as an alternative to
+    synchronous discussion.
+
+2.  Please test all WIFI, video and audio before the meetings. Zoom
+    buttons for raising your hand, responding yes and no, asking host to
+    adjust speed, requesting a break and more.
+
+3.  Please be conscious of your speaking time and that of others, if you
+    are continuing in a manner that is not fair to your peers, I reserve
+    the right to intervene and put us back on a more focused discussion.
+
+# Recording synchronous content (office hours or other meetings)
+
+Any remote learning sessions for this course **may** be recorded. The
+data captured during these recordings may include your image, voice
+recordings, chat logs and personal identifiers (name displayed on the
+screen). The recordings may be used for educational purposes related to
+this course, including evaluations. The recordings may be disclosed to
+other individuals participating in the course for their private or group
+study purposes. Please contact the instructor if you have any concerns
+related to session recordings. Participants in this course are not
+permitted to record the sessions, except where recording is an approved
+accommodation, or the participant has the prior written permission of
+the instructor.
+
+# Non-medical and medical accommodation
+
+Non-medical absences from class, late essays or assignments, will be
+subject to a 10% penalty per day (weekends included). All assignments
+must be completed to receive course credit. Further information is found
+in the Policy on Accommodation for Medical Illness
+(<https://studentservices.uwo.ca/secure/index.cfm>).
+
+Accommodation for medical illness of work worth less than 10% of the
+total course grade will require medical documentation. If documentation
+is required for either medical or non-medical academic accommodation,
+then such documentation must be submitted directly to the appropriate
+Faculty Dean\`s office and [not]{.underline} to the instructor. Only the
+Dean\`s office can determine if accommodation is warranted.
+
+# Statement on Academic Offences
+
+Scholastic offences are taken seriously, and students are directed to
+read the appropriate policy, specifically, the definition of what
+constitutes a Scholastic Offence, at the following Web site:
+<http://www.uwo.ca/univsec/handbook/appeals/scholastic_discipline_undergrad.pdf>
+.
+
+"All required papers may be subject to submission for textual similarity
+review to the commercial plagiarism detection software under license to
+the University for the detection of plagiarism. All papers submitted for
+such checking will be included as source documents in the reference
+database for the purpose of detecting plagiarism of papers subsequently
+submitted to the system. Use of the service is subject to the licensing
+agreement, currently between The University of Western Ontario and
+Turnitin.com ( <http://www.turnitin.com> )."
+
+## Guidelines for Success in Class
+
+Since there seldom are definitive answers to the questions we will be
+asking about political power and participation, and much of what you
+will learn in this course will be enhanced by the ideas and perspectives
+of your colleagues. But for this to work, everyone must participate
+fully and constructively. Be mindful of the following points, and you
+will be successful:
+
+- Come to all classes having read the assigned readings for that week
+  and prepared to participate in discussion. It is useful to remember
+  that some week's readings may be more comfortable relevant to your
+  research interests than others and focusing on readings that are most
+  salient to your interests will ensure maximum usefulness in the
+  course.
+
+- Participate in discussions, but do not over-participate. Everyone must
+  be given an opportunity to take part in discussions. Constructive
+  participation involves the raising of *relevant* points and ideas.
+  Online participation will be considered as well in participation
+  marks.
+
+- Demonstrate respect for the ideas presented by others at all times.
+  This is essential to open discussion and the free exchange of ideas.
+  This does not mean that you must agree with others. Informal debate
+  will teach you even more about your own position while simultaneously
+  exposing you to different viewpoints. Make use of such opportunities,
+  but no disrespectful behavior will be tolerated.
+
+## Policy on communication
+
+I strive to be accessible and responsive to student inquiries. However,
+repeated or persistent e-mails/texts/phone calls will overload my
+capacity to respond to all students equally. As such, I reserve the
+right to answer initial questions but forego multiple responses or
+inquiries for a 24-hour cool-down period. I also may take longer to
+respond to communications during non-working hours, holidays, and
+weekends. I appreciate your understanding in this matter.
+
+## Policy on Children in the classroom[^1]
+
+"It is my belief that if we want women in academia, that we should also
+expect children to be present in some form. Currently, the university
+does not have a formal policy on children in the classroom. The policy
+described here is thus, a reflection of my own beliefs and commitments
+to student, staff and faculty parents.
+
+All exclusively breastfeeding babies are welcome in class as often as is
+necessary to support the breastfeeding relationship. Because not all
+women can pump sufficient milk, and not all babies will take a bottle
+reliably, I never want students to feel like they have to choose between
+feeding their baby and continuing their education. You and your nursing
+baby are welcome in class anytime.
+
+For older children and babies, I understand that minor illnesses and
+unforeseen disruptions in childcare often put parents in the position of
+having to choose between missing class to stay home with a child and
+leaving him or her with someone you or the child does not feel
+comfortable with. While this is not meant to be a long-term childcare
+solution, occasionally bringing a child to class in order to cover gaps
+in care is perfectly acceptable.
+
+I ask that all students work with me to create a welcoming environment
+that is respectful of all forms of diversity, including diversity in
+parenting status.
+
+In all cases where babies and children come to class, I ask that you sit
+close to the door so that if your little one needs special attention and
+is disrupting learning for other students, you may step outside until
+their need has been met. Non-parents in the class, please reserve seats
+near the door for your parenting classmates.
+
+Finally, I understand that often the largest barrier to completing your
+coursework once you become a parent is the tiredness many parents feel
+in the evening once children have finally gone to sleep. The struggles
+of balancing school, childcare and often another job are exhausting! I
+hope that you will feel comfortable disclosing your student-parent
+status to me. This is the first step in my being able to accommodate any
+special needs that arise. While I maintain the same high expectations
+for all student in my classes regardless of parenting status, I am happy
+to problem solve with you in a way that makes you feel supported as you
+strive for school-parenting balance. Thank you for the diversity you
+bring to our classroom!"
+
+## Policy on non-service animals in the classroom 
+
+Western University established a [Pets and Therapy Animals policy in May
+2020](https://www.uwo.ca/univsec/pdf/policies_procedures/section1/mapp156.pdf)
+that limits the presence of pets in campus buildings. Service and
+therapy animals are permitted inside all Western locations, in
+accordance with accessibility policies, however animals for
+companionship are not allowed.
+
+## Religious/Cultural Observance 
+
+Persons who have religious or cultural observances that coincide with
+this class should let the instructor know in writing (by e-mail for
+example) by Week 4. I strongly encourage you to honor your cultural and
+religious holidays! However, if I do not hear from you by Week 4, I will
+assume that you plan to attend all class meetings.
+
+## Point of View
+
+The readings, class lectures, and my comments in class will suggest a
+particular point of view. This perspective is my own and does not have
+to be yours! I encourage you to disagree with the ideas in the readings
+and lectures as well as the perspectives of your colleagues in the
+course. Please express yourself! A significant part of a university
+education is learning about the complexity of various issues; therefore,
+it is important that we listen and respect one another but we do not
+have to agree. A richer discussion will occur when a variety of
+perspectives are presented in class for discussion.
+
+## Discussion Guidelines[^2]
+
+In our structured and unstructured discussions and dialogues, we also
+will have many opportunities to explore some challenging, high-stakes
+issues and increase our understandings of different perspectives. Our
+conversations may not always be easy; we sometimes will make mistakes in
+our speaking and our listening; sometimes we will need patience or
+courage or imagination or any number of qualities in combination to
+engage our texts, our classmates, and our own ideas and experiences.
+Always we will need respect for others. Thus, an important secondary aim
+of our course necessarily will be for us to increase our facility with
+the sometimes-difficult conversations that arise inside issues of social
+inequality as we deepen our understandings of multiple perspectives --
+whatever our backgrounds, experiences, or positions.
+
+## Policy on the use of LLMs (AI, ChatGPT, Bard, etc) in the classroom[^3] 
+
+Unless otherwise noted during class activities, you may only use ChatGPT
+or any other Generative technology to *aid* or *nuance* your thinking,
+communication, and learning; but not to *replace* or *subvert* it. See
+the table below for some examples of allowable and non-allowable uses of
+Generative technology in this class (NOTE: This is not an exhaustive
+list of examples). Generative technology may be used to assist in
+assessment throughout the course, if you wish to opt out of the use of
+generative technology, please let me know.
+
+How generative technology may be used in assessment:
+
+1\. Pre-assessment - to provide structural or overall feedback before I
+begin any grading.
+
+2\. Applying rubric - using the rubric from the course outline to apply
+to submitted assignments to assess the degree of compliance before or
+during I complete any grading.
+
+3\. During assessment - to double-check the veracity of claims being
+made about your submission during my assessment of your material.
+
+4\. Post assessment - to find additional examples or instances in your
+submissions to assist in my feedback.
+
+5\. Refining assessment - suggesting forms of constructive criticism,
+actionable items, and overarching themes or issues to assist in your
+assessment.
+
+How generative technology will NOT be used in assessment:
+
+No grades will be assigned solely with generative technology at any
+point in this course. Assessment will always be done by the instructor
+in accordance with the course outlines, because of the unpredictability
+and unreliability of current generative technology.
+
+No personal or individual identifiers will ever be included in the
+assessment of material by any generative technology.
+
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Example of   | **Why is this Allowed?**                                                                                                 | **Things to Keep in Mind**                                                        |
+| an Allowable   |                                                                                                                          |                                                                                   |
+| Use**          |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Prompting      | This might enhance your thinking by **exposing you to other ideas** than you might come up with on your own.             | It is important to start with **brainstorming your own ideas first** (to aid your |
+| Generative     |                                                                                                                          | creative thinking), rather than letting Generative technology do that initial     |
+| technology to  |                                                                                                                          | work for you. Also, beware that Generative technology might introduce biases      |
+| **generate**   |                                                                                                                          | (tends towards liberal consensus) into the topic when prompted to generate ideas. |
+| **ideas** for  |                                                                                                                          |                                                                                   |
+| a class        |                                                                                                                          |                                                                                   |
+| project.       |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using          | Generative technology writing technologies, like ChatGPT, can provide ideas for how to revise a sentence or word, begin  | Make sure to **get your [thoughts written down                                    |
+| Generative     | a paragraph, or express your thinking more clearly. Used in this way, Generative technology might support the            | first](https://www.criticalinkling.com/p/pedagogy-thinking-and-the-first-draft)** |
+| technology for | development of your communication skills.                                                                                | rather than asking Generative technology to write the first draft. Writing and    |
+| writing        |                                                                                                                          | thinking are interconnected processes, if you prompt Generative technology to     |
+| support (e.g., |                                                                                                                          | write the first draft for you, you are not actively engaging in thinking about    |
+| to improve     |                                                                                                                          | the material.                                                                     |
+| **writing      |                                                                                                                          |                                                                                   |
+| quality,       |                                                                                                                          | NOTE: We also have a wonderful [Writing Center on                                 |
+| clarity, and   |                                                                                                                          | campus](https://writing.uwo.ca/) that provides writing support!                   |
+| expression**). |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using          | Generative technology can offer study tips, provide example text/quiz practice questions, design a personalized study    | Generative technology tools are known for making up information and presenting    |
+| Generative     | guide, design flashcards, give directions for how to complete an assignment, create learning simulations and interactive | biased output. Make sure to double-check the accuracy, credibility, and           |
+| technology as  | scenarios to help you think more deeply about the class content, and provide a rubric so you can self-assess your own    | reliability of any AI-generated information that you use to support your studying |
+| a **study or   | work.                                                                                                                    | or assignment completion.                                                         |
+| assignment     |                                                                                                                          |                                                                                   |
+| aid.**         |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Prompting      | Generative technology could potentially be used in ways that reduce cognitive load (see [Cognitive Load                  | If Generative technology are used in ways that reduce [germane                    |
+| Generative     | Theory](https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf)), | load](https://www.sciencedirect.com/science/article/pii/S0747563224002541) (the   |
+| technology to  | such as breaking material into smaller chunks, summarizing and simplifying material, providing an outline of an article  | cognitive effort required to make connections between new information and prior   |
+| help **make    | to support pre-reading, translating text into your native language, making content more accessible, scaffolding          | knowledge) it can negatively impact learning. For example, if you ask a           |
+| information    | learning, and providing concrete examples.                                                                               | Generative technology technology to automatically summarize a complex academic    |
+| easier to      |                                                                                                                          | article instead of reading and summarizing it yourself, you will miss out on the  |
+| understand**   |                                                                                                                          | opportunity to fully engage with, and critically examine, the author's ideas      |
+| (e.g.,         |                                                                                                                          | (read: [No One is Talking About AI\'s Impact on                                   |
+| explaining     |                                                                                                                          | Reading](https://marcwatkins.substack.com/p/no-one-is-talking-about-ais-impact)). |
+| technical or   |                                                                                                                          | This is a critical skill for college, the workplace, and engaged citizenship!     |
+| academic       |                                                                                                                          |                                                                                   |
+| jargon,        |                                                                                                                          |                                                                                   |
+| providing      |                                                                                                                          |                                                                                   |
+| concrete       |                                                                                                                          |                                                                                   |
+| examples of an |                                                                                                                          |                                                                                   |
+| abstract       |                                                                                                                          |                                                                                   |
+| idea).         |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Using AI and   | Generative technology can be used to make learning more accessible and digitally accessible for differently abled        | If you have a self-identified or registered disability, consider how Generative   |
+| Generative     | individuals (e.g., transcripts of recorded audio, closed captions for videos, alt text to describe images for            | technology tools might aid your thinking, communication, and learning.            |
+| technology is  | blind/visually impaired individuals, interpretations of complex visual data).                                            |                                                                                   |
+| recommended    |                                                                                                                          |                                                                                   |
+| **due to       |                                                                                                                          |                                                                                   |
+| different      |                                                                                                                          |                                                                                   |
+| abilities.**   |                                                                                                                          |                                                                                   |
++----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
+
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| **Example of a  | **Why is this NOT Allowed?**                                                                                               |
+| Non-Allowable   |                                                                                                                            |
+| Use**           |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prompting a     | Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building   |
+| Generative      | community and relationships as well as actively engaging in your own thinking and learning to communicate with others.     |
+| technology      | Using Generative technology for this activity subverts both the social and learning goals of the activity.                 |
+| technology to   |                                                                                                                            |
+| **respond to a  |                                                                                                                            |
+| discussion      |                                                                                                                            |
+| forum prompt**  |                                                                                                                            |
+| for you.        |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Using a         | Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best |
+| Generative      | to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your      |
+| technology      | learning and the opportunity to develop your creative communication skills.                                                |
+| technology      |                                                                                                                            |
+| (e.g.,          |                                                                                                                            |
+| Slidesgo) to    |                                                                                                                            |
+| **design a      |                                                                                                                            |
+| class           |                                                                                                                            |
+| presentation**  |                                                                                                                            |
+| for you.        |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Modifying       | Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn      |
+| AI-generated    | more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because    |
+| work slightly   | the focus is on minor adjustments rather than truly understanding the material.                                            |
+| to **make it    |                                                                                                                            |
+| appear as if    |                                                                                                                            |
+| you created     |                                                                                                                            |
+| it**.           |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Prompting       | Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis   |
+| Generative      | output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm        |
+| technology to   | Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using        |
+| **analyze data  | Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or |
+| for you** and   | math machines, they are predictability machines (they guess which words go together to make the most plausible             |
+| submitting the  | human-sounding response).                                                                                                  |
+| data analysis   |                                                                                                                            |
+| as your own.    |                                                                                                                            |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+| Copying         | Please read "[The Case For Not Citing Chatbots As Information                                                              |
+| AI-generated    | Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)" |
+| text word for   | and "[Generative AI Has an Intellectual Property                                                                           |
+| word into your  | Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original       |
+| written work,   | source to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and         |
+| but **citing it | learning about that topic and you are giving credit to human authors/artists.                                              |
+| as written by   |                                                                                                                            |
+| AI**.           | However, if you prompt a Generative technology technology to create an original source of text or media -- something that  |
+|                 | cannot be traced back to an original source (e.g., a Taylor Swift rendition of the Declaration of Independence) -- you can |
+|                 | write "This text was generated by ChatGPT \[or insert another Generative technology technology\] in a footnote."           |
++-----------------+----------------------------------------------------------------------------------------------------------------------------+
+
+You are responsible for the information you submit based on an AI query
+(for instance, that it does not violate intellectual property laws, or
+contain misinformation or unethical content). Any assignment that is
+found to have used generative AI tools in unauthorized ways can result
+in: a failure to receive full grades, the need to resubmit the
+assignment, need to orally present the assignment in office hours, or a
+failure to complete the requirements of the course. When in doubt about
+permitted usage, please ask for clarification.
+
+**APPENDIX TO UNDERGRADUATE COURSE OUTLINES**
+
+**DEPARTMENT OF POLITICAL SCIENCE**
+
+**Prerequisite checking - the student's responsibility**
+
+\"Unless you have either the requisites for this course or written
+special permission from your Dean to enroll in it, you may be removed
+from this course and it will be deleted from your record. This decision
+may not be appealed. You will receive no adjustment to your fees in the
+event that you are dropped from a course for failing to have the
+necessary prerequisites.\"
+
+**Essay course requirements**
+
+With the exception of 1000-level courses, most courses in the Department
+of Political Science are essay courses. Total written assignments
+(excluding examinations) will be at least 3,000 words in Politics 1020E,
+at least 5,000 words in a full course numbered 2000 or above, and at
+least 2,500 words in a half course numbered 2000 or above.
+
+**Use of Personal Response Systems ("Clickers")**
+
+\"Personal Response Systems (\"clickers\") may be used in some classes.
+If clickers are to be used in a class, it is the responsibility of the
+student to ensure that the device is activated and functional. Students
+must see their instructor if they have any concerns about whether the
+clicker is malfunctioning.
+
+Students must use only their own clicker. If clicker records are used to
+compute a portion of the course grade:
+
+- the use of somebody else's clicker in class constitutes a scholastic
+  offence,
+
+- the possession of a clicker belonging to another student will be
+  interpreted as an attempt to commit a scholastic offence.\"
+
+**Security and Confidentiality of Student Work** (refer to current
+Western Academic Calendar
+
+(http://www.westerncalendar.uwo.ca/)
+
+\"Submitting or Returning Student Assignments, Tests and Exams - All
+student assignments, tests and exams will be handled in a secure and
+confidential manner. Particularly in this respect, leaving student work
+unattended in public areas for pickup is not permitted.\"
+
+**Duplication of work**
+
+Undergraduate students who submit similar assignments on closely related
+topics in two different courses must obtain the consent of both
+instructors prior to the submission of the assignment. If prior approval
+is not obtained, each instructor reserves the right not to accept the
+assignment.
+
+**Grade adjustments**
+
+In order to ensure that comparable standards are applied in political
+science courses, the Department may require instructors to adjust final
+marks to conform to Departmental guidelines.
+
+**Academic Offences**
+
+\"Scholastic offences are taken seriously and students are directed to
+read the appropriate policy, specifically, the definition of what
+constitutes a Scholastic Offence, at the following Web site:
+
+http://www.uwo.ca/univsec/handbook/appeals/scholoff.pdf .\"
+
+**Submission of Course Requirements**
+
+ESSAYS, ASSIGNMENTS, TAKE-HOME EXAMS MUST BE SUBMITTED ACCORDING TO
+PROCEDURES SPECIFIED BY YOUR INSTRUCTOR (I.E., IN CLASS, DURING OFFICE
+HOURS, TA\'S OFFICE HOURS) OR UNDER THE INSTRUCTOR\'S OFFICE DOOR.
+
+**THE MAIN OFFICE DOES NOT DATE-STAMP OR ACCEPT ANY OF THE ABOVE.**
+
+Note: Information excerpted and quoted above are Senate regulations from
+the Handbook of Scholarship and Academic Policy.
+http://www.uwo.ca/univsec/handbook/
+
+Students registered in Social Science should refer to
+http://counselling.ssc.uwo.ca/
+http://counselling.ssc.uwo.ca/procedures/havingproblems.asp for
+information on Medical Policy, Term Tests, Final Examinations, Late
+Assignments, Short Absences, Extended Absences, Documentation and other
+Academic Concerns. Non-Social Science students should refer to their
+home faculty's academic counselling office.
+
+**Plagiarism**
+
+\"Plagiarism: Students must write their essays and assignments in their
+own words. Whenever students take an idea, or a passage from another
+author, they must acknowledge their debt both by using quotation marks
+where appropriate and by proper referencing such as footnotes or
+citations. Plagiarism is a major academic offence.\" (see Scholastic
+Offence Policy in the Western Academic Calendar).
+
+**Plagiarism Checking:** \"All required papers may be subject to
+submission for textual similarity review to the commercial plagiarism
+detection software under license to the University for the detection of
+plagiarism. All papers submitted for such checking will be included as
+source documents in the reference database for the purpose of detecting
+plagiarism of papers subsequently submitted to the system. Use of the
+service is subject to the licensing agreement, currently between The
+University of Western Ontario and Turnitin.com ( http://www.turnitin.com
+).\"
+
+**Multiple-choice tests/exams:** \"Computer-marked multiple-choice tests
+and/or exams may be subject to submission for similarity review by
+software that will check for unusual coincidences in answer patterns
+that may indicate cheating.\"
+
+Note: Information excerpted and quoted above are Senate regulations from
+the Handbook of Scholarship and Academic Policy.
+http://www.uwo.ca/univsec/handbook/
+
+**PLAGIARISM\***
+
+In writing scholarly papers, you must keep firmly in mind the need to
+avoid plagiarism. Plagiarism is the unacknowledged borrowing of another
+writer\'s words or ideas. Different forms of writing require different
+types of acknowledgement. The following rules pertain to the
+acknowledgements necessary in academic papers.
+
+**A.** **In using another writer\'s words, you must both place the words
+in quotation marks and acknowledge that the words are those of another
+writer.**
+
+You are plagiarizing if you use a sequence of words, a sentence or a
+paragraph taken from other writers without acknowledging them to be
+theirs. Acknowledgement is indicated either by (1) mentioning the author
+and work from which the words are borrowed in the text of your paper; or
+by (2) placing a footnote number at the end of the quotation in your
+text, and including a correspondingly numbered footnote at the bottom of
+the page (or in a separate reference section at the end of your essay).
+This footnote should indicate author, title of the work, place and date
+of publication, and page number.
+
+Method (2) given above is usually preferable for academic essays because
+it provides the reader with more information about your sources and
+leaves your text uncluttered with parenthetical and tangential
+references. In either case words taken from another author must be
+enclosed in quotation marks or set off from your text by single spacing
+and indentation in such a way that they cannot be mistaken for your own
+words. Note that you cannot avoid indicating quotation simply by
+changing a word or phrase in a sentence or paragraph which is not your
+own.
+
+**B.** **In adopting other writers\' ideas, you must acknowledge that
+they are theirs.**
+
+You are plagiarizing if you adopt, summarize, or paraphrase other
+writers\' trains of argument, ideas or sequences of ideas without
+acknowledging their authorship according to the method of
+acknowledgement given in \'A\' above. Since the words are your own, they
+need not be enclosed in quotation marks. Be certain, however, that the
+words you use are entirely your own; where you must use words or phrases
+from your source, these should be enclosed in quotation marks, as in
+\'A\' above.
+
+Clearly, it is possible for you to formulate arguments or ideas
+independently of another writer who has expounded the same ideas, and
+whom you have not read. Where you got your ideas is the important
+consideration here. Do not be afraid to present an argument or idea
+without acknowledgement to another writer, if you have arrived at it
+entirely independently. Acknowledge it if you have derived it from a
+source outside your own thinking on the subject.
+
+In short, use of acknowledgements and, when necessary, quotation marks
+is necessary to distinguish clearly between what is yours and what is
+not. Since the rules have been explained to you, if you fail to make
+this distinction your instructor very likely will do so for you, and
+they will be forced to regard your omission as intentional literary
+theft. Plagiarism is a serious offence which may result in a student\'s
+receiving an \'F\' in a course or, in extreme cases in their suspension
+from the University.
+
+\*Reprinted by permission of the Department of History
+
+Adopted by the council of the Faculty of Social Science, October, 1970;
+approved by the Dept. of History August 13, 1991
+
+**Accessibility at Western: Please** contact poliscie@uwo.ca if you
+require any information in plain text format, or if any other
+accommodation can make the course material and/or physical space
+accessible to you.
+
+**Mental Health at Western:** If you or someone you know is experiencing
+distress, there are several resources here at Western to assist you.
+Please visit http://www.uwo.ca/uwocom/mentalhealth/ for more information
+on these resources and on mental health.
+
+Other relevant links:
+
+[Requests for Relief from Academic
+Decisions](https://www.uwo.ca/univsec/pdf/academic_policies/appeals/requests_for_relief_from_academic_decisions.pdf)
+
+[Undergraduate
+Procedures](https://www.uwo.ca/univsec/pdf/academic_policies/appeals/undergrad_requests_for_relief_procedure.pdf)
+
+[Scholastic
+Offences](https://uwo.ca/univsec/pdf/academic_policies/appeals/undergrad_scholastic_offence_procedure.pdf)
+
+[Undergraduate
+Procedures](https://www.uwo.ca/univsec/pdf/academic_policies/appeals/undergrad_scholastic_offence_procedure.pdf)
+
+[Senate Review Board
+Appeals](https://uwo.ca/univsec/pdf/academic_policies/appeals/SRBA_appeals.pdf)
+
+[Procedures](https://www.uwo.ca/univsec/pdf/academic_policies/appeals/SRBA_appeals_procedure.pdf)
+
+[Course Numbering Policy, Essay Courses, and Hours of
+Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progression_grad/coursenumbering_SEP.pdf)
+
+[^1]: Policy taken from Dr Cheyney with permission.
+    [https://web.archive.org/web/20210413194856/https://studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples](https://web.archive.org/web/20210413194856/https:/studentlife.oregonstate.edu/childcare/family-friendly-syllabi-examples)
+
+[^2]: From U-M Faculty Member Alisse Portnoy, English.
+
+[^3]: Taken with permission from Dr Torrey Trust
+    https://docs.google.com/document/d/1caSLk2JM40K4tdQHlLRwftYVGM6k8z0ZA2J12SwLhtU/edit?tab=t.0#heading=h.i7bagmx726nl
