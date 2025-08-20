@@ -20,9 +20,9 @@ Political Science 1026: Political Power and Participation
 
   **Email:**           <dbousfie@uwo.ca>
 
-  **Telephone:**       289-620-6665 text only
+  **Telephone:**       289-620-6665 text only number
 
-  **Lectures**         See your timetable
+  **Lecture location** See your timetable
   -----------------------------------------------------------------------
 
 ## Course description: what is this course about?
@@ -62,7 +62,7 @@ discussion & writing skills; and understand our world.
 We look forward to having YOU in our class and pursuing a journey of
 learning!
 
-## Course objectives: what will you learn in this course?
+## Course objectives: what will you learn about in this course?
 
 (1) We start with learning about some key concepts. From there, we focus
     primarily on global politics, including discussion about war,
@@ -88,7 +88,7 @@ learning!
     readings from the textbook. Students will achieve objective (2) by
     completing a research and outline assignment for the essay, writing
     an argumentative essay, participating in discussions, and completing
-    a test and an exams throughout the semester. The discussions and
+    a test and an exam throughout the semester. The discussions and
     writing assignments, along with your reading and lecture attendance,
     will provide the practice needed to succeed in the tests and exams.
 
@@ -98,7 +98,7 @@ learning!
 
 - Sept 12 -- Last day to add full course or 1st term half course
 
-- Sept 30 -- no classes (National Day for Truth and Reconciliation)
+- Sept 30 -- No classes (National Day for Truth and Reconciliation)
 
 - Nov 1 -- Nov 9 -- Fall Reading Week
 
@@ -109,16 +109,17 @@ learning!
 
 ## Course texts: what must you read
 
-Note: UWO Bookstore sells physical and electronic copies, so please the
-Bookstore's website for the ebooks options to purchase the ebook.
+Note: UWO Bookstore sells physical and electronic copies, so please
+visit the Bookstore's website for the eBooks options to purchase the
+eBook.
 
 We are using the editions listed below so if you use older or other
 editions, please note you are still responsible for the materials in the
 edition we have listed below.
 
 Brodie, M. Janine, Sandra Rein, and Malinda S. Smith. 2022. *Critical
-Concepts: an Introduction to Politics*. Sixth edition. Toronto: Oxford
-University Press.
+Concepts: an Introduction to Politics*. **Sixth edition.** Toronto:
+Oxford University Press.
 
 <https://bookstore.uwo.ca/textbook-search?campus=UWO&term=W2025A&courses%5B0%5D=001_UW/POL1026F>
 
@@ -215,11 +216,11 @@ Brightspace weekly. You cannot receive more than 100% on the final exam.
 To enter our OWL website, go to https://westernu.brightspace.com/ to
 look for your "POLISCI 1026" tab. On this website, you will find
 information about the class, grades, links to other resources, and more.
-In particular, Lecture Videos, non-textbook readings, etc., will be
-posted on the OWL site. All course announcements, etc., will come from
-the OWL site. Please do check the OWL site regularly and constantly. Do
-not turn off notifications for announcements, students are responsible
-for all notifications from this course.
+Lecture Videos, non-textbook readings, etc., will be posted on the OWL
+site. All course announcements, etc., will come from the OWL site.
+Please do check the OWL site regularly and constantly. Do not turn off
+notifications for announcements, students are responsible for all
+notifications from this course.
 
 "All course material will be posted to OWL Brightspace:
 https://westernu.brightspace.com/. If students need assistance with OWL
@@ -350,7 +351,7 @@ updated and most current information.
 
 **READING WEEK NOV 1 - 9**
 
-**Mon Nov 4^th^? : Essay Bibliography and Outline (EBO) assignment Due
+**Mon Nov 10^th^? : Essay Bibliography and Outline (EBO) assignment Due
 via OWL site**\
 **(no penalty applied if submitted by Fri Nov 8 11:55pm)**
 
@@ -363,11 +364,11 @@ via OWL site**\
   - This is because an extension will be granted automatically, without
     penalty, to Friday, November 8, for those experiencing extenuating
     circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Monday, November 4
+    submission on the Due Date of Monday, November 10
 
   - TO BE CLEAR: *this does not mean the EBO is "really" due on Friday,
     November 8*. It is due on Monday, November 4, but after Friday,
-    November 8 11:55pm, the EBO is considered late, but we will still
+    November 14 11:55pm, the EBO is considered late, but we will still
     accept submission until Friday, November 15 with a late penalty of
     -10% applied
 
@@ -889,18 +890,18 @@ generative technology, please let me know.
 
 How generative technology may be used in assessment:
 
-1\. Pre-assessment - to provide structural or overall feedback before I
-begin any grading.
+1\. Pre-assessment - to provide structural or overall feedback before
+begining any grading.
 
 2\. Applying rubric - using the rubric from the course outline to apply
 to submitted assignments to assess the degree of compliance before or
-during I complete any grading.
+during completing any grading.
 
 3\. During assessment - to double-check the veracity of claims being
-made about your submission during my assessment of your material.
+made about your submission during the assessment of your material.
 
 4\. Post assessment - to find additional examples or instances in your
-submissions to assist in my feedback.
+submissions to assist in providing feedback.
 
 5\. Refining assessment - suggesting forms of constructive criticism,
 actionable items, and overarching themes or issues to assist in your
@@ -909,9 +910,9 @@ assessment.
 How generative technology will NOT be used in assessment:
 
 No grades will be assigned solely with generative technology at any
-point in this course. Assessment will always be done by the instructor
-in accordance with the course outlines, because of the unpredictability
-and unreliability of current generative technology.
+point in this course. Assessment will always be done by the
+instructor/graders in accordance with the course outlines, because of
+the unpredictability and unreliability of current generative technology.
 
 No personal or individual identifiers will ever be included in the
 assessment of material by any generative technology.
@@ -1037,199 +1038,19 @@ assignment, need to orally present the assignment in office hours, or a
 failure to complete the requirements of the course. When in doubt about
 permitted usage, please ask for clarification.
 
-**APPENDIX TO UNDERGRADUATE COURSE OUTLINES**
+APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
+SCIENCE
+<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES.pdf>
 
-**DEPARTMENT OF POLITICAL SCIENCE**
-
-**Prerequisite checking - the student's responsibility**
-
-\"Unless you have either the requisites for this course or written
-special permission from your Dean to enroll in it, you may be removed
-from this course and it will be deleted from your record. This decision
-may not be appealed. You will receive no adjustment to your fees in the
-event that you are dropped from a course for failing to have the
-necessary prerequisites.\"
-
-**Essay course requirements**
-
-With the exception of 1000-level courses, most courses in the Department
-of Political Science are essay courses. Total written assignments
-(excluding examinations) will be at least 3,000 words in Politics 1020E,
-at least 5,000 words in a full course numbered 2000 or above, and at
-least 2,500 words in a half course numbered 2000 or above.
-
-**Use of Personal Response Systems ("Clickers")**
-
-\"Personal Response Systems (\"clickers\") may be used in some classes.
-If clickers are to be used in a class, it is the responsibility of the
-student to ensure that the device is activated and functional. Students
-must see their instructor if they have any concerns about whether the
-clicker is malfunctioning.
-
-Students must use only their own clicker. If clicker records are used to
-compute a portion of the course grade:
-
-- the use of somebody else's clicker in class constitutes a scholastic
-  offence,
-
-- the possession of a clicker belonging to another student will be
-  interpreted as an attempt to commit a scholastic offence.\"
-
-**Security and Confidentiality of Student Work** (refer to current
-Western Academic Calendar
-
-(http://www.westerncalendar.uwo.ca/)
-
-\"Submitting or Returning Student Assignments, Tests and Exams - All
-student assignments, tests and exams will be handled in a secure and
-confidential manner. Particularly in this respect, leaving student work
-unattended in public areas for pickup is not permitted.\"
-
-**Duplication of work**
-
-Undergraduate students who submit similar assignments on closely related
-topics in two different courses must obtain the consent of both
-instructors prior to the submission of the assignment. If prior approval
-is not obtained, each instructor reserves the right not to accept the
-assignment.
-
-**Grade adjustments**
-
-In order to ensure that comparable standards are applied in political
-science courses, the Department may require instructors to adjust final
-marks to conform to Departmental guidelines.
-
-**Academic Offences**
-
-\"Scholastic offences are taken seriously and students are directed to
-read the appropriate policy, specifically, the definition of what
-constitutes a Scholastic Offence, at the following Web site:
-
-http://www.uwo.ca/univsec/handbook/appeals/scholoff.pdf .\"
-
-**Submission of Course Requirements**
-
-ESSAYS, ASSIGNMENTS, TAKE-HOME EXAMS MUST BE SUBMITTED ACCORDING TO
-PROCEDURES SPECIFIED BY YOUR INSTRUCTOR (I.E., IN CLASS, DURING OFFICE
-HOURS, TA\'S OFFICE HOURS) OR UNDER THE INSTRUCTOR\'S OFFICE DOOR.
-
-**THE MAIN OFFICE DOES NOT DATE-STAMP OR ACCEPT ANY OF THE ABOVE.**
-
-Note: Information excerpted and quoted above are Senate regulations from
-the Handbook of Scholarship and Academic Policy.
-http://www.uwo.ca/univsec/handbook/
-
-Students registered in Social Science should refer to
-http://counselling.ssc.uwo.ca/
-http://counselling.ssc.uwo.ca/procedures/havingproblems.asp for
-information on Medical Policy, Term Tests, Final Examinations, Late
-Assignments, Short Absences, Extended Absences, Documentation and other
-Academic Concerns. Non-Social Science students should refer to their
-home faculty's academic counselling office.
-
-**Plagiarism**
-
-\"Plagiarism: Students must write their essays and assignments in their
-own words. Whenever students take an idea, or a passage from another
-author, they must acknowledge their debt both by using quotation marks
-where appropriate and by proper referencing such as footnotes or
-citations. Plagiarism is a major academic offence.\" (see Scholastic
-Offence Policy in the Western Academic Calendar).
-
-**Plagiarism Checking:** \"All required papers may be subject to
-submission for textual similarity review to the commercial plagiarism
-detection software under license to the University for the detection of
-plagiarism. All papers submitted for such checking will be included as
-source documents in the reference database for the purpose of detecting
-plagiarism of papers subsequently submitted to the system. Use of the
-service is subject to the licensing agreement, currently between The
-University of Western Ontario and Turnitin.com ( http://www.turnitin.com
-).\"
-
-**Multiple-choice tests/exams:** \"Computer-marked multiple-choice tests
-and/or exams may be subject to submission for similarity review by
-software that will check for unusual coincidences in answer patterns
-that may indicate cheating.\"
-
-Note: Information excerpted and quoted above are Senate regulations from
-the Handbook of Scholarship and Academic Policy.
-http://www.uwo.ca/univsec/handbook/
-
-**PLAGIARISM\***
-
-In writing scholarly papers, you must keep firmly in mind the need to
-avoid plagiarism. Plagiarism is the unacknowledged borrowing of another
-writer\'s words or ideas. Different forms of writing require different
-types of acknowledgement. The following rules pertain to the
-acknowledgements necessary in academic papers.
-
-**A.** **In using another writer\'s words, you must both place the words
-in quotation marks and acknowledge that the words are those of another
-writer.**
-
-You are plagiarizing if you use a sequence of words, a sentence or a
-paragraph taken from other writers without acknowledging them to be
-theirs. Acknowledgement is indicated either by (1) mentioning the author
-and work from which the words are borrowed in the text of your paper; or
-by (2) placing a footnote number at the end of the quotation in your
-text, and including a correspondingly numbered footnote at the bottom of
-the page (or in a separate reference section at the end of your essay).
-This footnote should indicate author, title of the work, place and date
-of publication, and page number.
-
-Method (2) given above is usually preferable for academic essays because
-it provides the reader with more information about your sources and
-leaves your text uncluttered with parenthetical and tangential
-references. In either case words taken from another author must be
-enclosed in quotation marks or set off from your text by single spacing
-and indentation in such a way that they cannot be mistaken for your own
-words. Note that you cannot avoid indicating quotation simply by
-changing a word or phrase in a sentence or paragraph which is not your
-own.
-
-**B.** **In adopting other writers\' ideas, you must acknowledge that
-they are theirs.**
-
-You are plagiarizing if you adopt, summarize, or paraphrase other
-writers\' trains of argument, ideas or sequences of ideas without
-acknowledging their authorship according to the method of
-acknowledgement given in \'A\' above. Since the words are your own, they
-need not be enclosed in quotation marks. Be certain, however, that the
-words you use are entirely your own; where you must use words or phrases
-from your source, these should be enclosed in quotation marks, as in
-\'A\' above.
-
-Clearly, it is possible for you to formulate arguments or ideas
-independently of another writer who has expounded the same ideas, and
-whom you have not read. Where you got your ideas is the important
-consideration here. Do not be afraid to present an argument or idea
-without acknowledgement to another writer, if you have arrived at it
-entirely independently. Acknowledge it if you have derived it from a
-source outside your own thinking on the subject.
-
-In short, use of acknowledgements and, when necessary, quotation marks
-is necessary to distinguish clearly between what is yours and what is
-not. Since the rules have been explained to you, if you fail to make
-this distinction your instructor very likely will do so for you, and
-they will be forced to regard your omission as intentional literary
-theft. Plagiarism is a serious offence which may result in a student\'s
-receiving an \'F\' in a course or, in extreme cases in their suspension
-from the University.
-
-\*Reprinted by permission of the Department of History
-
-Adopted by the council of the Faculty of Social Science, October, 1970;
-approved by the Dept. of History August 13, 1991
-
-**Accessibility at Western: Please** contact poliscie@uwo.ca if you
+**Accessibility at Western: Please** contact <poliscie@uwo.ca> if you
 require any information in plain text format, or if any other
 accommodation can make the course material and/or physical space
 accessible to you.
 
 **Mental Health at Western:** If you or someone you know is experiencing
 distress, there are several resources here at Western to assist you.
-Please visit http://www.uwo.ca/uwocom/mentalhealth/ for more information
-on these resources and on mental health.
+Please visit <http://www.uwo.ca/uwocom/mentalhealth/> for more
+information on these resources and on mental health.
 
 Other relevant links:
 
