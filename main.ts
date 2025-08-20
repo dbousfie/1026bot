@@ -5,6 +5,8 @@ const QUALTRICS_API_TOKEN = Deno.env.get("QUALTRICS_API_TOKEN");
 const QUALTRICS_SURVEY_ID = Deno.env.get("QUALTRICS_SURVEY_ID");
 const QUALTRICS_DATACENTER = Deno.env.get("QUALTRICS_DATACENTER");
 const SYLLABUS_LINK = Deno.env.get("SYLLABUS_LINK") || "";
+// New: allow model override, default to gpt-4o-mini
+const OPENAI_MODEL = Deno.env.get("OPENAI_MODEL") || "gpt-4o-mini";
 
 serve(async (req: Request): Promise<Response> => {
   if (req.method === "OPTIONS") {
@@ -42,7 +44,6 @@ serve(async (req: Request): Promise<Response> => {
       role: "system",
       content:
         "You are an accurate assistant. Always include a source URL if possible."
-
     },
     {
       role: "system",
@@ -61,8 +62,9 @@ serve(async (req: Request): Promise<Response> => {
       Authorization: `Bearer ${OPENAI_API_KEY}`,
     },
     body: JSON.stringify({
-      model: "gpt-4o",
+      model: OPENAI_MODEL,
       messages,
+      max_tokens: 1500, // gives room for long answers
     }),
   });
 
