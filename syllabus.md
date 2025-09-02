@@ -15,7 +15,7 @@ Political Science 1026: Political Power and Participation
   **Course             Prof Nig Narain <nnarain@uwo.ca>
   Coordinator**        
 
-  **Office Hours:**    Wednesday 10:00am-noon via zoom - link in
+  **Office Hours:**    Wednesday 11:00am-1:00pm via zoom - link in
                        Brightspace
 
   **Email:**           <dbousfie@uwo.ca>
@@ -100,6 +100,8 @@ learning!
 
 - Sept 30 -- No classes (National Day for Truth and Reconciliation)
 
+- Oct 18 -- Midterm Test - 6-7PM in Brightspace (online)
+
 - Nov 1 -- Nov 9 -- Fall Reading Week
 
 - Dec 6 -- Last day of classes
@@ -183,13 +185,14 @@ Oxford University Press.
   -----------------------------------------------------------------------
   You will be evaluated as follows:
   -----------------------------------------------------------------------
-  October Test
+  October Test -- October 19 6-7 PM in Brightspace (online) 15%
 
   Essay bibliography and outline
 
   Essay
 
-  December Exam
+  December Exam (During the exam period, scheduled by the registrar)
+  (In-person)
   -----------------------------------------------------------------------
 
 **Necessary conditions for passing this course or receiving your earned
@@ -277,6 +280,61 @@ updated and most current information.
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 5 - Non-Western Ideas
 
+**Wednesday October 8, 11:55 PM: Essay Bibliography and Outline (EBO)
+assignment Due via OWL** Brightspace **site**\
+**(no penalty applied if submitted by Tues October 14 11:55pm)**
+
+- [Concerning "Undocumented Absence" Academic
+  Consideration:]{.underline}
+
+  - You do not need to submit a request for academic consideration if
+    the EBO deadline cannot be met (self-attestation or otherwise)
+
+  - This is because an extension will be granted automatically, without
+    penalty, to Tuesday October 14th, for those experiencing extenuating
+    circumstances (e.g., illness, bereavement, etc.) that prevent
+    submission on the Due Date of Wednesday October 8^th^.
+
+  - TO BE CLEAR: *this does not mean the EBO is "really" due on* Tuesday
+    October 14th. It is due on Wednesday October 8th, but after Tuesday
+    October 14^th^ 11:55pm, the EBO is considered late, but we will
+    still accept submission until Wednesday October 15th with a late
+    penalty of -10% applied
+
+  - Again, a request for academic consideration will not be considered
+    if submitting between Wed Oct 8 11:55pm and Wed Oct 15 11:55pm
+    because an extension was already granted, and the EBO is now late
+
+  - Per Senate Regulations: "An instructor may deny academic
+    consideration relating to the timeframe submission of work where
+    there is already flexibility in the submission timeframe (e.g.,
+    72-hour submission window). This assessment flexibility must be
+    indicated on the course outline"
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+    absence? When flexibility in assessment exists and is clearly stated
+    on the course outline, both undocumented absences and academic
+    consideration requests with documentation may be denied."
+    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+
+- If you have significant extenuating documented circumstances, you
+  should read the Registrar's Academic Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration
+
+- If you have documented grounds for a late submission extension beyond
+  October 15th, in that case, you should read the Registrar's Academic
+  Consideration page
+  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  and go through their Student Absence Portal to request such academic
+  consideration
+
+- Those students who are accommodated with flexible deadlines through
+  Accessible Education (AE) should check the OWL site for your
+  particular AE dates and other details and notes
+
 **Week 5: Oct 14 -- 16**
 
 - Lecture: Indigenous peoples, Land and the UNDRIP
@@ -284,7 +342,8 @@ updated and most current information.
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 6 - Indigenous peoples, land and the UNDRIP
 
-**Sun Oct 18? \> Term 1 October Test via OWL site**
+**SUNDAY October 19, 2025, 6-7 PM \> Term 1 October Test via Brightspace
+(online only)**
 
 - *ONLY covers Weeks 1-4 of Lectures*
 
@@ -325,11 +384,9 @@ updated and most current information.
 
 - Make-up Test dates:
 
-  - Thu Oct
+  - Wed Oct 22 6-7 PM
 
-  - Thu Oct
-
-  - Fri Oct
+  - Fri Oct 24 6-7 PM
 
 - Those students who are accommodated with exam accommodations through
   Accessible Education (AE) should check the OWL site for your
@@ -350,61 +407,6 @@ updated and most current information.
     Politics 6e* - Chapter 8 - Genders and sexualities
 
 **READING WEEK NOV 1 - 9**
-
-**Mon Nov 10^th^? : Essay Bibliography and Outline (EBO) assignment Due
-via OWL site**\
-**(no penalty applied if submitted by Fri Nov 8 11:55pm)**
-
-- [Concerning "Undocumented Absence" Academic
-  Consideration:]{.underline}
-
-  - You do not need to submit a request for academic consideration if
-    the EBO deadline cannot be met (self-attestation or otherwise)
-
-  - This is because an extension will be granted automatically, without
-    penalty, to Friday, November 8, for those experiencing extenuating
-    circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Monday, November 10
-
-  - TO BE CLEAR: *this does not mean the EBO is "really" due on Friday,
-    November 8*. It is due on Monday, November 4, but after Friday,
-    November 14 11:55pm, the EBO is considered late, but we will still
-    accept submission until Friday, November 15 with a late penalty of
-    -10% applied
-
-  - Again, a request for academic consideration will not be considered
-    if submitting between Friday, November 8 and Friday, November 15,
-    because an extension was already granted, and the EBO is now late
-
-  - Per Senate Regulations: "An instructor may deny academic
-    consideration relating to the timeframe submission of work where
-    there is already flexibility in the submission timeframe (e.g.,
-    72-hour submission window). This assessment flexibility must be
-    indicated on the course outline"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
-    absence? When flexibility in assessment exists and is clearly stated
-    on the course outline, both undocumented absences and academic
-    consideration requests with documentation may be denied."
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-- If you have significant extenuating documented circumstances, you
-  should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- If you have documented grounds for a late submission extension beyond
-  November 15, in that case, you should read the Registrar's Academic
-  Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- Those students who are accommodated with flexible deadlines through
-  Accessible Education (AE) should check the OWL site for your
-  particular AE dates and other details and notes
 
 **Week 8: Nov 11 - 13**
 
@@ -452,8 +454,9 @@ via OWL site**\
   - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
     6e* - Chapter 19: Political Ecology
 
-**Essay assignment Due via OWL site**\
-**(no penalty applied if submitted by \_\_\_\_\_\_\_\_\_\_ 11:55pm)**
+**Essay assignment Due via OWL site** Wednesday December 3^rd^\
+**(no penalty applied if submitted by** Tuesday December 9th, 2025,
+**11:55pm)**
 
 - Concerning "Undocumented Absence" Academic Consideration:
 
@@ -461,19 +464,20 @@ via OWL site**\
     this Essay deadline cannot be met (self-attestation or otherwise)
 
   - This is because an extension will be granted automatically, without
-    penalty, to Friday, February 28, for those experiencing extenuating
+    penalty, to Tuesday, December 9, for those experiencing extenuating
     circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Monday, February 24
+    submission on the Due Date of Wednesday, December 3.
 
-  - TO BE CLEAR: this does not mean the Essay is "really" due on Friday,
-    February 28; it is due on Monday, February 24, but after Friday,
-    February 28 11:55pm, the Essay is considered late, but we will still
-    accept submission until Friday, March 7, with a late penalty of -10%
-    applied
+  - TO BE CLEAR: this does not mean the Essay is "really" due on
+    Tuesday, December 9; it is due on Wednesday, December 3. But after
+    Tuesday, December 9 at 11:59pm, the Essay is considered late. We
+    will still accept submission until Wednesday, December 10 at
+    11:00pm, with a late penalty of -10% applied.
 
   - Again, a request for academic consideration will not be considered
-    if submitting between Monday, February 24, and Friday, March 7,
-    because an extension was already granted, and the Essay is now late
+    if submitting between Wednesday, December 3 and Wednesday, December
+    10, because an extension was already granted, and the Essay is now
+    late.
 
   - Per Senate Regulations: "An instructor may deny academic
     consideration relating to the timeframe submission of work where
@@ -570,7 +574,7 @@ Official Exam Period**
   differently.
 
 - [Statement on Academic Offences]{.underline}: "Scholastic offences are
-  taken seriously and students are directed to read the appropriate
+  taken seriously, and students are directed to read the appropriate
   policy, specifically, the definition of what constitutes a Scholastic
   Offence, at the following Web site:
   <https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
@@ -631,7 +635,7 @@ Official Exam Period**
 - [Respectful conduct and engagement]{.underline}: Note conduct should
   accord with the University of Western Ontario Student Code of Conduct,
   which can be accessed as a PDF from:
-  <http://studentexperience.uwo.ca/student_experience/studentconduct.html>.\
+  <https://www.uwo.ca/univsec/pdf/board/code.pdf>\
   In general, please be respectful of and courteous to yourself, me, our
   TAs, your class colleagues, and others during discussions and other
   course engagements.
@@ -671,7 +675,7 @@ the responsibility of the account holder to ensure that e-mail received
 from the University at their official university address is attended to
 in a timely manner.
 
-Scholastic offences are taken seriously and students are directed to
+Scholastic offences are taken seriously, and students are directed to
 read the appropriate policy, specifically, the definition of what
 constitutes a Scholastic Offence, at the following Web site:
 
@@ -866,7 +870,7 @@ perspectives are presented in class for discussion.
 
 In our structured and unstructured discussions and dialogues, we also
 will have many opportunities to explore some challenging, high-stakes
-issues and increase our understandings of different perspectives. Our
+issues and increase our understanding of different perspectives. Our
 conversations may not always be easy; we sometimes will make mistakes in
 our speaking and our listening; sometimes we will need patience or
 courage or imagination or any number of qualities in combination to
@@ -906,6 +910,9 @@ submissions to assist in providing feedback.
 5\. Refining assessment - suggesting forms of constructive criticism,
 actionable items, and overarching themes or issues to assist in your
 assessment.
+
+6\. Checking for unauthorized AI use, following University guidelines
+(and those attached below).
 
 How generative technology will NOT be used in assessment:
 
@@ -975,59 +982,49 @@ assessment of material by any generative technology.
 | abilities.**   |                                                                                                                          |                                                                                   |
 +----------------+--------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+
 
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| **Example of a  | **Why is this NOT Allowed?**                                                                                               |
-| Non-Allowable   |                                                                                                                            |
-| Use**           |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Prompting a     | Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building   |
-| Generative      | community and relationships as well as actively engaging in your own thinking and learning to communicate with others.     |
-| technology      | Using Generative technology for this activity subverts both the social and learning goals of the activity.                 |
-| technology to   |                                                                                                                            |
-| **respond to a  |                                                                                                                            |
-| discussion      |                                                                                                                            |
-| forum prompt**  |                                                                                                                            |
-| for you.        |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Using a         | Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best |
-| Generative      | to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your      |
-| technology      | learning and the opportunity to develop your creative communication skills.                                                |
-| technology      |                                                                                                                            |
-| (e.g.,          |                                                                                                                            |
-| Slidesgo) to    |                                                                                                                            |
-| **design a      |                                                                                                                            |
-| class           |                                                                                                                            |
-| presentation**  |                                                                                                                            |
-| for you.        |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Modifying       | Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn      |
-| AI-generated    | more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because    |
-| work slightly   | the focus is on minor adjustments rather than truly understanding the material.                                            |
-| to **make it    |                                                                                                                            |
-| appear as if    |                                                                                                                            |
-| you created     |                                                                                                                            |
-| it**.           |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Prompting       | Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis   |
-| Generative      | output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm        |
-| technology to   | Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using        |
-| **analyze data  | Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or |
-| for you** and   | math machines, they are predictability machines (they guess which words go together to make the most plausible             |
-| submitting the  | human-sounding response).                                                                                                  |
-| data analysis   |                                                                                                                            |
-| as your own.    |                                                                                                                            |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
-| Copying         | Please read "[The Case For Not Citing Chatbots As Information                                                              |
-| AI-generated    | Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)" |
-| text word for   | and "[Generative AI Has an Intellectual Property                                                                           |
-| word into your  | Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original       |
-| written work,   | source to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and         |
-| but **citing it | learning about that topic and you are giving credit to human authors/artists.                                              |
-| as written by   |                                                                                                                            |
-| AI**.           | However, if you prompt a Generative technology technology to create an original source of text or media -- something that  |
-|                 | cannot be traced back to an original source (e.g., a Taylor Swift rendition of the Declaration of Independence) -- you can |
-|                 | write "This text was generated by ChatGPT \[or insert another Generative technology technology\] in a footnote."           |
-+-----------------+----------------------------------------------------------------------------------------------------------------------------+
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------
+  **Example of a     **Why is this NOT Allowed?**
+  Non-Allowable      
+  Use**              
+
+  Prompting a        Discussion prompts are meant to incorporate your voice and your thoughts. Participating in discussions is about building
+  Generative         community and relationships as well as actively engaging in your own thinking and learning to communicate with others. Using
+  technology         Generative technology for this activity subverts both the social and learning goals of the activity.
+  technology to      
+  **respond to a     
+  discussion forum   
+  prompt** for you.  
+
+  Using a Generative Designing a presentation requires you to actively engage in thinking and learning about the material and consider how best
+  technology         to communicate that information to an audience. Prompting Generative technology to do this work for you subverts your
+  technology (e.g.,  learning and the opportunity to develop your creative communication skills.
+  Slidesgo) to       
+  **design a class   
+  presentation** for 
+  you.               
+
+  Modifying          Making minor adjustments to AI-generated work only supports surface-level learning, rather than deep learning ([learn
+  AI-generated work  more](https://www.psy.gla.ac.uk/~steve/courses/archive/CERE12-13-safari-archive/topic9/webarchive-index.html)), because the
+  slightly to **make focus is on minor adjustments rather than truly understanding the material.
+  it appear as if    
+  you created it**.  
+
+  Prompting          Research has shown that using Generative technology to provide solutions for you (or in this case, provide data analysis
+  Generative         output for you) prevents you from actively engaging with, and learning, the material (read: [Generative AI Can Harm
+  technology to      Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486&utm_source=substack&utm_medium=email)). Using
+  **analyze data for Generative technology in this way subverts your learning. Additionally, Generative technology tools are not calculators or
+  you** and          math machines, they are predictability machines (they guess which words go together to make the most plausible
+  submitting the     human-sounding response).
+  data analysis as   
+  your own.          
+
+  Copying            Please read "[The Case For Not Citing Chatbots As Information
+  AI-generated text  Sources](https://scholarlykitchen.sspnet.org/2024/06/20/the-case-for-not-citing-chatbots-as-information-sources-part-ii/)"
+  word for word into and "[Generative AI Has an Intellectual Property
+  your written work, Problem](https://hbr.org/2023/04/generative-ai-has-an-intellectual-property-problem)" and, instead, find an original source
+  but **citing it as to cite. When you put in the effort to find an original source to cite, you are deepening your thinking and learning about
+  written by AI**.   that topic and you are giving credit to human authors/artists.
+  ------------------ ----------------------------------------------------------------------------------------------------------------------------
 
 You are responsible for the information you submit based on an AI query
 (for instance, that it does not violate intellectual property laws, or
@@ -1040,7 +1037,7 @@ permitted usage, please ask for clarification.
 
 APPENDIX TO UNDERGRADUATE COURSE OUTLINES DEPARTMENT OF POLITICAL
 SCIENCE
-<https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf>
+[https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES.pdf](https://politicalscience.uwo.ca/undergraduate/docs/outlines/2025-26/APPENDIX%20TO%20UNDERGRADUATE%20COURSE%20OUTLINES1.pdf)
 
 **Accessibility at Western: Please** contact <poliscie@uwo.ca> if you
 require any information in plain text format, or if any other
