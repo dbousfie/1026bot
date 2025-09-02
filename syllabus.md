@@ -280,9 +280,9 @@ updated and most current information.
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 5 - Non-Western Ideas
 
-**Wednesday October 8, 11:55 PM: Essay Bibliography and Outline (EBO)
+**Wednesday October 8, 11:59 PM: Essay Bibliography and Outline (EBO)
 assignment Due via OWL** Brightspace **site**\
-**(no penalty applied if submitted by Tues October 14 11:55pm)**
+**(no penalty applied if submitted by Tues October 14 11:59pm)**
 
 - [Concerning "Undocumented Absence" Academic
   Consideration:]{.underline}
@@ -297,12 +297,12 @@ assignment Due via OWL** Brightspace **site**\
 
   - TO BE CLEAR: *this does not mean the EBO is "really" due on* Tuesday
     October 14th. It is due on Wednesday October 8th, but after Tuesday
-    October 14^th^ 11:55pm, the EBO is considered late, but we will
+    October 14^th^ 11:59pm, the EBO is considered late, but we will
     still accept submission until Wednesday October 15th with a late
     penalty of -10% applied
 
   - Again, a request for academic consideration will not be considered
-    if submitting between Wed Oct 8 11:55pm and Wed Oct 15 11:55pm
+    if submitting between Wed Oct 8 11:59pm and Wed Oct 15 11:59pm
     because an extension was already granted, and the EBO is now late
 
   - Per Senate Regulations: "An instructor may deny academic
@@ -456,7 +456,7 @@ assignment Due via OWL** Brightspace **site**\
 
 **Essay assignment Due via OWL site** Wednesday December 3^rd^\
 **(no penalty applied if submitted by** Tuesday December 9th, 2025,
-**11:55pm)**
+**11:59pm)**
 
 - Concerning "Undocumented Absence" Academic Consideration:
 
