@@ -100,7 +100,7 @@ learning!
 
 - Sept 30 -- No classes (National Day for Truth and Reconciliation)
 
-- Oct 18 -- Midterm Test - 6-7PM in Brightspace (online)
+- Oct 19 -- Midterm Test - 6-7PM in Brightspace (online)
 
 - Nov 1 -- Nov 9 -- Fall Reading Week
 
@@ -680,15 +680,6 @@ constitutes a Scholastic Offence, at the following Web site:
 
 <https://www.uwo.ca/univsec/pdf/academic_policies/appeals/scholastic_discipline_undergrad.pdf>
 
-All required papers may be subject to submission for textual similarity
-review to the commercial plagiarism detection software under license to
-the University for the detection of plagiarism. All papers submitted for
-such checking will be included as source documents in the reference
-database for the purpose of detecting plagiarism of papers subsequently
-submitted to the system. Use of the service is subject to the licensing
-agreement, currently between The University of Western Ontario and
-Turnitin.com ([http://www.turnitin.com](http://www.turnitin.com/)).
-
 # Zoom Etiquette (for office hours)
 
 1.  Please pay attention to video, microphone and screensharing
@@ -734,23 +725,6 @@ is required for either medical or non-medical academic accommodation,
 then such documentation must be submitted directly to the appropriate
 Faculty Dean\`s office and [not]{.underline} to the instructor. Only the
 Dean\`s office can determine if accommodation is warranted.
-
-# Statement on Academic Offences
-
-Scholastic offences are taken seriously, and students are directed to
-read the appropriate policy, specifically, the definition of what
-constitutes a Scholastic Offence, at the following Web site:
-<http://www.uwo.ca/univsec/handbook/appeals/scholastic_discipline_undergrad.pdf>
-.
-
-"All required papers may be subject to submission for textual similarity
-review to the commercial plagiarism detection software under license to
-the University for the detection of plagiarism. All papers submitted for
-such checking will be included as source documents in the reference
-database for the purpose of detecting plagiarism of papers subsequently
-submitted to the system. Use of the service is subject to the licensing
-agreement, currently between The University of Western Ontario and
-Turnitin.com ( <http://www.turnitin.com> )."
 
 ## Guidelines for Success in Class
 
@@ -894,7 +868,7 @@ generative technology, please let me know.
 How generative technology may be used in assessment:
 
 1\. Pre-assessment - to provide structural or overall feedback before
-begining any grading.
+beginning any grading.
 
 2\. Applying rubric - using the rubric from the course outline to apply
 to submitted assignments to assess the degree of compliance before or
@@ -1077,6 +1051,7 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 [^3]: Taken with permission from Dr Torrey Trust
     https://docs.google.com/document/d/1caSLk2JM40K4tdQHlLRwftYVGM6k8z0ZA2J12SwLhtU/edit?tab=t.0#heading=h.i7bagmx726nl
+
 
 
 
