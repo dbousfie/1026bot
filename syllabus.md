@@ -1081,8 +1081,8 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 
 
-eminder: You can also use the Course Info Bot
-
+ast Update: Sep 3
+Reminder: You can also use the Course Info Bot
 Do I have to attend each lecture on Tuesdays and tutorial on Thursday each week? 
 Yes. 
 
@@ -1094,7 +1094,7 @@ As our class is designated Blended, the course is organized as follows:
 2) In-person attendance in our lecture and tutorial room will follow a ‘flipped class’ model: we will have questions-and-answers, discussions, activities, debates, etc. based on the lecture videos and current events. Importantly: if you are unwell for any reason, please don't come to the lecture hall at all, focus on getting healthy, and you can always watch the lecture videos while you are getting better or after. Note: exams are based on lectures, lecture videos,  and readings
 
 Where is the Course Outline?
-
+Look in the left hand nav bar in brightspace or access it here http://tiny.cc/1026outline
 
 Where are each Term's Lecture Videos and other Content?
 The Lecture videos will be on the POLS 1026 Course Content section. This will also be where links to posted non-textbook readings will be found. The topics for each week's lecture and the readings for those lectures are stated in the Course Outline. 
@@ -1112,8 +1112,11 @@ Yes.
 Is the Mid-Term Test online?
 Yes.
 
+Do I have to download ProctorTrack, Proctorio, ProctorEdu, QuestionMark, etc., for the Mid-Term Test?
+No. We are not using any proctoring software which will cause computer issues, but also we don't have any way to monitor, etc., so we cannot and do not provide any rectification for computer issues,
 When in the Mid-Term Test?
 Check the Course Outline and the Mid-Term Info page.
+
 When is the Mid-Term Make-up Test?
 Check the Course Outline and the Mid-Term Info page.
 
@@ -1123,55 +1126,25 @@ Yes.
 When is the Final Exam?
 It will be during the Final Exam time period and a date will be released by the Registrar. Note: we will only know the date when the final exam schedule is released by the Registrar.
 
+When is the Make-up Final Exam?
+In January 2026. Dates will be posted on the OWL site.
+
 Can I write the Mid-Term Test or Final Exam with a -10% Penalty if I have no grounds from Academic Consideration?
-Yes. You don't need to have a reason for missing the Mid-Term or Final Exam, and you simply write the Make-up and -10% will be deducted from your achieved grade, e.g., you got 70% on the Make-up Fnal Exam, so you'll get 60% (70%-10%) for your Final Exam grade.
+Yes. You don't need to have a reason for missing the Mid-Term or Final Exam, and you simply write the Make-up and -10% will be deducted from your achieved grade, e.g., you got 70% on the Make-up Final Exam, so you'll get 60% (70%-10%) for your Final Exam grade.
 
 What if I have travel plans that conflict with the Mid-Term Test or Final Exam?
 These are not grounds for academic consideration for the Mid-Term Test or the Final Exam.
 
-When will we know the dates for the make-up tests?
-These dates are listed in the Course Outline, and will be posted on their relevant OWL page.
-
-
-When will we know the dates for the exams?
-The dates are set by the Registrar, so you and we will only know when they release the dates at the same time.
-
-
-When will we know the dates for the make-up exams?
-The dates are set by the Registrar, so you and we will only know when they release the dates at the same time and we will have our dates thereafter.
-
-
-Can I write a Test/Exam ahead of the regular scheduled date and time for it?
-No. We only permit writing make-up exams after the regularly scheduled date. 
-
-
-Is there a location restriction on where I can right the tests and exams?
-No. You can write anywhere, there are no location restrictions.
-
-When are grades released?
-When they are ready and available, we will let you know. No point in emailing to ask when, or if you alone could have your grade before everyone else (which is unfair).
-
-
-Do I have to download ProctorTrack, Proctorio, ProctorEdu, QuestionMark, etc.?
-No. We are not using any proctoring software which will cause computer issues, but also we don't have any way to monitor, etc., so we cannot and do not provide any rectification for computer issues, etc.
-
-
 Where can I find information about the Essay assignment?
 The Essay information will be posted on  page on the Course Home page and in the Left Menu on the Content page
 
-
-
-
-
-
-Zoom Information
-
+When are grades released for assignments?
+When they are ready and available, we will let you know. See and keep checking th Announcements page to look for updates.
+Don't keep emailing us to ask when, or if you alone could have your grade before everyone else as that would be grossly unfair to your classmates.
 
 What is Zoom and why and how do I use it?
 We are using Zoom for some of our Office Hours and meetings. "Zoom is a cloud-based solution for video and audio conferencing, collaboration, and online meetings. Your Western Identity is used as your login credentials for Zoom." (Western Technology Services).
 Look through UWO's WTS website, which gives instructions about how to install and use Zoom, and other useful tips as well.
-
-
 How do I reach Zoom technical support?
 If you are having trouble, whether on campus or at home, calling the Helpdesk at 519-661-3800 ext. 83800 will put you in touch with an agent who will gladly help you. For more information, visit the Helpdesk Website.
 
