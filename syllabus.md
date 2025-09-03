@@ -183,16 +183,15 @@ Oxford University Press.
 ## 
 
   -----------------------------------------------------------------------
-  You will be evaluated as follows:
-  -----------------------------------------------------------------------
-  October Test -- October 19 6-7 PM in Brightspace (online) 15%
+  You will be evaluated as follows:   
+  ----------------------------------- -----------------------------------
+  Essay Bibliography and Outline      10%
 
-  Essay bibliography and outline
+  Mid-Term Test - online              20%
 
-  Essay
+  Essay                               30%
 
-  December Exam (During the exam period, scheduled by the registrar)
-  (In-person)
+  Final Exam -- in person             40%
   -----------------------------------------------------------------------
 
 **Necessary conditions for passing this course or receiving your earned
@@ -205,14 +204,14 @@ your earned grade based on completed assignments) for the course and not
 receive credit for this course. Contact Nig Narain (nnarain@uwo.ca) if
 you have any questions.
 
-## Attendance Bonus (5% on Final Exam)
+## Attendance Bonus (5% on Essay)
 
-Students will receive a 0.625% bonus on their final exam grade for every
+Students will receive a 0.625% bonus on their essay grade for every
 **Thursday** class attended (attendance must be recorded through the
 Microsoft form each week during class time). There is no attendance for
 the Tuesday class. There is a maximum of 8 classes considered to earn
 the full 5% bonus. You can check your participation through the link in
-Brightspace weekly. You cannot receive more than 100% on the final exam.
+Brightspace weekly. You cannot receive more than 100% on the essay.
 
 ## OWL Brightspace website: why should I check this regularly?
 
