@@ -1077,3 +1077,161 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 [^3]: Taken with permission from Dr Torrey Trust
     https://docs.google.com/document/d/1caSLk2JM40K4tdQHlLRwftYVGM6k8z0ZA2J12SwLhtU/edit?tab=t.0#heading=h.i7bagmx726nl
+
+
+
+
+Do I have to attend each lecture on Tuesdays and tutorial on Thursday each week? 
+Yes. 
+
+What is a Blended Class?
+As our class is designated Blended, the course is organized as follows:
+
+1) Lecture videos will be posted online on the OWL site before lectures, so you should view Lectures videos in advance of lectures so the lecture discussions, debates, activities, etc., will be more helpful and useful, and you are welcome to pull ahead in the readings and lecture videos, and complimentarily, you can catch up on the core materials if you miss a lecture but do attend lectures!
+
+2) In-person attendance in our lecture and tutorial room will follow a ‘flipped class’ model: we will have questions-and-answers, discussions, activities, debates, etc. based on the lecture videos and current events. Importantly: if you are unwell for any reason, please don't come to the lecture hall at all, focus on getting healthy, and you can always watch the lecture videos while you are getting better or after. Note: exams are based on lectures, lecture videos,  and readings.
+
+Are the Exams cumulative?
+No. Each Exam has particular weeks' materials it will test so please review the Course Outline and the relevant Exam page.
+Where are each Term's Lecture Videos and other Content?
+The Lecture videos will be on the POLS 1026 Course Content section. This will also be where links to posted non-textbook readings will be found. The topics for each week's lecture and the readings for those lectures are stated in the Course Outline. 
+If there is a problem with the video, such as it's disappeared, dragging, etc., let us know. Videos are either on our site or on YouTube (or both) but we appreciate there can be technology issues, so we appreciate feedback on tech problems so we can help your classmates, as well.
+
+# **Academic Consideration, Learning Support, International Student Support**
+
+**For Academic Consideration, you should go to the Registrar\'s Academic
+Consideration page here:**
+
+[**https://registrar.uwo.ca/academics/academic_considerations/index.html**](https://registrar.uwo.ca/academics/academic_considerations/index.html)
+
+Please go through the above link for:
+
+- Exam or Test conflicts
+
+- Extenuating significant documented academic consideration
+
+NOTE \> *as extensively and explicitly detailed in the Course Outline:*
+the \'Undocumented absence\' process cannot be used for the Term Test,
+Essay, and Term Exam (see Course Outline for details)
+
+**Who do I contact for Accessible Education (AE) Accommodation?**
+
+- If you have approved Accessible Education Accommodation, this will be
+  submitted to us via the University system
+
+- We will post your Accessible Accomodations information relating to
+  your assignment, exam, etc., on a specific OWL page and send an
+  Announcement to let you know
+
+  - It can take 2 weeks sometimes for Counsellors to post your AE
+    direction and information, so:
+
+    - Make sure you have submitted all your documentation to the AE
+      office and spoken to your AE Counsellor
+
+    - If you have been delayed, just keep checking back on the
+      AE-related pages for the particular assignment, etc.
+
+- However, if you are concerned, do send an email to Nig
+
+- If you have had previous Accessibile Education accommodation or are
+  now looking to pursue Accessibile Education accommodation, you should
+  talk to the folks at the [Accessibility Office:
+  https://accessibility.uwo.ca/students/index.html](https://accessibility.uwo.ca/students/index.html).
+
+[**OWL
+Accessibility**](https://owlhelp.uwo.ca/about/accessibility/index.html)
+
+Web accessibility refers to how easily people with disabilities can
+navigate and interact with websites. Disabilities may be physical (such
+as blindness, low vision, deafness, or fine motor skills difficulty), or
+cognitive (such as dyslexia or attention deficit disorder). People with
+disabilities often use assistive technologies to help them navigate the
+web. An assistive technology is any device that helps a person with a
+disability. Common web assistive technologies include modified mice and
+keyboards, screen readers and screen magnifiers. Web accessibility
+occurs when websites support web accessibility standards, are compatible
+with assistive technologies, and are easy for people to navigate and
+understand.
+
+Every attempt has been made to make this course accessible to you.
+Please contact Nig Narain <nnarain@uwo.ca> if you\'re experiencing any
+issues regarding the accessibility of the course
+
+**How do I get Accommodation for Mental Health Reasons?**
+
+See Student Health Services right away:\
+<https://www.uwo.ca/health//psych/index.html>
+
+**How do I get Sports, Religious, or Medical academic consideration?**
+
+See the Registar\'s Academic Consideration page:
+<https://registrar.uwo.ca/academics/academic_considerations/index.html>
+
+### **Where do I get Help for Learning?**
+
+Connect with the L[earning Development & Success
+Counsellors](https://www.uwo.ca/sdc/learning/) who are
+[specialists]{.underline} who want to help you!
+
+\"The Learning Development & Success team has created [a number of video
+presentations to help Western
+students](https://www.uwo.ca/sdc/learning/presentations/index.html) gain
+knowledge and build confidence in their learning and academic skills.
+From time management to studying for exams, we have a variety of
+presentations to help you thrive academically\":
+<https://www.uwo.ca/sdc/learning/presentations/index.html>
+
+Here is a list of their Videos:
+
+- Undergraduate Student Presentations
+
+- Creating Effective Learning Habits
+
+- Successful Time Management
+
+- Academic Success for International Undergraduate Students
+
+- Student-Athlete Time Management
+
+- Preparing and Studying for Exams
+
+- Preparing for Online Exams
+
+- Optimize Lecture Learning
+
+- Writing Multiple Choice Tests
+
+- Managing Test Anxiety
+
+- Essay Exams Essentials
+
+- Learning From Textbooks
+
+- Enhancing Your Note-taking Skills
+
+- Maximize Your Memory
+
+- Study Skills for Medical and Dental Students
+
+### **Where do I get International Student Support?**
+
+Please visit the [International and Exchange Student
+Center](https://www.uwo.ca/international/iesc/)
+
+It highly recommended you join the [International Peer Guide
+Program](https://www.uwo.ca/international/iesc/programs/peer_guide_program.html)
+which \" matches new international students with friendly upper-year
+Western students called Peer Guides. Peer Guides are peer mentors who
+will connect new students to the Western community, answer questions and
+provide support throughout the program. Peer Guides are upper-year
+(undergraduate and graduate) students who have already experienced the
+transition to University life. Peer Guides help international students
+get settled and adjusted by: acting as your guide and cultural
+interpreter as you transition into your new life at Western; connecting
+you to Western and London online activities, services and resources;
+planning and hosting online events and activities so that you can meet
+other Peer Guides and international students; emailing or messaging you
+weekly until the end of the term to check-in and get to know you, see if
+you have any questions, inform you of upcoming events, and arrange to
+meet with you virtually.\"
