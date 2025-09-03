@@ -1081,6 +1081,8 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 
 
+eminder: You can also use the Course Info Bot
+
 Do I have to attend each lecture on Tuesdays and tutorial on Thursday each week? 
 Yes. 
 
@@ -1089,13 +1091,146 @@ As our class is designated Blended, the course is organized as follows:
 
 1) Lecture videos will be posted online on the OWL site before lectures, so you should view Lectures videos in advance of lectures so the lecture discussions, debates, activities, etc., will be more helpful and useful, and you are welcome to pull ahead in the readings and lecture videos, and complimentarily, you can catch up on the core materials if you miss a lecture but do attend lectures!
 
-2) In-person attendance in our lecture and tutorial room will follow a ‘flipped class’ model: we will have questions-and-answers, discussions, activities, debates, etc. based on the lecture videos and current events. Importantly: if you are unwell for any reason, please don't come to the lecture hall at all, focus on getting healthy, and you can always watch the lecture videos while you are getting better or after. Note: exams are based on lectures, lecture videos,  and readings.
+2) In-person attendance in our lecture and tutorial room will follow a ‘flipped class’ model: we will have questions-and-answers, discussions, activities, debates, etc. based on the lecture videos and current events. Importantly: if you are unwell for any reason, please don't come to the lecture hall at all, focus on getting healthy, and you can always watch the lecture videos while you are getting better or after. Note: exams are based on lectures, lecture videos,  and readings
 
-Are the Exams cumulative?
-No. Each Exam has particular weeks' materials it will test so please review the Course Outline and the relevant Exam page.
+Where is the Course Outline?
+
+
 Where are each Term's Lecture Videos and other Content?
 The Lecture videos will be on the POLS 1026 Course Content section. This will also be where links to posted non-textbook readings will be found. The topics for each week's lecture and the readings for those lectures are stated in the Course Outline. 
 If there is a problem with the video, such as it's disappeared, dragging, etc., let us know. Videos are either on our site or on YouTube (or both) but we appreciate there can be technology issues, so we appreciate feedback on tech problems so we can help your classmates, as well.
+
+Are there Required Readings?
+Yes. The required readings, textbooks, etc., are all in the Course Outline.
+
+Where can I find information about the Mid-Term Test and Final Exam?
+On this OWL site and each one will have it's own information section and pages.
+
+Are all Mid-Term Test and Final Exam multiple choice?
+Yes.
+
+Is the Mid-Term Test online?
+Yes.
+
+When in the Mid-Term Test?
+Check the Course Outline and the Mid-Term Info page.
+When is the Mid-Term Make-up Test?
+Check the Course Outline and the Mid-Term Info page.
+
+Is the Final Exam in-person?
+Yes.
+
+When is the Final Exam?
+It will be during the Final Exam time period and a date will be released by the Registrar. Note: we will only know the date when the final exam schedule is released by the Registrar.
+
+Can I write the Mid-Term Test or Final Exam with a -10% Penalty if I have no grounds from Academic Consideration?
+Yes. You don't need to have a reason for missing the Mid-Term or Final Exam, and you simply write the Make-up and -10% will be deducted from your achieved grade, e.g., you got 70% on the Make-up Fnal Exam, so you'll get 60% (70%-10%) for your Final Exam grade.
+
+What if I have travel plans that conflict with the Mid-Term Test or Final Exam?
+These are not grounds for academic consideration for the Mid-Term Test or the Final Exam.
+
+When will we know the dates for the make-up tests?
+These dates are listed in the Course Outline, and will be posted on their relevant OWL page.
+
+
+When will we know the dates for the exams?
+The dates are set by the Registrar, so you and we will only know when they release the dates at the same time.
+
+
+When will we know the dates for the make-up exams?
+The dates are set by the Registrar, so you and we will only know when they release the dates at the same time and we will have our dates thereafter.
+
+
+Can I write a Test/Exam ahead of the regular scheduled date and time for it?
+No. We only permit writing make-up exams after the regularly scheduled date. 
+
+
+Is there a location restriction on where I can right the tests and exams?
+No. You can write anywhere, there are no location restrictions.
+
+When are grades released?
+When they are ready and available, we will let you know. No point in emailing to ask when, or if you alone could have your grade before everyone else (which is unfair).
+
+
+Do I have to download ProctorTrack, Proctorio, ProctorEdu, QuestionMark, etc.?
+No. We are not using any proctoring software which will cause computer issues, but also we don't have any way to monitor, etc., so we cannot and do not provide any rectification for computer issues, etc.
+
+
+Where can I find information about the Essay assignment?
+The Essay information will be posted on  page on the Course Home page and in the Left Menu on the Content page
+
+
+
+
+
+
+Zoom Information
+
+
+What is Zoom and why and how do I use it?
+We are using Zoom for some of our Office Hours and meetings. "Zoom is a cloud-based solution for video and audio conferencing, collaboration, and online meetings. Your Western Identity is used as your login credentials for Zoom." (Western Technology Services).
+Look through UWO's WTS website, which gives instructions about how to install and use Zoom, and other useful tips as well.
+
+
+How do I reach Zoom technical support?
+If you are having trouble, whether on campus or at home, calling the Helpdesk at 519-661-3800 ext. 83800 will put you in touch with an agent who will gladly help you. For more information, visit the Helpdesk Website.
+
+What are the best approaches to doing the Readings?
+1. Read the Reading: no notes, etc., JUST get the 'big picture' and the major points of the Reading, etc. — read briskly & keep moving, so you follow the main narrative and points.
+
+2. Watch the Lecture videos to figure out what was important in/emphasized from the Readings.
+
+3. Go back and review the Readings only for what you don't understand, what needs more details/explanations.
+
+These strategies will help you:
+
+— Make more efficient use of your studying time.
+
+— Read with better comprehension.
+
+— Remember what you’ve read.
+
+Another great resource is Active Reading Strategies by Dr. Mike Atkinson, Prof of Psychology:
+
+ACTIVE READING STRATEGIES
+
+The strategies recommended for efficient learning of text material can be divided into three types: Pre-reading, Reading for comprehension, Post-reading.
+
+PRE-READING: LEARN THE HEADINGS AND SUBHEADINGS
+
+— Instead of diving immediately into reading the chapter, spend a few minutes learning the headings and subheadings.
+
+— They tell you the important ideas that will be covered in the chapter.
+
+— In the text they are laid out for you on the first few pages of the book in the table of contents.
+
+— Look at these headings and subheadings, think how they have been ordered, try reciting them from memory, and then write them out on a separate sheet of paper.
+
+READING FOR COMPREHENSION: READ A FEW PAGES AND THEN SUMMARIZE
+
+— Don't try to read most of the chapter in one sitting. It is much easier to learn the material in small chunks.
+
+— Read a few pages carefully and THEN make a summary of the important points. Continue doing this until you have summarized about 10 pages — then take a break.
+
+— You can summarize by highlighting sparingly AND making marginal notes, or by making separate written notes.
+
+— Note that much of the information in psychology comes in the form of arguments.
+
+— Here are some the important kinds of information that are crucial to knowing and understanding an argument: i) definitions of new terms, ii) essential explanations of the specific argument, iii) examples, iv) results of studies.
+
+— If you make separate summary notes, try using point form and keywords.
+
+— This has two advantages: the notes are made more quickly, and they are easier to read.
+
+— As you record key terms and definitions, ALWAYS relate them to the arguments of which they are a part.
+
+POST-READING: TEST YOURSELF
+
+— After actively reading 10 or more pages in the manner described above, try reciting (i.e., recalling from memory) all the important points under each heading and subheading that you have studied.
+
+— This will reinforce the ideas you know and identify those that you need to review.
+
+— Reviewing any study guide questions and relevant old exam questions after you have finished the entire chapter can also be very helpful.
 
 # **Academic Consideration, Learning Support, International Student Support**
 
