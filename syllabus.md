@@ -1323,3 +1323,87 @@ meet with you virtually.\"
 
 Necessary conditions for passing this course
 Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
+
+Question: Are office hours only online or is in-person available as well?
+Answer: Dan is in Toronto, so office hours are on Zoom. Nig can meet in person.
+
+Question: Are textbooks mandatory?
+Answer: Yes, the textbooks are required.
+
+Question: Can we record the lectures?
+Answer: There’s not a lot of value in recording the lectures because we’ve pre-recorded the videos. I do record the audio from class.
+
+Question: Do we get advisory when writing our final essay?
+Answer: I’m not entirely sure what this means.
+
+Question: Does one professor write the exam or do both write it together? If the answer is the former, which professor writes the exam?
+Answer: We are responsible for our own exams. Dan writes all of the questions for 1026.
+
+Question: How can I apply political science to business?
+Answer: There are many ways to apply it; there is always a policy and regulatory environment both within and outside of business.
+
+Question: How can I excel in this class?
+Answer: Make sure to review all of the course pages and the FAQs.
+
+Question: How long does it take for an email response from you?
+Answer: Depends on how busy I am. Dan tries to get back to everybody within 24 hours.
+
+Question: How many essays are there in total?
+Answer: There is only one essay in POLS 1026.
+
+Question: How relevant is political science in terms of the law field? Would my knowledge of the law world be ahead of a psychology student who’s also looking to apply for law school?
+Answer: The bulk of reference letters that Dan writes are for law school. Analytical framework and argumentation are very relevant to law school.
+
+Question: How will I be able to contribute?
+Answer: Make sure to come to all of the lectures and tutorial hours. There will be lots of in-class discussion.
+
+Question: I have a class directly before this one completely across campus. Would it be an issue if I was a few minutes late to this class on Thursdays, or do you recommend I switch this class?
+Answer: It’s okay to be a few minutes late. We always start 10 minutes after the official start time and end 10 minutes early.
+
+Question: If we are unable to come to Thursday’s class due to illness, are we still able to get the attendance bonus?
+Answer: You only need 8 of 12 attendance bonuses, precisely to allow for flexibility.
+
+Question: Just wanted to know how the lecture structure is.
+Answer: Lectures are based on the textbook chapter, along with TikToks, discussion prompts, and open-ended questions.
+
+Question: What is AI literacy?
+Answer: Developing understanding about the use and practices of generative AI. For further discussion, see this open educational resource: https://ecampusontario.pressbooks.pub/aihighereducation/part/domain-of-ai-awareness-for-education/
+
+Question: What is your best advice to do really well in your class?
+Answer: Different students excel at different things. Check out the FAQ for details.
+
+Question: What other resources can I use beyond the textbook to be successful?
+Answer: Make sure to review the lectures and attend the tutorial hours.
+
+Question: What will the essay topic be about?
+Answer: There is a list of essay topics.
+
+Question: What will we be writing the essay about?
+Answer: There is a list of essay topics.
+
+Question: What’s the best way to take notes?
+Answer: It’s up to individual students. Feel free to ask the bot.
+
+Question: When is our exam?
+Answer: Please review the course outline.
+
+Question: Why are there no TAs?
+Answer: There are not enough graduate students for the size of the course.
+
+Question: Will I be able to stay on top of the week-to-week work?
+Answer: Yes, but the assumption is that you are a mature student, so intrinsic motivation is important.
+
+Question: Will PowerPoints be posted?
+Answer: Yes, they are posted under course content in Brightspace.
+
+Question: Will the slides of the lectures be posted for future review of content?
+Answer: Yes, they are all posted under course content.
+
+Question: Will there be guest speakers in any cases, or opportunities through the class to listen to guest speakers?
+Answer: Unlikely at this point. Normally we have senators and other political figures in some of the other classes, but it’s not likely in this first-year course.
+
+Question: Will Thursday lectures be online?
+Answer: No, they are strictly in person.
+
+Question: Would you recommend having the physical or the e-version of the textbook?
+Answer: Either is acceptable.
