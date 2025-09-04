@@ -1318,3 +1318,6 @@ other Peer Guides and international students; emailing or messaging you
 weekly until the end of the term to check-in and get to know you, see if
 you have any questions, inform you of upcoming events, and arrange to
 meet with you virtually.\"
+
+Necessary conditions for passing this course
+Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
