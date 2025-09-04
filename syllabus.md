@@ -25,6 +25,8 @@ Political Science 1026: Political Power and Participation
   **Lecture location** See your timetable
   -----------------------------------------------------------------------
 
+  Students - Please note that the academic calendar has not been updated. Therefore, the antirequisites to Political Science 1025F/G and Political Science 1026F/G are: Political Science 1020E, Political Science 1021F/G and Political Science 1022F/G.
+
 ## Course description: what is this course about?
 
 What is politics?
