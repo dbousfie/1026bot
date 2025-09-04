@@ -1407,3 +1407,5 @@ Answer: No, they are strictly in person.
 
 Question: Would you recommend having the physical or the e-version of the textbook?
 Answer: Either is acceptable.
+
+You can check your bonus attendance at this link https://bit.ly/1026checkattend 
