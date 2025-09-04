@@ -106,7 +106,7 @@ learning!
 
 - Nov 1 -- Nov 9 -- Fall Reading Week
 
-- Dec 6 -- Last day of classes
+- Dec 9 -- Last day of classes
 
 - Dec 11 to 22 -- Exam Period - do not book travel plans, etc., until
   the final schedule is posted
