@@ -1409,3 +1409,25 @@ Question: Would you recommend having the physical or the e-version of the textbo
 Answer: Either is acceptable.
 
 You can check your bonus attendance at this link https://bit.ly/1026checkattend 
+
+
+READ NOW > Anti-Requisites & Pre-Requisites
+Anti-Requisites & Pre-Requisites
+The following courses are Anti-Requisites for Political Science 1026F/G:
+Political Science 1020E
+Political Science 1021F/G
+Political Science 1022F/G
+Political Science 1026F/G (that is: you can't take the course twice and count it twice)
+Note the above is not dependent on whether you took those courses at Main/Western, Huron, King's or Brescia campus, and are anti-requisites regardless of which campus you took the course(s)
+Political Science 1026F/G has no pre-requisites.
+Political Science 1025F/G and Political Science 1026F/G are not prerequisites for each other, and can be taken independently of each other and during the same term or many terms apart.
+If you are still unsure about the above contact Academic Counselling immediately:
+Western Social Science Academic Counselling: https://www.advising.ssc.uwo.ca/
+King's Academic Advising : https://www.kings.uwo.ca/about-kings/facts-and-information/administrative-departments/academic-deans-office/
+Huron Academic Advising: https://huronu.ca/student-life/student-services/academic-advising/
+Note: Both Poli Sci 1025F/G and 1020F/G are needed for the following degrees (and check with Counselling for other degrees):
+
+Honours Specialization in Politcal Science
+Major in Politcal Science
+Honours Specialization in Politics, Philosophy and Economics (PPE)
+Honours Specialization in International Relations (IR)
