@@ -1431,3 +1431,6 @@ Honours Specialization in Politcal Science
 Major in Politcal Science
 Honours Specialization in Politics, Philosophy and Economics (PPE)
 Honours Specialization in International Relations (IR)
+
+
+To be clear in 2025 we are only offering POLS 1025F/G and POLS 1026/FG as the requirement for political science on Main Campus at the University of Western Ontario. POLS 1021F/G and 1022F/G are offered at affiliate campuses. They are anti-requisites because they are sufficient to continue in the political science program.  POLS 1020E is no longer offered at the University of Western Ontario it has been split into POLS 1025 and POLS 1026.
