@@ -1436,3 +1436,39 @@ Honours Specialization in International Relations (IR)
 To be clear in 2025 we are only offering POLS 1025F/G and POLS 1026/FG as the requirement for political science on Main Campus at the University of Western Ontario. POLS 1021F/G and 1022F/G are offered at affiliate campuses. They are anti-requisites because they are sufficient to continue in the political science program.  POLS 1020E is no longer offered at the University of Western Ontario it has been split into POLS 1025 and POLS 1026.
 
 The green text in the Powerpoints is the instructors commentary and addition to the PowerPoint slides that were provided by the textbook manufacturer. It is the 'value added' of the course.
+
+Q: How many words is our EBO? How many rebuttals and counterarguments do we need?
+A: 1500 words
+
+Q: Is the bonus 5% applied to my overall grade at the end of the course or the grade for my essay? If it is applied to the essay grade, is it applied to the EBO or the actual essay assignment?
+A: It is applied to the essay grade
+
+Q: Will we have a class to teach how to do proper citations?
+A: No, this is something you can review and we have videos on it as well
+
+Q: Are we going to go over what the expectations are for the EBO and what you are looking for?
+A: Not really, you need to guide yourself through the course web pages
+
+Q: How many essays do we have?
+A: One
+
+Q: AI-generated notes?
+A: The link to the notes is here http://tiny.cc/1020lecturesummaries
+
+Q: What is the essay supposed to be about?
+A: There are six pre-assigned topics
+
+Q: Can we find the Thursday tutorial slides on Brightspace?
+A: They will be on the main page of the Brightspace sidebar link "POLS 1026 Course Content" or here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264732
+
+Q: If we miss a class where you talk about material not in the slides, how should we catch up?
+A: Use the PowerPoints, the YouTube videos and the textbook to catch up
+
+Q: Are we going to cover lobbyists such as AIPAC and their role in foreign affairs?
+A: We do that at the upper your levels in foreign policy analysis
+
+Q: Is all the material we learn on Tuesday the only material we learn for every week?
+A: Yes the testable content is on Tuesday, the tutorial discussion is not testable on Thursday
+
+Q: Will we be looking at international politics?
+A: Yes, that is week 11
