@@ -1472,3 +1472,5 @@ A: Yes the testable content is on Tuesday, the tutorial discussion is not testab
 
 Q: Will we be looking at international politics?
 A: Yes, that is week 11
+
+Students can check their attendance at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3450465
