@@ -1479,3 +1479,67 @@ A: all of the weekly and textbook quizzes are practice quizzes and none of them 
 Students can check their attendance at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3450465
 
 Dan's office hours are available at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
+
+Q: How do I get the bot to summarize the week’s lecture?  
+A: In PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any of the chat box  
+
+Q: Can we go more over some of the concepts in depth and focus less on the AI components?  
+A: That's what we do on Tuesdays  
+
+Q: What’s the point of AI literacy? Is it examinable?  
+A: No, it's University literacy  
+
+Q: Are we being tested on all this AI stuff?  
+A: Nothing on Thursday is tested  
+
+Q: Should we be taking notes on Thursday even though it’s not content for testing?  
+A: If you want  
+
+Q: If the midterm has "this was not discussed in lecture" options, does that mean only lectures + key terms are testable?  
+A: Yes anything that was discussed in the Powerpoints or the videos  
+
+Q: Should we be looking at the green text in the slideshow?  
+A: Yes that's largely where the questions are coming from  
+
+Q: To go over in class: key terms and learning outcomes of each lecture.  
+A: Each PowerPoint starts with a learning outcome  
+
+Q: Are we expected to segment information week by week, or will questions ask which week something was discussed?  
+A: Yes, because we talk about things in different contexts you have to know what we were talking about in each week  
+
+Q: Is anything in readings (not discussed in lecture) examinable?  
+A: No nothing just in the textbook is examinable it has to be in the Powerpoints or lecture as well  
+
+Q: When you give examples of questions from lectures, does that include lecture videos or just in-person lectures?  
+A: The lecture videos serve as the basis because they are always available  
+
+Q: Can we get an example EBO or rubric?  
+A: It changes every year so we don't have completed ones yet  
+
+Q: What topics should we mainly focus on for the midterm—definitions or broader concepts?  
+A: Broader concepts  
+
+Q: Will there be practice midterms posted?  
+A: Those are the questions I bring to class and the quizzes each week are practice  
+
+Q: Was the practice questions shown in class a realistic layout of the midterm?  
+A: I literally pulled them from the exam Bank  
+
+Q: Will you release an exam review?  
+A: Not really - you have everything it would just be repeating what you already have  
+
+Q: Are the extra slides (not covered in lecture) still testable?  
+A: Yes anything in the videos  
+
+Q: Midterm date: syllabus says 18th, in class you said 19th. Which is correct?  
+A: 19th is correct  
+
+Q: How many “this was not discussed in lecture” questions will be on the midterm?  
+A: I don't know yet  
+
+Q: If we don’t know an answer on the exam, should we just guess?  
+A: Yes there's no penalty for guessing wrong  
+
+Q: When are final exams?  
+A: The registrar sets those dates - we don't have them yet  
+
