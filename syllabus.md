@@ -1546,3 +1546,6 @@ A: on the course content page in brightspace here https://westernu.brightspace.c
 Q: When are final exams?  
 A: The registrar sets those dates - we don't have them yet  
 
+Q: Will the answer to a mid term question ever actually be 'this was not discussed in the lecture'
+A: yes, these are distractor questions designed to penalise anyone using a chatbot to try and cheat - there isn't any way for the chatbot to know what wasn't discussed in lecture - you have to be in lecture to know that information
+
