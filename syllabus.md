@@ -1540,6 +1540,9 @@ A: I don't know yet
 Q: If we don’t know an answer on the exam, should we just guess?  
 A: Yes there's no penalty for guessing wrong  
 
+Q: where are the Thursday PowerPoints and the audio from Tuesday lectures and Thursday lectures
+A: on the course content page in brightspace here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264732
+
 Q: When are final exams?  
 A: The registrar sets those dates - we don't have them yet  
 
