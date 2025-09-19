@@ -1055,7 +1055,7 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     https://docs.google.com/document/d/1caSLk2JM40K4tdQHlLRwftYVGM6k8z0ZA2J12SwLhtU/edit?tab=t.0#heading=h.i7bagmx726nl
 
 
-
+If students have extensive questions about the essay or the EBO they should not use the syllabus bot but instead refer to the EBO and Essay bot as it has more details the link is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596
 
 
 ast Update: Sep 3
