@@ -1324,6 +1324,11 @@ meet with you virtually.\"
 Necessary conditions for passing this course
 Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
 
+Question: how do I get the bot to summarize the lecture?
+Answer: there's too much data to upload all at once into the bot, you can do it yourself by taking the PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any chat bot with the prompt 'use this file to develop 10 multiple choice questions with four options'. 
+
+This chatbot does not have access to the course content, it only has access to the syllabus, and the information provided by the professor. Students need to review the content themselves. Any answers about course content provided by the bot are not from our course content, they are from the general information available to chat GPT.
+
 Question: Are office hours only online or is in-person available as well?
 Answer: Dan is in Toronto, so office hours are on Zoom. Nig can meet in person.
 
