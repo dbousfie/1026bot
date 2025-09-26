@@ -1554,3 +1554,15 @@ A: The registrar sets those dates - we don't have them yet
 Q: Will the answer to a mid term question ever actually be 'this was not discussed in the lecture'
 A: yes, these are distractor questions designed to penalise anyone using a chatbot to try and cheat - there isn't any way for the chatbot to know what wasn't discussed in lecture - you have to be in lecture to know that information
 
+Got it — here’s a cleaner version for your MD file, no blanks, no extra formatting:
+
+Q: Are the online lectures the same as in-person lectures?
+A: The online lectures serve as the basis for the midterm and final exam (in case someone misses a class), so please be sure to review them.
+
+Q: Are the slides you don’t talk about in class testable?
+A: Any slide that appears in the online video is testable, because in case someone misses a class we use the videos as the basis for generating the questions for the midterm and the final.
+
+Q: For the midterm, if a question says “this was not discussed in lecture” but the material was discussed in the textbook, should we still select that option?
+A: No questions on the midterm or the final will come directly from the textbook, so you should never choose “this was not discussed in lecture” if it was in the textbook (which is extremely unlikely anyway).
+
+
