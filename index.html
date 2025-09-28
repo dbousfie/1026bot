@@ -8,31 +8,78 @@
     body {
       font-family: 'Lato', sans-serif;
       margin: 2rem;
+      /* Light purple — a lighter tint of Western purple */
+      background-color: #e6d5f0;
+      color: #ffffff;
+      position: relative;
+      overflow: hidden;
     }
+
+    /* Watermark text in the background */
+    body::before {
+      content: "SYLLABUS & COURSE QUESTIONS ONLY";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%) rotate(-15deg);
+      font-size: 4rem;
+      color: rgba(255, 255, 255, 0.2);  /* very light translucent white */
+      white-space: nowrap;
+      pointer-events: none;
+      user-select: none;
+      z-index: 0;
+    }
+
+    /* Foreground container to ensure form & content appear above watermark */
+    .content {
+      position: relative;
+      z-index: 1;
+    }
+
     textarea {
       font-family: monospace;
       width: 100%;
       max-width: 600px;
+      background-color: rgba(255,255,255,0.8);
+      color: #000;
+      border: 1px solid #ccc;
     }
+
     #response {
       white-space: pre-wrap;
       margin-top: 1rem;
       padding: 1rem;
-      background: #f4f4f4;
+      background: rgba(255,255,255,0.9);
       border: 1px solid #ccc;
       max-width: 600px;
+      color: #000;
+    }
+
+    button {
+      background-color: #4F2683; /* Western purple */
+      color: #fff;
+      border: none;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #6a3c9b;
     }
   </style>
 </head>
 <body>
-  <h2>1026 Syllabus Query Page</h2>
-  <form id="queryForm">
-    <textarea name="query" id="query" rows="5" cols="60" placeholder="Type your question here..."></textarea><br />
-    <button type="submit">Submit</button>
-  </form>
-  <h3>Response:</h3>
-  <p>All responses are anonymously recorded by Qualtrics for feedback and verification</p>
-  <pre id="response"></pre>
+  <div class="content">
+    <h2>1026 Syllabus Query Page</h2>
+    <form id="queryForm">
+      <textarea name="query" id="query" rows="5" cols="60" placeholder="Type your question here..."></textarea><br />
+      <button type="submit">Submit</button>
+    </form>
+    <h3>Response:</h3>
+    <p>All responses are anonymously recorded by Qualtrics for feedback and verification</p>
+    <pre id="response"></pre>
+  </div>
 
   <script>
     const form = document.getElementById("queryForm");
