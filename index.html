@@ -8,29 +8,42 @@
     body {
       font-family: 'Lato', sans-serif;
       margin: 2rem;
-      /* Light purple — a lighter tint of Western purple */
-      background-color: #e6d5f0;
+      background-color: #e6d5f0; /* light purple */
       color: #ffffff;
       position: relative;
       overflow: hidden;
     }
 
-    /* Watermark text in the background */
+    /* Full-page repeating watermark */
     body::before {
-      content: "SYLLABUS & COURSE QUESTIONS ONLY";
+      content: "SYLLABUS & COURSE QUESTIONS ONLY ";
+      font-size: 2.5rem;
+      color: rgba(255,255,255,0.15); /* faint white */
       position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%) rotate(-15deg);
-      font-size: 4rem;
-      color: rgba(255, 255, 255, 0.2);  /* very light translucent white */
-      white-space: nowrap;
+      top: 0;
+      left: 0;
+      width: 200%;
+      height: 200%;
+      line-height: 4rem;
+      white-space: pre;
+      transform: rotate(-30deg);
+      z-index: 0;
+
+      /* Repeating effect */
+      background: repeating-linear-gradient(
+        -30deg,
+        rgba(255,255,255,0.15) 0,
+        rgba(255,255,255,0.15) 1px,
+        transparent 1px,
+        transparent 120px
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-align: center;
       pointer-events: none;
       user-select: none;
-      z-index: 0;
     }
 
-    /* Foreground container to ensure form & content appear above watermark */
     .content {
       position: relative;
       z-index: 1;
@@ -71,38 +84,4 @@
 </head>
 <body>
   <div class="content">
-    <h2>1026 Syllabus Query Page</h2>
-    <form id="queryForm">
-      <textarea name="query" id="query" rows="5" cols="60" placeholder="Type your question here..."></textarea><br />
-      <button type="submit">Submit</button>
-    </form>
-    <h3>Response:</h3>
-    <p>All responses are anonymously recorded by Qualtrics for feedback and verification</p>
-    <pre id="response"></pre>
-  </div>
-
-  <script>
-    const form = document.getElementById("queryForm");
-    const responseBox = document.getElementById("response");
-
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
-      responseBox.textContent = "Loading...";
-      const query = document.getElementById("query").value;
-
-      try {
-        const res = await fetch("https://1026bot.deno.dev/", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ query }),
-        });
-
-        const text = await res.text();
-        responseBox.textContent = text;
-      } catch (err) {
-        responseBox.textContent = "Error contacting server.";
-      }
-    });
-  </script>
-</body>
-</html>
+    <h2>1026 Syl
