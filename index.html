@@ -8,8 +8,8 @@
     body {
       font-family: 'Lato', sans-serif;
       margin: 2rem;
-      background-color: #e6d5f0; /* light purple */
-      color: #ffffff;
+      background-color: #e6d5f0; /* light purple background */
+      color: #4F2683; /* Western dark purple for page text */
       position: relative;
       overflow: hidden;
     }
@@ -18,7 +18,7 @@
     body::before {
       content: "SYLLABUS & COURSE QUESTIONS ONLY ";
       font-size: 2.5rem;
-      color: rgba(255,255,255,0.15); /* faint white */
+      color: rgba(79,38,131,0.08); /* faint purple watermark */
       position: absolute;
       top: 0;
       left: 0;
@@ -32,8 +32,8 @@
       /* Repeating effect */
       background: repeating-linear-gradient(
         -30deg,
-        rgba(255,255,255,0.15) 0,
-        rgba(255,255,255,0.15) 1px,
+        rgba(79,38,131,0.08) 0,
+        rgba(79,38,131,0.08) 1px,
         transparent 1px,
         transparent 120px
       );
@@ -53,7 +53,7 @@
       font-family: monospace;
       width: 100%;
       max-width: 600px;
-      background-color: rgba(255,255,255,0.8);
+      background-color: rgba(255,255,255,0.85);
       color: #000;
       border: 1px solid #ccc;
     }
@@ -69,7 +69,7 @@
     }
 
     button {
-      background-color: #4F2683; /* Western purple */
+      background-color: #4F2683; /* Western purple button */
       color: #fff;
       border: none;
       padding: 0.5rem 1rem;
@@ -84,4 +84,38 @@
 </head>
 <body>
   <div class="content">
-    <h2>1026 Syl
+    <h2>1026 Syllabus Query Page</h2>
+    <form id="queryForm">
+      <textarea name="query" id="query" rows="5" cols="60" placeholder="Type your question here..."></textarea><br />
+      <button type="submit">Submit</button>
+    </form>
+    <h3>Response:</h3>
+    <p>All responses are anonymously recorded by Qualtrics for feedback and verification</p>
+    <pre id="response"></pre>
+  </div>
+
+  <script>
+    const form = document.getElementById("queryForm");
+    const responseBox = document.getElementById("response");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      responseBox.textContent = "Loading...";
+      const query = document.getElementById("query").value;
+
+      try {
+        const res = await fetch("https://1026bot.deno.dev/", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ query }),
+        });
+
+        const text = await res.text();
+        responseBox.textContent = text;
+      } catch (err) {
+        responseBox.textContent = "Error contacting server.";
+      }
+    });
+  </script>
+</body>
+</html>
