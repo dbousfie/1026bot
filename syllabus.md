@@ -1568,4 +1568,7 @@ A: No questions on the midterm or the final will come directly from the textbook
 Q: will class be held on September 30th?
 A: No, class will not be held on September 30th. It is the national day for Truth and Reconciliation - there will be no class. Thursday October 2nd tutorial will not be taking attendance it's just a Q&A session.
 
+Q: where can I find the link for office hours
+A: the link to the zoom office hours is available here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
+
 
