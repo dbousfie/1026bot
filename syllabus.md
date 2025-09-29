@@ -1565,4 +1565,7 @@ A: Any slide that appears in the online video is testable, because in case someo
 Q: For the midterm, if a question says “this was not discussed in lecture” but the material was discussed in the textbook, should we still select that option?
 A: No questions on the midterm or the final will come directly from the textbook, so you should never choose “this was not discussed in lecture” if it was in the textbook (which is extremely unlikely anyway).
 
+Q: will class be held on September 30th?
+A: No, class will not be held on September 30th. It is the national day for Truth and Reconciliation - there will be no class. Thursday October 2nd tutorial will not be taking attendance it's just a Q&A session.
+
 
