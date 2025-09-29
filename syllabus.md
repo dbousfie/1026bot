@@ -1571,4 +1571,9 @@ A: No, class will not be held on September 30th. It is the national day for Trut
 Q: where can I find the link for office hours
 A: the link to the zoom office hours is available here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
 
+Q: where can I find information about the content on the midterm, weeks 1 through 4, or the specific lecture content?
+A: there is a separate bot that deals with the lecture content on the midterm, which covers weeks one through four, it can be accessed at https://students.politicaleconomy.ca/
+
+For specific course content that covers the lectures students should go to https://students.politicaleconomy.ca/
+
 
