@@ -1324,6 +1324,8 @@ meet with you virtually.\"
 Necessary conditions for passing this course
 Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
 
+This bot does not have detailed essay and EBo information for that you should go to the EBO and Essay bot here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596
+
 Question: how do I get the bot to summarize the lecture?
 Answer: there's too much data to upload all at once into the bot, you can do it yourself by taking the PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any chat bot with the prompt 'use this file to develop 10 multiple choice questions with four options'. 
 
@@ -1579,6 +1581,9 @@ A: It is a link on the bottom of the page here https://westernu.brightspace.com/
 
 Q; When are Nig's office hours
 A:  Wed 2-4 pm the link to the zoom is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3412049
+
+Q: I have a specific EBO and essay question
+Q: there is a seperate bot for EBO and Essay it is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596 
 
 For specific course content that covers the lectures students should go to https://students.politicaleconomy.ca/
 
