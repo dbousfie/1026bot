@@ -1574,6 +1574,12 @@ A: the link to the zoom office hours is available here https://westernu.brightsp
 Q: where can I find information about the content on the midterm, weeks 1 through 4, or the specific lecture content?
 A: there is a separate bot that deals with the lecture content on the midterm, which covers weeks one through four, it can be accessed at https://students.politicaleconomy.ca/
 
+Q: where is the EBO worksheet
+A: It is a link on the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
+
+Q; When are Nig's office hours
+A:  Wed 2-4 pm the link to the zoom is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3412049
+
 For specific course content that covers the lectures students should go to https://students.politicaleconomy.ca/
 
 
