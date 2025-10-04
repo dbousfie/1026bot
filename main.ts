@@ -74,7 +74,7 @@ function pickSectionsForEntity(sections: Section[], entity: "ebo" | "essay"): Se
   });
 }
 
-/* ----------------- Deterministic due/penalty extractor ----------------- */
+/* ----------------- Deterministic extractor (due + penalties + extensions) ----------------- */
 
 /** Looks like a real date/time, not just a heading. */
 const DATEISH =
@@ -84,6 +84,14 @@ function looksLikeDueLine(s: string): boolean {
   return /\b(due|deadline)\b/i.test(s) && DATEISH.test(s);
 }
 
+function looksLikePenaltyOrSubmitLine(s: string): boolean {
+  return /\b(late|penalt(y|ies)|no\s+penalt(y|ies)|submit|submissions?)\b/i.test(s);
+}
+
+function looksLikeExtensionLine(s: string): boolean {
+  return /\b(academic\s+consideration|accommodat(ion|ions)|extension(s)?|medical|mitigat(ing|ion)|documentation)\b/i.test(s);
+}
+
 /** Convert markdown superscripts like 8^th^ → 8th; remove any other ^...^ safely. */
 function cleanupSuperscripts(s: string): string {
   let out = s.replace(/(\d+)\^([a-z]{1,4})\^/gi, "$1$2");
@@ -91,40 +99,86 @@ function cleanupSuperscripts(s: string): string {
   return out;
 }
 
-/** Extract a block: the first line that looks like a real due/deadline line,
- * then include every following non-blank line until the next blank line or 12 lines total.
- * This reliably pulls in the “no penalty / late penalty / final cutoff” lines.
+/** Capture a contiguous paragraph (non-blank lines) around a given index. */
+function captureParagraph(lines: string[], startIdx: number): string[] {
+  let start = startIdx;
+  while (start > 0 && lines[start - 1].trim() !== "") start--;
+  let end = startIdx;
+  while (end + 1 < lines.length && lines[end + 1].trim() !== "") end++;
+  const out: string[] = [];
+  for (let i = start; i <= end; i++) {
+    out.push(cleanupSuperscripts(lines[i].trimEnd()));
+  }
+  return out;
+}
+
+/** Extracts:
+ *  - First due/deadline paragraph (date present),
+ *  - All immediately following non-blank lines (to include no-penalty/late-penalty),
+ *  - Any extension/consideration/accommodation paragraphs anywhere in the same section.
  */
-function extractDueBlockFrom(text: string): string | null {
-  const lines = text.split(/\r?\n/);
-  let start = -1;
+function extractDuePenaltyExtensionBlock(sectionText: string): string | null {
+  const lines = sectionText.split(/\r?\n/);
+
+  // 1) Due/deadline paragraph
+  let dueStart = -1;
   for (let i = 0; i < lines.length; i++) {
     const l = lines[i].trim();
     if (!l) continue;
-    if (looksLikeDueLine(l)) { start = i; break; }
+    if (looksLikeDueLine(l)) { dueStart = i; break; }
   }
-  if (start === -1) return null;
+  if (dueStart === -1) return null;
 
-  const buf: string[] = [];
-  // include due line
-  buf.push(cleanupSuperscripts(lines[start].trim()));
+  const resultLines: string[] = [];
 
-  // include subsequent non-blank lines (no filters) to capture penalties
-  for (let j = start + 1; j < lines.length && buf.length < 12; j++) {
+  // Capture the due paragraph
+  const duePara = captureParagraph(lines, dueStart);
+  resultLines.push(...duePara);
+
+  // Then include subsequent non-blank lines (often penalties) until blank
+  let j = dueStart + (duePara.length ? 1 : 0);
+  while (j < lines.length) {
     const raw = lines[j];
     if (!raw.trim()) break;
-    buf.push(cleanupSuperscripts(raw.trimEnd()));
+    // include lines that look like penalties/submit or continue the same paragraph block
+    if (looksLikePenaltyOrSubmitLine(raw) || DATEISH.test(raw) || raw.trim().length > 0) {
+      resultLines.push(cleanupSuperscripts(raw.trimEnd()));
+      j++;
+    } else {
+      break;
+    }
   }
 
-  // Trim trailing empty strings if any sneaked in
-  while (buf.length && buf[buf.length - 1].trim() === "") buf.pop();
+  // 2) Extension / Academic Consideration paragraphs (anywhere in this section)
+  const seen = new Set<number>();
+  const pushBlock = (block: string[]) => {
+    for (const line of block) resultLines.push(line);
+    resultLines.push(""); // blank line separator
+  };
 
-  return buf.join("\n");
+  // Only add extension blocks not already included
+  for (let i = 0; i < lines.length; i++) {
+    if (!looksLikeExtensionLine(lines[i])) continue;
+    // Skip if this line index is inside the already captured region
+    // (approximate by checking identical content presence)
+    const block = captureParagraph(lines, i);
+    const blockStr = block.join("\n");
+    const already = resultLines.join("\n").includes(blockStr);
+    if (!already) {
+      pushBlock(block);
+    }
+  }
+
+  // Remove trailing blank if added
+  while (resultLines.length && resultLines[resultLines.length - 1].trim() === "") {
+    resultLines.pop();
+  }
+
+  return resultLines.length ? resultLines.join("\n") : null;
 }
 
-function answerDueDeterministically(query: string, md: string): { text: string, urls: string[] } | null {
+function answerDueDeterministically(query: string, md: string, entity: "ebo" | "essay"): { text: string, urls: string[] } | null {
   const sections = parseSections(md);
-  const entity: "ebo" | "essay" = mentionsEBO(query) ? "ebo" : "essay";
   const pool = pickSectionsForEntity(sections, entity);
 
   // Prefer sections whose headings mention "due"/"deadline" first
@@ -135,7 +189,7 @@ function answerDueDeterministically(query: string, md: string): { text: string, 
 
   for (const s of prioritized) {
     const combined = `${s.heading}\n${s.body}`;
-    const block = extractDueBlockFrom(combined);
+    const block = extractDuePenaltyExtensionBlock(combined);
     if (block) {
       const urls = Array.from(new Set(s.lessonUrls));
       const header = entity === "ebo" ? "EBO" : "essay";
@@ -172,9 +226,10 @@ serve(async (req: Request): Promise<Response> => {
 
   const materials = await readFileSafe(CONTENT_FILE);
 
-  // Deterministic path for due/deadline/late/submit questions about EBO or Essay
+  // Deterministic path for EBO/Essay + due/deadline questions
   if (hasDueIntent(query) && (mentionsEBO(query) || mentionsEssayOnly(query))) {
-    const det = answerDueDeterministically(query, materials);
+    const entity: "ebo" | "essay" = mentionsEBO(query) ? "ebo" : "essay";
+    const det = answerDueDeterministically(query, materials, entity);
     if (det) {
       const urlsBlock = det.urls.length
         ? `\n\nRelevant course page(s):\n${det.urls.map(u => `- ${u}`).join("\n")}`
@@ -203,10 +258,10 @@ There may be errors in my responses; always refer to the course page: ${COURSE_P
         headers: { "Content-Type": "text/plain", "Access-Control-Allow-Origin": "*" },
       });
     }
-    // If no block found, fall through to model.
+    // If we somehow failed to extract, fall through to the model (rare).
   }
 
-  // Model path (for other questions)
+  // Model path (for everything else)
   if (!OPENAI_API_KEY) return new Response("Missing OpenAI API key", { status: 500 });
 
   const entityHint = mentionsEBO(query) ? "EBO" : (mentionsEssayOnly(query) ? "Essay" : "EBO and Essay");
