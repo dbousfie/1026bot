@@ -4,50 +4,76 @@ const OPENAI_API_KEY = Deno.env.get("OPENAI_API_KEY");
 const QUALTRICS_API_TOKEN = Deno.env.get("QUALTRICS_API_TOKEN");
 const QUALTRICS_SURVEY_ID = Deno.env.get("QUALTRICS_SURVEY_ID");
 const QUALTRICS_DATACENTER = Deno.env.get("QUALTRICS_DATACENTER");
-
+const SYLLABUS_LINK = Deno.env.get("SYLLABUS_LINK") || "";
 const OPENAI_MODEL = Deno.env.get("OPENAI_MODEL") || "gpt-4o-mini";
-const COURSE_PAGE = Deno.env.get("COURSE_PAGE") || "https://westernu.brightspace.com/d2l/home/130641";
+
 const CONTENT_FILE = Deno.env.get("CONTENT_FILE") || "syllabus.md";
+const EBO_ESSAY_LINK =
+  Deno.env.get("EBO_ESSAY_LINK") ||
+  "https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596";
 
 const LESSON_RE =
   /https:\/\/westernu\.brightspace\.com\/d2l\/le\/lessons\/\d+\/(?:lessons|units|topics)\/\d+/g;
 
-type Section = {
-  heading: string;
-  body: string;
-  lessonUrls: string[];
-};
+/* ----------------- Query classification ----------------- */
 
 function norm(s: string) { return (s || "").toLowerCase(); }
-function mentionsEBO(q: string) {
+
+function mentionsEBO(q: string): boolean {
   const s = norm(q);
   return /\b(e\.?\s*b\.?\s*o\.?|exploratory\b.*\bbibliograph)/.test(s);
 }
-function mentionsEssayOnly(q: string) {
+
+function mentionsEssayOnly(q: string): boolean {
   const s = norm(q);
   return /\bessay|essays\b/.test(s) && !mentionsEBO(q);
 }
-function hasDueIntent(q: string) {
+
+function hasLogisticsIntent(q: string): boolean {
   const s = norm(q);
   const pats = [
-    /\bwhen\b.*\bdue\b/,
-    /\bdue\s*date\b/,
-    /\bdeadline\b/,
-    /\bdue\b/,
-    /\blate\b/,
-    /\bpenalt(y|ies)\b/,
-    /\bsubmission\s+window\b/,
-    /\bsubmit\b/,
+    /\bwhen\b.*\bdue\b/, /\bdue\s*date\b/, /\bdeadline\b/, /\bdue\b/,
+    /\blate\b/, /\bpenalt(y|ies)\b/, /\bsubmission\s+window\b/, /\bsubmit\b/,
+    /\bworth\b/, /\bweight(ing)?\b/, /\bpercent(age)?\b/, /\bmarks?\b/,
+    /\bopen(s|ing)?\b/, /\bclose(s|ing)?\b/, /\bavailability\b/, /\bwindow\b/,
+    /\bdate\b/, /\btime\b/, /\bschedule\b/
   ];
-  return pats.some((re) => re.test(s));
+  return pats.some(re => re.test(s));
 }
 
-// ----------------- File helpers -----------------
+function hasInstructionIntent(q: string): boolean {
+  const s = norm(q);
+  const pats = [
+    /\bhow\s+to\b/, /\bhow\s+do\s+i\b/, /\binstructions?\b/, /\bsteps?\b/,
+    /\bformat(ting)?\b/, /\bcitations?\b/, /\breferences?\b/, /\bmla\b/,
+    /\bchicago\b/, /\bturabian\b/, /\brubric\b/, /\brequirements?\b/,
+    /\bword\s*count\b/, /\bstructure\b/, /\boutlines?\b/, /\btemplate\b/,
+    /\bscaffold(ing)?\b/, /\bsubmit(ting)?\b/, /\bsubmission\b/,
+    /\bchecklist\b/, /\bexamples?\b/, /\bmodel\s+paper\b/,
+    /\bcan\s+i\s+use\b/, /\bis\s+it\s+okay\s+to\b/, /\bshould\s+i\b/
+  ];
+  return pats.some(re => re.test(s));
+}
+
+/** Route only when:
+ *  - mentions EBO or Essay, AND
+ *  - instruction/how-to intent, AND
+ *  - NOT a logistics query
+ */
+function shouldRouteToEboEssayBot(q: string): boolean {
+  if (!(mentionsEBO(q) || mentionsEssayOnly(q))) return false;
+  if (hasLogisticsIntent(q)) return false;
+  return hasInstructionIntent(q);
+}
+
+/* ----------------- Content parsing ----------------- */
+
+type Section = { heading: string; body: string; lessonUrls: string[] };
+const HEADING_RX = /^(#{1,6})\s+(.+)$/gm;
+
 async function readFileSafe(path: string): Promise<string> {
   try { return await Deno.readTextFile(path); } catch { return ""; }
 }
-
-const HEADING_RX = /^(#{1,6})\s+(.+)$/gm;
 
 function parseSections(md: string): Section[] {
   const out: Section[] = [];
@@ -76,59 +102,64 @@ function pickSectionsForEntity(sections: Section[], entity: "ebo" | "essay"): Se
   });
 }
 
-// Extract the lines that actually state due/late/penalty windows (verbatim)
+/* ----------------- Deterministic due/penalty extractor ----------------- */
+
+/** Lines that *look like real date/time text*, not just titles. */
+const DATEISH =
+  /\b(monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b|\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec|january|february|march|april|june|july|august|september|october|november|december)\b|\b\d{1,2}(st|nd|rd|th)?\b|\b\d{4}\b|\b\d{1,2}:\d{2}\s*(am|pm)\b/i;
+
+function looksLikeDueLine(s: string): boolean {
+  return /\b(due|deadline)\b/i.test(s) && DATEISH.test(s);
+}
+
+function looksLikePenaltyOrSubmitLine(s: string): boolean {
+  return /\b(late|penalt(y|ies)|submit|submissions?)\b/i.test(s);
+}
+
+/** Extract a block: the first line that looks like a real due/deadline line,
+ * then subsequent penalty/late/submit lines until a blank line or cap.
+ */
 function extractDueBlockFrom(text: string): string | null {
-  // Keep up to the next blank line to capture late-penalty details that follow.
   const lines = text.split(/\r?\n/);
-  const picked: string[] = [];
-  let capturing = false;
-  let buffer: string[] = [];
+  let start = -1;
+  for (let i = 0; i < lines.length; i++) {
+    const l = lines[i].trim();
+    if (!l) continue;
+    // ignore heading-like single-line "Schedule ..." with no numbers/dates
+    if (looksLikeDueLine(l)) { start = i; break; }
+  }
+  if (start === -1) return null;
 
-  const dueLike = (l: string) =>
-    /\bdue\b|\bdeadline\b|\bsubmit\b|\blate\b|\bpenalt(y|ies)\b/i.test(l);
+  const buf: string[] = [];
+  buf.push(lines[start].trim());
 
-  for (const raw of lines) {
-    const l = raw.trimEnd();
-    if (!capturing && dueLike(l)) {
-      capturing = true;
-      buffer.push(l);
-      continue;
-    }
-    if (capturing) {
-      if (l.trim() === "") {
-        // end of block
-        break;
-      } else {
-        buffer.push(l);
-      }
+  // include up to next blank line OR max 8 lines to capture penalties
+  for (let j = start + 1; j < lines.length && buf.length < 9; j++) {
+    const l = lines[j];
+    if (!l.trim()) break;
+    if (looksLikePenaltyOrSubmitLine(l) || DATEISH.test(l) || l.trim().length > 0) {
+      buf.push(l.trimEnd());
+    } else {
+      // stop if we’ve wandered into unrelated prose
+      break;
     }
   }
-  if (buffer.length) {
-    // Clean trailing whitespace lines
-    while (buffer.length && buffer[buffer.length - 1].trim() === "") buffer.pop();
-    picked.push(...buffer);
-  }
 
-  if (!picked.length) return null;
-  return picked.join("\n");
+  return buf.join("\n");
 }
 
-function stripInlineLessonLinks(s: string): string {
-  const mdLesson = /\[([^\]]+)\]\((https:\/\/westernu\.brightspace\.com\/d2l\/le\/lessons\/\d+\/(?:lessons|units|topics)\/\d+)\)/g;
-  let out = s.replace(mdLesson, "$1");
-  out = out.replace(LESSON_RE, ""); // raw urls
-  out = out.replace(/[ \t]+([.,;:!?])/g, "$1").replace(/[ \t]{2,}/g, " ").trim();
-  return out;
-}
-
-// Deterministic answer for due/deadline questions
 function answerDueDeterministically(query: string, md: string): { text: string, urls: string[] } | null {
   const sections = parseSections(md);
   const entity: "ebo" | "essay" = mentionsEBO(query) ? "ebo" : "essay";
   const pool = pickSectionsForEntity(sections, entity);
 
-  // Search sections in order; return the first that yields a block.
-  for (const s of pool) {
+  // Prefer sections whose headings mention "due"/"deadline" first
+  const prioritized = [
+    ...pool.filter(s => /\bdue|deadline\b/i.test(s.heading)),
+    ...pool.filter(s => !/\bdue|deadline\b/i.test(s.heading)),
+  ];
+
+  for (const s of prioritized) {
     const combined = `${s.heading}\n${s.body}`;
     const block = extractDueBlockFrom(combined);
     if (block) {
@@ -144,7 +175,8 @@ ${block}`;
   return null;
 }
 
-// ----------------- Server -----------------
+/* ----------------- Server ----------------- */
+
 serve(async (req: Request): Promise<Response> => {
   if (req.method === "OPTIONS") {
     return new Response(null, {
@@ -157,17 +189,42 @@ serve(async (req: Request): Promise<Response> => {
     });
   }
 
-  if (req.method !== "POST") return new Response("Method Not Allowed", { status: 405 });
+  if (req.method !== "POST") {
+    return new Response("Method Not Allowed", { status: 405 });
+  }
 
   let body: { query: string };
-  try { body = await req.json(); } catch { return new Response("Invalid JSON", { status: 400 }); }
+  try {
+    body = await req.json();
+  } catch {
+    return new Response("Invalid JSON", { status: 400 });
+  }
   const query = (body?.query || "").trim();
   if (!query) return new Response("Missing query", { status: 400 });
 
+  // 1) Route instruction/how-to EBO/Essay questions
+  if (shouldRouteToEboEssayBot(query)) {
+    const routed = `This looks like an EBO/Essay instruction question. Please use the EBO/Essay assistant:\n${EBO_ESSAY_LINK}`;
+    let qualtricsStatus = "Qualtrics not called";
+    if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
+      try {
+        const payload = { values: { responseText: routed, queryText: query, routedTo: "EBO_ESSAY_ASSISTANT" } };
+        const qt = await fetch(
+          `https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`,
+          { method: "POST", headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN }, body: JSON.stringify(payload) }
+        );
+        qualtricsStatus = `Qualtrics status: ${qt.status}`;
+      } catch { qualtricsStatus = "Qualtrics error"; }
+    }
+    return new Response(`${routed}\n<!-- ${qualtricsStatus} -->`, {
+      headers: { "Content-Type": "text/plain", "Access-Control-Allow-Origin": "*" },
+    });
+  }
+
+  // 2) Syllabus/logistics flow (deterministic due/penalty if applicable)
   const materials = await readFileSafe(CONTENT_FILE);
 
-  // 1) If it's clearly a due/deadline/late/submit question → deterministic path
-  if (hasDueIntent(query) && (mentionsEBO(query) || mentionsEssayOnly(query))) {
+  if (hasLogisticsIntent(query) && (mentionsEBO(query) || mentionsEssayOnly(query))) {
     const det = answerDueDeterministically(query, materials);
     if (det) {
       const urlsBlock = det.urls.length
@@ -176,19 +233,14 @@ serve(async (req: Request): Promise<Response> => {
       const result =
 `${det.text}${urlsBlock}
 
-There may be errors in my responses; always refer to the course page: ${COURSE_PAGE}`;
-      // Optional analytics
+There may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
       let qualtricsStatus = "Qualtrics not called";
       if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
         try {
           const payload = { values: { responseText: result, queryText: query, routedTo: "DETERMINISTIC_DUE" } };
           const qt = await fetch(
             `https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`,
-            {
-              method: "POST",
-              headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN },
-              body: JSON.stringify(payload),
-            },
+            { method: "POST", headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN }, body: JSON.stringify(payload) }
           );
           qualtricsStatus = `Qualtrics status: ${qt.status}`;
         } catch { qualtricsStatus = "Qualtrics error"; }
@@ -197,20 +249,18 @@ There may be errors in my responses; always refer to the course page: ${COURSE_P
         headers: { "Content-Type": "text/plain", "Access-Control-Allow-Origin": "*" },
       });
     }
-    // If no deterministic block found, fall through to model (rare).
   }
 
-  // 2) Otherwise call the model (kept strict and short)
+  // 3) Fall back to model for anything else
   if (!OPENAI_API_KEY) return new Response("Missing OpenAI API key", { status: 500 });
 
-  const entityHint = mentionsEBO(query) ? "EBO" : (mentionsEssayOnly(query) ? "Essay" : "EBO and Essay");
   const messages = [
     {
       role: "system",
       content: `
-You answer questions exclusively about the ${entityHint}.
-Use ONLY the text in the materials below. If relevant text exists, quote it verbatim (blockquote or quoted). It's acceptable to say "According to the syllabus".
-Do not invent dates or deadlines. If unsure, say you cannot find it in the provided materials.
+You are an accurate assistant for this course.
+If relevant text exists in the materials below, quote it verbatim (blockquote or quoted). It's acceptable to say "According to the syllabus".
+Do not invent dates or deadlines. If unsure, say you cannot find it in the materials.
 
 Materials:
 ${materials}
@@ -226,34 +276,20 @@ ${materials}
   });
 
   const openaiJson = await openaiResp.json();
-  const raw = openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
-  const sanitized = stripInlineLessonLinks(raw);
-
-  // Try to attach Brightspace links from the best matching entity sections
-  const secs = parseSections(materials);
-  const pool = pickSectionsForEntity(secs, mentionsEBO(query) ? "ebo" : "essay");
-  const urls = Array.from(new Set(pool.flatMap(s => s.lessonUrls)));
-  const urlsBlock = urls.length
-    ? `\n\nRelevant course page(s):\n${urls.map(u => `- ${u}`).join("\n")}`
-    : "";
+  const baseResponse = openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
 
   const result =
-`${sanitized}${urlsBlock}
+`${baseResponse}
 
-There may be errors in my responses; always refer to the course page: ${COURSE_PAGE}`;
+There may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
 
-  // Optional analytics
   let qualtricsStatus = "Qualtrics not called";
   if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
     try {
       const payload = { values: { responseText: result, queryText: query, routedTo: "MODEL" } };
       const qt = await fetch(
         `https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`,
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN },
-          body: JSON.stringify(payload),
-        },
+        { method: "POST", headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN }, body: JSON.stringify(payload) }
       );
       qualtricsStatus = `Qualtrics status: ${qt.status}`;
     } catch { qualtricsStatus = "Qualtrics error"; }
