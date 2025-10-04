@@ -7,29 +7,30 @@ const QUALTRICS_DATACENTER = Deno.env.get("QUALTRICS_DATACENTER");
 const SYLLABUS_LINK = Deno.env.get("SYLLABUS_LINK") || "";
 const OPENAI_MODEL = Deno.env.get("OPENAI_MODEL") || "gpt-4o-mini";
 
-// Destination for EBO/Essay instructions (your bot/page)
+const CONTENT_FILE = Deno.env.get("CONTENT_FILE") || "syllabus.md";
 const EBO_ESSAY_LINK =
   Deno.env.get("EBO_ESSAY_LINK") ||
   "https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596";
 
-// Optional content file for this bot (syllabus/logistics)
-const CONTENT_FILE = Deno.env.get("CONTENT_FILE") || "syllabus.md";
+/* ----------------- Query classification ----------------- */
 
-/* ----------------- Routing logic ----------------- */
-
-function hasEboEssayMention(q: string): boolean {
-  const s = q.toLowerCase();
-  // EBO variants and essay
-  return (
-    /\b(e\.?\s*b\.?\s*o\.?|exploratory\b.*\bbibliograph)/.test(s) ||
-    /\bessay|essays\b/.test(s)
-  );
+function norm(s: string) {
+  return (s || "").toLowerCase();
 }
 
-function hasLogisticsOnlyIntent(q: string): boolean {
-  const s = q.toLowerCase();
-  // Syllabus-type logistics: due date, weighting, windows, marks
-  const patterns = [
+function mentionsEBO(q: string): boolean {
+  const s = norm(q);
+  return /\b(e\.?\s*b\.?\s*o\.?|exploratory\b.*\bbibliograph)/.test(s);
+}
+
+function mentionsEssayOnly(q: string): boolean {
+  const s = norm(q);
+  return /\bessay|essays\b/.test(s) && !mentionsEBO(q);
+}
+
+function hasLogisticsIntent(q: string): boolean {
+  const s = norm(q);
+  const pats = [
     /\bdue\s*date\b/,
     /\bdeadline\b/,
     /\bdue\b/,
@@ -47,14 +48,11 @@ function hasLogisticsOnlyIntent(q: string): boolean {
     /\btime\b/,
     /\bschedule\b/,
   ];
-  return patterns.some((re) => re.test(s));
+  return pats.some((re) => re.test(s));
 }
 
-// Instruction/how-to intent for EBO/essay
 function hasInstructionIntent(q: string): boolean {
-  const s = q.toLowerCase();
-
-  // Generic instruction cues
+  const s = norm(q);
   const generic = [
     /\bhow\s+to\b/,
     /\bhow\s+do\s+i\b/,
@@ -82,42 +80,24 @@ function hasInstructionIntent(q: string): boolean {
     /\bis\s+it\s+okay\s+to\b/,
     /\bshould\s+i\b/,
   ];
-
-  // Source-selection/quality cues (to catch your screenshot case)
-  const sources = [
-    /\bsources?\b/,
-    /\bscholarly\b/,
-    /\bpeer[-\s]?reviewed\b/,
-    /\bcredible\b/,
-    /\bsame\s+(site|website|journal|source|database)\b/,
-    /\bfrom\s+the\s+same\s+(site|website|journal|source|database)\b/,
-    /\bpmc\b/,
-    /\bpubmed\b/,
-    /\bjstor\b/,
-    /\bgoogle\s+scholar\b/,
-    /\bnature\b/,
-    /\barticle(s)?\b/,
-  ];
-
-  return (
-    generic.some((re) => re.test(s)) ||
-    sources.some((re) => re.test(s))
-  );
+  return generic.some((re) => re.test(s));
 }
 
-/**
- * Route only when:
- *  - EBO/essay mentioned, AND
- *  - Instructional/how-to intent (incl. source-selection), AND
- *  - Not clearly logistics-only (due dates/weighting/etc.).
+/** Route only when:
+ *  - mentions EBO or Essay, AND
+ *  - instruction/how-to intent, AND
+ *  - NOT a logistics query
  */
-function shouldRouteToEboEssay(query: string): boolean {
-  if (!hasEboEssayMention(query)) return false;
-  if (hasLogisticsOnlyIntent(query)) return false;
-  return hasInstructionIntent(query);
+function shouldRouteToEboEssayBot(q: string): boolean {
+  if (!(mentionsEBO(q) || mentionsEssayOnly(q))) return false;
+  if (hasLogisticsIntent(q)) return false;
+  return hasInstructionIntent(q);
 }
 
-/* ----------------- Utilities ----------------- */
+/* ----------------- Context filtering ----------------- */
+
+type Section = { heading: string; body: string };
+const HEADING_RX = /^(#{1,6})\s+(.+)$/gm;
 
 async function readFileSafe(path: string): Promise<string> {
   try {
@@ -125,6 +105,52 @@ async function readFileSafe(path: string): Promise<string> {
   } catch {
     return "";
   }
+}
+
+function splitSections(md: string): Section[] {
+  const matches = [...md.matchAll(HEADING_RX)];
+  const sections: Section[] = [];
+  for (let i = 0; i < matches.length; i++) {
+    const m = matches[i];
+    const next = matches[i + 1];
+    const start = m.index! + m[0].length;
+    const end = next ? next.index! : md.length;
+    sections.push({
+      heading: m[2].trim(),
+      body: md.slice(start, end),
+    });
+  }
+  return sections;
+}
+
+function filterContext(md: string, q: string): string {
+  const secs = splitSections(md);
+  const qIsEBO = mentionsEBO(q);
+  const qIsEssayOnly = mentionsEssayOnly(q);
+
+  if (!hasLogisticsIntent(q)) return md; // only filter for logistics
+
+  // Build predicate based on which entity user asked about
+  const want = qIsEBO ? "ebo" : qIsEssayOnly ? "essay" : null;
+  if (!want) return md;
+
+  const filtered: string[] = [];
+  for (const s of secs) {
+    const hay = (s.heading + "\n" + s.body).toLowerCase();
+    if (want === "ebo") {
+      // Keep EBO-specific sections; try to avoid generic "essay" only sections.
+      if (/\b(e\.?\s*b\.?\s*o\.?|exploratory\b.*\bbibliograph)\b/.test(hay)) {
+        filtered.push(`# ${s.heading}\n${s.body}`);
+      }
+    } else if (want === "essay") {
+      if (/\bessay|essays\b/.test(hay) && !/\b(e\.?\s*b\.?\s*o\.?|exploratory\b.*\bbibliograph)\b/.test(hay)) {
+        filtered.push(`# ${s.heading}\n${s.body}`);
+      }
+    }
+  }
+
+  // Fallback to full md if nothing matched (safer than empty)
+  return filtered.length ? filtered.join("\n") : md;
 }
 
 /* ----------------- Server ----------------- */
@@ -151,36 +177,26 @@ serve(async (req: Request): Promise<Response> => {
   } catch {
     return new Response("Invalid JSON", { status: 400 });
   }
-
   const query = (body?.query || "").trim();
-  if (!query) {
-    return new Response("Missing query", { status: 400 });
-  }
+  if (!query) return new Response("Missing query", { status: 400 });
 
-  // Route instruction/how-to EBO/essay questions to the dedicated bot/page
-  if (shouldRouteToEboEssay(query)) {
+  // 1) Route instruction/how-to questions about EBO/Essay
+  if (shouldRouteToEboEssayBot(query)) {
     const routed = `This looks like an EBO/Essay instruction question. Please use the EBO/Essay assistant:\n${EBO_ESSAY_LINK}`;
 
     // Optional analytics
     let qualtricsStatus = "Qualtrics not called";
     if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
       try {
-        const qualtricsPayload = {
-          values: {
-            responseText: routed,
-            queryText: query,
-            routedTo: "EBO_ESSAY_ASSISTANT",
-          },
+        const payload = {
+          values: { responseText: routed, queryText: query, routedTo: "EBO_ESSAY_ASSISTANT" },
         };
         const qt = await fetch(
           `https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`,
           {
             method: "POST",
-            headers: {
-              "Content-Type": "application/json",
-              "X-API-TOKEN": QUALTRICS_API_TOKEN,
-            },
-            body: JSON.stringify(qualtricsPayload),
+            headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN },
+            body: JSON.stringify(payload),
           },
         );
         qualtricsStatus = `Qualtrics status: ${qt.status}`;
@@ -188,21 +204,16 @@ serve(async (req: Request): Promise<Response> => {
         qualtricsStatus = "Qualtrics error";
       }
     }
-
     return new Response(`${routed}\n<!-- ${qualtricsStatus} -->`, {
-      headers: {
-        "Content-Type": "text/plain",
-        "Access-Control-Allow-Origin": "*",
-      },
+      headers: { "Content-Type": "text/plain", "Access-Control-Allow-Origin": "*" },
     });
   }
 
-  // Otherwise, normal flow for syllabus/logistics questions
-  if (!OPENAI_API_KEY) {
-    return new Response("Missing OpenAI API key", { status: 500 });
-  }
+  // 2) Otherwise, syllabus/logistics flow with context filtered to the right entity (EBO vs Essay)
+  if (!OPENAI_API_KEY) return new Response("Missing OpenAI API key", { status: 500 });
 
-  const materials = await readFileSafe(CONTENT_FILE);
+  const fullMaterials = await readFileSafe(CONTENT_FILE);
+  const materials = filterContext(fullMaterials, query);
 
   const messages = [
     {
@@ -210,11 +221,9 @@ serve(async (req: Request): Promise<Response> => {
       content: `
 You are an accurate assistant for a university course.
 You have course materials below (loaded at runtime).
-
 When answering:
-- If relevant text exists, quote it verbatim (quoted or in a blockquote). It's acceptable to say "According to the syllabus" here.
-- Do not include Brightspace lesson/unit URLs in your body; external links may be appended by the system if needed.
-
+- Quote relevant text verbatim (quoted or in a blockquote). It's acceptable to say "According to the syllabus."
+- Answer only about the entity present in the provided materials (if the context is EBO-only, do not discuss Essay sections, and vice versa).
 Materials:
 ${materials}
       `.trim(),
@@ -224,43 +233,26 @@ ${materials}
 
   const openaiResponse = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${OPENAI_API_KEY}`,
-    },
-    body: JSON.stringify({
-      model: OPENAI_MODEL,
-      messages,
-    }),
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${OPENAI_API_KEY}` },
+    body: JSON.stringify({ model: OPENAI_MODEL, messages }),
   });
 
   const openaiJson = await openaiResponse.json();
-  const baseResponse =
-    openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
+  const baseResponse = openaiJson?.choices?.[0]?.message?.content || "No response from the assistant.";
 
-  const result =
-    `${baseResponse}\n\nThere may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
+  const result = `${baseResponse}\n\nThere may be errors in my responses; always refer to the course page: ${SYLLABUS_LINK}`;
 
   // Optional Qualtrics logging
   let qualtricsStatus = "Qualtrics not called";
   if (QUALTRICS_API_TOKEN && QUALTRICS_SURVEY_ID && QUALTRICS_DATACENTER) {
     try {
-      const qualtricsPayload = {
-        values: {
-          responseText: result,
-          queryText: query,
-          routedTo: "GENERAL_ASSISTANT",
-        },
-      };
+      const payload = { values: { responseText: result, queryText: query, routedTo: "GENERAL_ASSISTANT" } };
       const qt = await fetch(
         `https://${QUALTRICS_DATACENTER}.qualtrics.com/API/v3/surveys/${QUALTRICS_SURVEY_ID}/responses`,
         {
           method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            "X-API-TOKEN": QUALTRICS_API_TOKEN,
-          },
-          body: JSON.stringify(qualtricsPayload),
+          headers: { "Content-Type": "application/json", "X-API-TOKEN": QUALTRICS_API_TOKEN },
+          body: JSON.stringify(payload),
         },
       );
       qualtricsStatus = `Qualtrics status: ${qt.status}`;
@@ -270,9 +262,6 @@ ${materials}
   }
 
   return new Response(`${result}\n<!-- ${qualtricsStatus} -->`, {
-    headers: {
-      "Content-Type": "text/plain",
-      "Access-Control-Allow-Origin": "*",
-    },
+    headers: { "Content-Type": "text/plain", "Access-Control-Allow-Origin": "*" },
   });
 });
