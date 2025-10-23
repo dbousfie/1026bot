@@ -209,9 +209,9 @@ you have any questions.
 ## Attendance Bonus (5% on Essay)
 
 Students will receive a 0.625% bonus on their essay grade for every
-**Thursday** class attended (attendance must be recorded through the
-Microsoft form each week during class time). There is no attendance for
-the Tuesday class. There is a maximum of 8 classes considered to earn
+**Tuesday or Thursday** class where attendance was taken (attendance must be recorded through the
+Microsoft form each week during class time). It is the same attendance for
+the end of the Tuesday class (to encourage students to not be disruptive) . There is a maximum of 8 classes considered to earn
 the full 5% bonus. You can check your participation through the link in
 Brightspace weekly. You cannot receive more than 100% on the essay.
 
@@ -1367,7 +1367,7 @@ Answer: Make sure to come to all of the lectures and tutorial hours. There will 
 Question: I have a class directly before this one completely across campus. Would it be an issue if I was a few minutes late to this class on Thursdays, or do you recommend I switch this class?
 Answer: It’s okay to be a few minutes late. We always start 10 minutes after the official start time and end 10 minutes early.
 
-Question: If we are unable to come to Thursday’s class due to illness, are we still able to get the attendance bonus?
+Question: If we are unable to come to Tuesday or Thursday’s class due to illness, are we still able to get the attendance bonus?
 Answer: You only need 8 of 12 attendance bonuses, precisely to allow for flexibility.
 
 Question: Just wanted to know how the lecture structure is.
@@ -1574,7 +1574,7 @@ Q: where can I find the link for office hours
 A: the link to the zoom office hours is available here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
 
 Q: where can I find information about the content on the midterm, weeks 1 through 4, or the specific lecture content?
-A: there is a separate bot that deals with the lecture content on the midterm, which covers weeks one through four, it can be accessed at https://students.politicaleconomy.ca/
+A: there is a separate bot that deals with the lecture content on the midterm, which covers weeks one through four, it can be accessed at https://students3.politicaleconomy.ca/ for weeks 5-12 the bot is  https://students2.politicaleconomy.ca/
 
 Q: where is the EBO worksheet
 A: It is a link on the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
@@ -1585,6 +1585,8 @@ A:  Wed 2-4 pm the link to the zoom is here https://westernu.brightspace.com/d2l
 Q: I have a specific EBO and essay question
 Q: there is a seperate bot for EBO and Essay it is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596 
 
-For specific course content that covers the lectures students should go to https://students.politicaleconomy.ca/
+For specific course content that covers the lectures from weeks 1-4 students should go to https://students3.politicaleconomy.ca/
+For specific course content that covers the lectures from weeks 5-12 students should go to https://students2.politicaleconomy.ca/
+
 
 
