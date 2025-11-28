@@ -1562,7 +1562,7 @@ Q: Are the online lectures the same as in-person lectures?
 A: The online lectures serve as the basis for the midterm and final exam (in case someone misses a class), so please be sure to review them.
 
 Q: Are the slides you don’t talk about in class testable?
-A: Any slide that appears in the online video is testable, because in case someone misses a class we use the videos as the basis for generating the questions for the midterm and the final.
+A: Any slide that appears in the onlin earlye video is testable, because in case someone misses a class we use the videos as the basis for generating the questions for the midterm and the final.
 
 Q: For the midterm, if a question says “this was not discussed in lecture” but the material was discussed in the textbook, should we still select that option?
 A: No questions on the midterm or the final will come directly from the textbook, so you should never choose “this was not discussed in lecture” if it was in the textbook (which is extremely unlikely anyway).
@@ -1584,6 +1584,9 @@ A:  Wed 2-4 pm the link to the zoom is here https://westernu.brightspace.com/d2l
 
 Q: I have a specific EBO and essay question
 Q: there is a seperate bot for EBO and Essay it is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596 
+
+Q: what is the format of the final exam?
+A: 120 multiple choice questions in 2 hours, using gradescope with a printed in person exam during the scheduled exam period
 
 For specific course content that covers the lectures from weeks 1-4 students should go to https://students3.politicaleconomy.ca/
 For specific course content that covers the lectures from weeks 5-12 students should go to https://students2.politicaleconomy.ca/
