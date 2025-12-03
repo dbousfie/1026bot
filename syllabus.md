@@ -1591,5 +1591,210 @@ A: 120 multiple choice questions in 2 hours, using gradescope with a printed in 
 For specific course content that covers the lectures from weeks 1-4 students should go to https://students3.politicaleconomy.ca/
 For specific course content that covers the lectures from weeks 5-12 students should go to https://students2.politicaleconomy.ca/
 
+Final exam information - the URL corresponds to the page for the final exam information below
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264737 Final Exam: Info, Date, Time, Location, Rooms, and more!
+
+READ OVER the Final Exam sub-pages:
+Final Exam Info, Details, Date, Time, Location
+Final Exam Tips, Advice,
+Suggestions, Good Practices
+Getting Academic Consideration
+Confirmation pages (as applicable) if you are writing a make-up exam
+Caution: if you don't fully read the Final Exam pages, etc., these are NOT grounds for consideration, etc.
+Caution: if you rely on misinformation/ disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not our responsibility or grounds for appeal, etc.
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264795 Final Exam Info, Details, Date, Time, Location
+
+Final Exam Info, Details, Date, Time, Location
+Covers Weeks 5-12's videos, PDFs, readings, etc.
+Study all materials
+There are 'no more or less' questions from each lecture, videos, readings, etc., so ensure you study everything 
+In-person exam
+Bring student ID
+Ensure you know your UserID
+it is he first part of your email address, e.g. nnarain@uwo.ca is my email address but my UserID is nnarain
+Pencils will be provided but you can bring your own pencil and/or eraser
+Recommend you don't use black pen (tougher to change answers, etc.)
+Format: Multiple-choice
+Total time: 2 hour = 120 minutes
+Total number of questions = 120 questions
+Closed book exam
+No notes or other sheets allowed at your eam table
+No calculators allowed
+No electronic devices allowed (leave on floor, in pocket, or at front of room
+Leave all clothes, backpacks, and other stuff at the front or back of room as directed by the Room Proctors
+University is not responsible for any lost, stolen or misplaced items (nor are we either)
+Date: Thursday December 11 at 7pm
+Location: ensure you go to the correct room based on your last name
+Abbas - Brock = AP 2001A/B - Academic Pavilion Room 2001A & 2001B
+Brodt - Parmar = FEB GYM - Faculty of Education Gym
+Parvaiz - Ziza   = SJB AUD 154 - St. James Building Auditorium Room 154 
+To access campus map: https://www.uwo.ca/about/visit/maps.html and you will need to enter the the buildings initials
+Caution: if you don't read exam-related information, updates, emails, notifications, OWL pages, etc., that is on YOU and not grounds for appeal, etc.
+Caution: if you rely on misinformation/disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not grounds for appeal, etc.
+It is not allowed to start the Exam and then later decide you don't want to complete it because you will seek post-facto accommodation, this is not allowed so you should go forward and complete
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264796 Final Exam Tips, Advice, Suggestions, Good Practices
+
+Final Exam Tips, Advice,
+Suggestions, Good Practices
+Note:  
+This is a compilation of different experiences, ideas & suggestions.
+Use what applies to our Exam and makes sense to you.
+Good luck!
+
+LOTS OF GOOD RESOURCES: UWO Learning Skills (click here)
+
+Get their E-newsletter & access to their site has more resources (click here)
+Writing Multiple-Choice Tests (click here)
+Essay Exam Strategies (click here)
+ General Tips  
+GET SOME SLEEP
+Be Confident & positive IF you have studied, prepared, read, and worked to get ready: you can't do more than that, as there are no shortcuts to good work
+​Avoid disruptions
+Stay calm & steady & focussed
+Manage your time > keep pace: move along but methodically
+Don't study to the last minute = give your mind/brain time to 'organize and file' the information = you can recall it better & easily
+Tough slog: Throw a whole bunch of information at your brain > mind has jumbled information > recall tougher or wrong
+Better way: Study the information > let your mind figure out how to best sort through it > recall easier & on-point
+Don't cram > research shows, on probability, that you'll hit a 'low ceiling' for what you can achieve and will be more likely to do poorly
+Go over the lecture materials = what you know + what do you need to understand > re-read the readings to shore up your knowledge, understand examples, give more context, etc.
+Create and answer mock questions, flashcard terms, etc.
+Form a Study Group = share notes, questions & ideas > HELP EACH OTHER
+Don't mooch off your friends = help out & share what you know -- even if you/they are wrong about something, everyone will learn something and learn the right thing
+Teach your friends (and they will teach you)
+1) show you know it by presenting it to someone else
+2) reinforce your knowledge & command of the material
+3) get feedback from your friends to figure out what you may need to study more
+Discuss issues, controversies, concerns with your classmates ... it'll become 'ingrained' in your understanding
+Figure out the IMPORTANT stuff from the not-so important
+Know the KEY examples and the ones which repeat (they can help you understand the same example viewed from different Approaches)
+Go over the Terms with friends – 3 memory points = jogs your memory, usually
+Multiple Choice Tips  
+Cover up the Answers > Read the Question first > Think of likely answers = you'll be less susceptible to the 'distracter' options 
+Don't get too bogged down in tough questions > give them your best, thoughtful shot
+Keep track of the time
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264801  Accessible Education 
+
+Accessible Education Students: 
+You are writing through Accommodated Exam so please see them about your exam date, time, location, etc.
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264798 Final Exam FAQs
+
+Is the exam in-person?
+Yes
+Do I have to write the Exam in a particular location?
+Yes
+Ensure you check which room you are writing in and go to that room
+What if I need Academic Consideration?
+Read the Academic Consideration page
+What if I have a conflict with another scheduled exam or event?
+Read the Academic Consideration page
+What if I'm sick or have a significant emergency ?
+Read the Academic Consideration page
+What if I show up late?
+Read the Academic Consideration page
+If you choose to write the exam after you arrive late, you cannot ask for extra time and you cannot appeal the grade on this basis
+How do I choose the -10% Penalty Exam option?
+Email Nig to confirm you are going to write the -10% Penalty Exam
+Recommend emailing  after the regularly scheduled Exam date in case you decide to write the regularly scheduled Exam
+Where do I find the Make-up Exam date & time-slots?
+Read the Make-up Final Exam: Info, Dates, etc. page
+You must write on those dates and time-slots
+Confirmations of your Make-up Exsam date and time
+Are there previous exams I can view or do?
+No
+Is there a Review Session?
+No
+During the Exam, can I ask questions?
+Yes: for clarification, if there is an error, etc.
+No: for the answer
+Are Readings on the Exam?
+Yes
+Know the key/major/important points, ideas, authors/thinkers, examples and case studies
+Incidental ideas, passing examples, etc., are unlikely to be on the Exam
+Can look through Readings, etc., during the Exam
+Are Video Lectures on the Exam?
+Yes
+Know the key/major/important points, ideas, authors/thinkers, examples and case studies
+Incidental mentions, passing reference, etc., are unlikely to be on the Exam
+Can look through Lectures, etc., during the Exam
+Are Exam questions mostly  from Readings or Videos? 
+Mixture of readings and lecture videos 
+Questions have 'hints' in them -- authors, readings, concepts, ideas, etc. -- to help nudge you in the right direction to help you figure out the answer
+Do I need to know specific dates?
+Not full dates
+Know the general year or decade of stuff that was discussed  of relevance
+Do I need to know the names of all people mentioned in readings, lectures, etc.?
+Only the big names & repeated names, not those who were incidentally mentioned in passing
+Some concepts or ideas will be tested by asking you to identify the author/thinker; conversely, some authors/thinkers will be tested by asking what was a concept or idea they argued/asserted?
+What types of points get turned into multiple-choice questions?
+Concepts, key thinkers, major historical events (eg WWII or Cold War)
+Application/analysis of  major  ideas, concepts, frameworks
+Examples or cases or lists which were repeated or extensively discussed
+Frameworks or concepts which have been discussed
+Can I start and stop the Exam?
+No
+Once you start, you have to finish the Exam
+If you leave the Exam room and turn in your Exam, then you cannot come back to continue writing, etc.
+Don't be in a rush
+Can't write the Exam in different sittings/sessions/timeslots -- must complete the full Exam in one sitting/session/timeslots
+When will I know my result?
+Announcement will be sent when grade is available
+Will be able to see your grade on the OWL site Gradebook when released
+Don't email us asking for your individual result or the date when it will be released
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264797 Getting Academic Consideration 
+
+Getting Academic Consideration 
+Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
+Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Dec Exam  for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+ Common Queries
+What if I have a conflict with another scheduled exam or event?
+Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
+Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Dec Exam for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+What if I'm sick or have a significant emergency or have a conflict with another scheduled exam or event?
+Check out our the Registrar's Academic Considerations page for more info and options: https://registrar.uwo.ca/academics/academic_considerations/index.html
+What if I show up late?
+If you have grounds for Academic Consideration then don't start the Exam at all
+If you start the Exam, you cannot choose later to write a -10% penalty Make-up Exam or seek Academic Consideration to write again later
+If you start the Exam, then start from the section that is open to you and go forward from there BUT you cannot go back to complete missed questions or missed sections
+How do I choose the -10% Penalty Exam option?
+Email Nig to confirm you are going to write the -10% Penalty Exam
+Where is the Make-up Exam information?
+On the sub-page titled "Make-up Final Exam" 
+Can't use Undocumented Absence
+Note: this is during the Official Exam period, so per the Office of the Registrar: “When CAN'T I use an undocumented absence? Undocumented absences cannot be used for examinations scheduled by the Office of the Registrar during official examination periods (including take-home final exams and December mid-year exams for full courses)” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Dec Exam
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Exam, you may write the Make-up Dec Exam with a –10% penalty applied
+
+# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264799 Make-up Final Exam: Info, Dates, etc.
+
+Make-up Final Exam: Info, Dates, etc.
+(Academic Consideration or -10% Penalty)
+To be permitted to do the Make-up Final Exam, you need to meet one of these two criteria:
+You have Academic Counselling-approved Academic Consideration
+You have no documented grounds for academic consideration, so your only choice is the -10% penalty Make-up Final Exam
+Make-up Final Exam Date & Times (timeslots):  
+no make-up exam slots will be provided between Dec 10-Jan 4
+make-up exam will happen between Fri Jan , and if neither above the above timeslots are workable, you will need to speak to Academic Counselling for approval for another time 
+check back after Dec 31 for more details
+all make-up exams will be held between Fri Jan 9 - Sun Jan 11
+Confirmation of your Academic Consideration being processed is through the Student Portal AND please read the note sent when the confirmation is processed
+If you have emailed your preference ahead of the Consideration coming through, you will be put into a -10% group and the penalty will be reversed
+Confirmation of your Make-up Test timeslot: 
+Visible on the OWL site on pages below this page
+Visible in the Announcements
+Reminder Announcements will be sent
+If you have Academic Consideration, check the Student Portal as well
+When you email me related to this, you may not get an email response but look under email Reactions for: 1) thumbs-up = got your message, 2) bugle-fanfare = confirming; if there is no particular issue, I will likely not email you a response
+Ensure you check and re-fresh OWL pages so the correct pages are showing, etc.
+NOTE: you can't also write the Make-up Test (or parts thereof) if you've already written the Test (or parts thereof) -- you are ONLY allowed to write at one session/time/slot of the test ONLY
+Can't use Undocumented Absence
+Note: this is during the Official Exam period, so per the Office of the Registrar: “When CAN'T I use an undocumented absence? Undocumented absences cannot be used for examinations scheduled by the Office of the Registrar during official examination periods (including take-home final exams and December mid-year exams for full courses)” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Test, you may write the Make-up Test with a –10% penalty applied
 
 
