@@ -96,11 +96,11 @@ learning!
 
 ## Important dates
 
-- Sept 4 -- First day of classes
+-  4 -- First day of classes
 
-- Sept 12 -- Last day to add full course or 1st term half course
+-  12 -- Last day to add full course or 1st term half course
 
-- Sept 30 -- No classes (National Day for Truth and Reconciliation)
+-  30 -- No classes (National Day for Truth and Reconciliation)
 
 - Oct 19 -- Midterm Test - 6-7PM in Brightspace (online)
 
@@ -244,7 +244,7 @@ updated and most current information.
 
 ## Schedule of Lectures and Assignments Due Dates: What questions are we covering? What do we read? What Academic Considerations are applicable?
 
-**TERM 1: September -- December**
+**TERM 1: ember -- December**
 
 **Week 0: Sep 4**
 
@@ -272,7 +272,7 @@ updated and most current information.
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 4 -Radical Ideas (continued from last week)
 
-**September 30 - no class** (National Day for Truth and Reconciliation)
+**ember 30 - no class** (National Day for Truth and Reconciliation)
 
 **Week 4: Oct 7 - 9**
 
@@ -1490,20 +1490,14 @@ Dan's office hours are available at this link https://westernu.brightspace.com/d
 Q: How do I get the bot to summarize the week’s lecture?  
 A: In PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any of the chat box  
 
-Q: Can we go more over some of the concepts in depth and focus less on the AI components?  
-A: That's what we do on Tuesdays  
-
 Q: What’s the point of AI literacy? Is it examinable?  
 A: No, it's University literacy  
 
 Q: Are we being tested on all this AI stuff?  
-A: Nothing on Thursday is tested  
+A: Nothing on AI is tested  
 
 Q: Should we be taking notes on Thursday even though it’s not content for testing?  
 A: If you want  
-
-Q: If the midterm has "this was not discussed in lecture" options, does that mean only lectures + key terms are testable?  
-A: Yes anything that was discussed in the Powerpoints or the videos  
 
 Q: Should we be looking at the green text in the slideshow?  
 A: Yes that's largely where the questions are coming from  
@@ -1541,9 +1535,6 @@ A: Yes anything in the videos
 Q: Midterm date: syllabus says 18th, in class you said 19th. Which is correct?  
 A: 19th is correct  
 
-Q: How many “this was not discussed in lecture” questions will be on the midterm?  
-A: I don't know yet  
-
 Q: If we don’t know an answer on the exam, should we just guess?  
 A: Yes there's no penalty for guessing wrong  
 
@@ -1553,22 +1544,11 @@ A: on the course content page in brightspace here https://westernu.brightspace.c
 Q: When are final exams?  
 A: The registrar sets those dates - we don't have them yet  
 
-Q: Will the answer to a mid term question ever actually be 'this was not discussed in the lecture'
-A: yes, these are distractor questions designed to penalise anyone using a chatbot to try and cheat - there isn't any way for the chatbot to know what wasn't discussed in lecture - you have to be in lecture to know that information
-
-Got it — here’s a cleaner version for your MD file, no blanks, no extra formatting:
-
 Q: Are the online lectures the same as in-person lectures?
 A: The online lectures serve as the basis for the midterm and final exam (in case someone misses a class), so please be sure to review them.
 
 Q: Are the slides you don’t talk about in class testable?
 A: Any slide that appears in the onlin earlye video is testable, because in case someone misses a class we use the videos as the basis for generating the questions for the midterm and the final.
-
-Q: For the midterm, if a question says “this was not discussed in lecture” but the material was discussed in the textbook, should we still select that option?
-A: No questions on the midterm or the final will come directly from the textbook, so you should never choose “this was not discussed in lecture” if it was in the textbook (which is extremely unlikely anyway).
-
-Q: will class be held on September 30th?
-A: No, class will not be held on September 30th. It is the national day for Truth and Reconciliation - there will be no class. Thursday October 2nd tutorial will not be taking attendance it's just a Q&A session.
 
 Q: where can I find the link for office hours
 A: the link to the zoom office hours is available here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
