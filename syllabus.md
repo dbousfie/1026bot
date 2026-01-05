@@ -1623,7 +1623,7 @@ Format: Multiple-choice
 Total time: 2 hour = 120 minutes
 Total number of questions = 120 questions
 Closed book exam
-No notes or other sheets allowed at your eam table
+No notes or other sheets allowed at your exam table
 No calculators allowed
 No electronic devices allowed (leave on floor, in pocket, or at front of room
 Leave all clothes, backpacks, and other stuff at the front or back of room as directed by the Room Proctors
