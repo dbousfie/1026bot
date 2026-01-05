@@ -1129,9 +1129,6 @@ Yes.
 When is the Final Exam?
 It will be during the Final Exam time period and a date will be released by the Registrar. Note: we will only know the date when the final exam schedule is released by the Registrar.
 
-When is the Make-up Final Exam?
-In January 2026. Dates will be posted on the OWL site.
-
 Can I write the Mid-Term Test or Final Exam with a -10% Penalty if I have no grounds from Academic Consideration?
 Yes. You don't need to have a reason for missing the Mid-Term or Final Exam, and you simply write the Make-up and -10% will be deducted from your achieved grade, e.g., you got 70% on the Make-up Final Exam, so you'll get 60% (70%-10%) for your Final Exam grade.
 
@@ -1631,11 +1628,8 @@ No calculators allowed
 No electronic devices allowed (leave on floor, in pocket, or at front of room
 Leave all clothes, backpacks, and other stuff at the front or back of room as directed by the Room Proctors
 University is not responsible for any lost, stolen or misplaced items (nor are we either)
-Date: Thursday December 11 at 7pm
-Location: ensure you go to the correct room based on your last name
-Abbas - Brock = AP 2001A/B - Academic Pavilion Room 2001A & 2001B
-Brodt - Parmar = FEB GYM - Faculty of Education Gym
-Parvaiz - Ziza   = SJB AUD 154 - St. James Building Auditorium Room 154 
+Date: TBD
+Location: TBD
 To access campus map: https://www.uwo.ca/about/visit/maps.html and you will need to enter the the buildings initials
 Caution: if you don't read exam-related information, updates, emails, notifications, OWL pages, etc., that is on YOU and not grounds for appeal, etc.
 Caution: if you rely on misinformation/disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not grounds for appeal, etc.
