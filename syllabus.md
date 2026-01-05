@@ -1082,7 +1082,7 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
 
 
 
-If students have extensive questions about the essay or the EBO they should not use the syllabus bot but instead refer to the EBO and Essay bot as it has more details the link is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596
+If students have extensive questions about the essay or the EBO they should not use the syllabus bot but instead refer to the EBO and Essay bot as it has more details the link is here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653384
 
 
 Reminder: You can also use the Course Info Bot
@@ -1347,7 +1347,7 @@ meet with you virtually.\"
 Necessary conditions for passing this course
 Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
 
-This bot does not have detailed essay and EBo information for that you should go to the EBO and Essay bot here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596
+This bot does not have detailed essay and EBo information for that you should go to the EBO and Essay bot here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653384
 
 Question: how do I get the bot to summarize the lecture?
 Answer: there's too much data to upload all at once into the bot, you can do it yourself by taking the PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any chat bot with the prompt 'use this file to develop 10 multiple choice questions with four options'. 
@@ -1489,7 +1489,7 @@ Q: What is the essay supposed to be about?
 A: There are six pre-assigned topics
 
 Q: Can we find the Thursday tutorial slides on Brightspace?
-A: They will be on the main page of the Brightspace sidebar link "POLS 1026 Course Content" or here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264732
+A: They will be on the main page of the Brightspace sidebar link "POLS 1026 Course Content" or here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653284
 
 Q: If we miss a class where you talk about material not in the slides, how should we catch up?
 A: Use the PowerPoints, the YouTube videos and the textbook to catch up
@@ -1506,9 +1506,11 @@ A: Yes, that is week 11
 Q: Do the quizzes in the textbook effect our grade
 A: all of the weekly and textbook quizzes are practice quizzes and none of them impact the grade
 
-Students can check their attendance at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3450465
+Students can check their attendance at this link 
+https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653280
 
-Dan's office hours are available at this link https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
+Dan's office hours are available at this link 
+https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653273
 
 Q: How do I get the bot to summarize the week’s lecture?  
 A: In PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any of the chat box  
