@@ -1703,7 +1703,7 @@ Recommend emailing  after the regularly scheduled Exam date in case you decide t
 Where do I find the Make-up Exam date & time-slots?
 Read the Make-up Final Exam: Info, Dates, etc. page
 You must write on those dates and time-slots
-Confirmations of your Make-up Exsam date and time
+Confirmations of your Make-up Exam date and time
 Are there previous exams I can view or do?
 No
 Is there a Review Session?
@@ -1750,11 +1750,11 @@ Don't email us asking for your individual result or the date when it will be rel
 
 Getting Academic Consideration 
 Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
-Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Dec Exam  for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Exam  for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
  Common Queries
 What if I have a conflict with another scheduled exam or event?
 Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
-Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Dec Exam for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Exam for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
 What if I'm sick or have a significant emergency or have a conflict with another scheduled exam or event?
 Check out our the Registrar's Academic Considerations page for more info and options: https://registrar.uwo.ca/academics/academic_considerations/index.html
 What if I show up late?
@@ -1767,8 +1767,8 @@ Where is the Make-up Exam information?
 On the sub-page titled "Make-up Final Exam" 
 Can't use Undocumented Absence
 Note: this is during the Official Exam period, so per the Office of the Registrar: “When CAN'T I use an undocumented absence? Undocumented absences cannot be used for examinations scheduled by the Office of the Registrar during official examination periods (including take-home final exams and December mid-year exams for full courses)” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
-Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Dec Exam
-If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Exam, you may write the Make-up Dec Exam with a –10% penalty applied
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Exam, you may write the Make-up Exam with a –10% penalty applied
 
 # https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264799 Make-up Final Exam: Info, Dates, etc.
 
@@ -1778,10 +1778,9 @@ To be permitted to do the Make-up Final Exam, you need to meet one of these two 
 You have Academic Counselling-approved Academic Consideration
 You have no documented grounds for academic consideration, so your only choice is the -10% penalty Make-up Final Exam
 Make-up Final Exam Date & Times (timeslots):  
-no make-up exam slots will be provided between Dec 10-Jan 4
-make-up exam will happen between Fri Jan , and if neither above the above timeslots are workable, you will need to speak to Academic Counselling for approval for another time 
-check back after Dec 31 for more details
-all make-up exams will be held between Fri Jan 9 - Sun Jan 11
+tbd
+
+all make-up exams will be tbd
 Confirmation of your Academic Consideration being processed is through the Student Portal AND please read the note sent when the confirmation is processed
 If you have emailed your preference ahead of the Consideration coming through, you will be put into a -10% group and the penalty will be reversed
 Confirmation of your Make-up Test timeslot: 
