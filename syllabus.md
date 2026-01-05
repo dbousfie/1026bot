@@ -1562,7 +1562,7 @@ Q: If we don’t know an answer on the exam, should we just guess?
 A: Yes there's no penalty for guessing wrong  
 
 Q: where are the Thursday PowerPoints and the audio from Tuesday lectures and Thursday lectures
-A: on the course content page in brightspace here https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264732
+A: on the course content page in brightspace here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653284
 
 Q: When are final exams?  
 A: The registrar sets those dates - we don't have them yet  
@@ -1574,19 +1574,17 @@ Q: Are the slides you don’t talk about in class testable?
 A: Any slide that appears in the onlin earlye video is testable, because in case someone misses a class we use the videos as the basis for generating the questions for the midterm and the final.
 
 Q: where can I find the link for office hours
-A: the link to the zoom office hours is available here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3353071
+A: the link to the zoom office hours is available here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653273
 
 Q: where can I find information about the content on the midterm, weeks 1 through 4, or the specific lecture content?
 A: there is a separate bot that deals with the lecture content on the midterm, which covers weeks one through four, it can be accessed at https://students3.politicaleconomy.ca/ for weeks 5-12 the bot is  https://students2.politicaleconomy.ca/
 
-Q: where is the EBO worksheet
-A: It is a link on the bottom of the page here https://westernu.brightspace.com/d2l/le/lessons/130641/lessons/3405170
 
 Q; When are Nig's office hours
-A:  Wed 2-4 pm the link to the zoom is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3412049
+A:  Wed 2-4 pm the link to the zoom is here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653274
 
 Q: I have a specific EBO and essay question
-Q: there is a seperate bot for EBO and Essay it is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596 
+Q: there is a seperate bot for EBO and Essay it is here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653384
 
 Q: what is the format of the final exam?
 A: 120 multiple choice questions in 2 hours, using gradescope with a printed in person exam during the scheduled exam period
@@ -1596,7 +1594,7 @@ For specific course content that covers the lectures from weeks 5-12 students sh
 
 Final exam information - the URL corresponds to the page for the final exam information below
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/units/3264737 Final Exam: Info, Date, Time, Location, Rooms, and more!
+# https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653369 Final Exam: Info, Date, Time, Location, Rooms, and more!
 
 READ OVER the Final Exam sub-pages:
 Final Exam Info, Details, Date, Time, Location
@@ -1607,7 +1605,7 @@ Confirmation pages (as applicable) if you are writing a make-up exam
 Caution: if you don't fully read the Final Exam pages, etc., these are NOT grounds for consideration, etc.
 Caution: if you rely on misinformation/ disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not our responsibility or grounds for appeal, etc.
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264795 Final Exam Info, Details, Date, Time, Location
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653370 Final Exam Info, Details, Date, Time, Location
 
 Final Exam Info, Details, Date, Time, Location
 Covers Weeks 5-12's videos, PDFs, readings, etc.
@@ -1635,7 +1633,7 @@ Caution: if you don't read exam-related information, updates, emails, notificati
 Caution: if you rely on misinformation/disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not grounds for appeal, etc.
 It is not allowed to start the Exam and then later decide you don't want to complete it because you will seek post-facto accommodation, this is not allowed so you should go forward and complete
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264796 Final Exam Tips, Advice, Suggestions, Good Practices
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653371 Final Exam Tips, Advice, Suggestions, Good Practices
 
 Final Exam Tips, Advice,
 Suggestions, Good Practices
@@ -1676,12 +1674,12 @@ Cover up the Answers > Read the Question first > Think of likely answers = you'l
 Don't get too bogged down in tough questions > give them your best, thoughtful shot
 Keep track of the time
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264801  Accessible Education 
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653372  Accessible Education 
 
 Accessible Education Students: 
 You are writing through Accommodated Exam so please see them about your exam date, time, location, etc.
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264798 Final Exam FAQs
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653373 Final Exam FAQs
 
 Is the exam in-person?
 Yes
@@ -1746,7 +1744,7 @@ Announcement will be sent when grade is available
 Will be able to see your grade on the OWL site Gradebook when released
 Don't email us asking for your individual result or the date when it will be released
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264797 Getting Academic Consideration 
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653374 Getting Academic Consideration 
 
 Getting Academic Consideration 
 Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
@@ -1770,7 +1768,7 @@ Note: this is during the Official Exam period, so per the Office of the Registra
 Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
 If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Exam, you may write the Make-up Exam with a –10% penalty applied
 
-# https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3264799 Make-up Final Exam: Info, Dates, etc.
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653375 Make-up Final Exam: Info, Dates, etc.
 
 Make-up Final Exam: Info, Dates, etc.
 (Academic Consideration or -10% Penalty)
