@@ -25,7 +25,9 @@ Political Science 1026: Political Power and Participation
   **Lecture location** See your timetable
   -----------------------------------------------------------------------
 
-  Students - Please note that the academic calendar has not been updated. Therefore, the antirequisites to Political Science 1025F/G and Political Science 1026F/G are: Political Science 1020E, Political Science 1021F/G and Political Science 1022F/G.
+Students - Please note that the academic calendar has not been updated.
+Therefore, the anti-requisites for this course are: Political Science
+1020E, Political Science 1021F/G, and Political Science 1022F/G.
 
 ## Course description: what is this course about?
 
@@ -68,7 +70,7 @@ learning!
 
 (1) We start with learning about some key concepts. From there, we focus
     primarily on global politics, including discussion about war,
-    international economies, issues related to the environment and
+    international economies, issues related to the environment, and
     pandemics. In the second term, we will consider ideas, arguments,
     theories, and ideologies produced in the history of political
     thought in the West, including power, democracy, freedom, justice,
@@ -96,20 +98,19 @@ learning!
 
 ## Important dates
 
--  4 -- First day of classes
+- January 5 Classes resume
 
--  12 -- Last day to add full course or 1st term half course
+- February 14--22 Spring Reading Week
 
--  30 -- No classes (National Day for Truth and Reconciliation)
+- February 16 Family Day Holiday
 
-- Oct 19 -- Midterm Test - 6-7PM in Brightspace (online)
+- April 3 Good Friday Holiday
 
-- Nov 1 -- Nov 9 -- Fall Reading Week
+- April 9 Classes end
 
-- Dec 9 -- Last day of classes
+- April 10--11 Study Days
 
-- Dec 11 to 22 -- Exam Period - do not book travel plans, etc., until
-  the final schedule is posted
+- April 12--30 Final examination period
 
 ## Course texts: what must you read
 
@@ -125,7 +126,7 @@ Brodie, M. Janine, Sandra Rein, and Malinda S. Smith. 2022. *Critical
 Concepts: an Introduction to Politics*. **Sixth edition.** Toronto:
 Oxford University Press.
 
-<https://bookstore.uwo.ca/textbook-search?campus=UWO&term=W2025A&courses%5B0%5D=001_UW/POL1026F>
+<https://bookstore.uwo.ca/textbook-search?campus=UWO&term=W2025B&courses%5B0%5D=001_UW/POL1026G>
 
 ## Learning outcomes: what is this course teaching you?
 
@@ -188,6 +189,7 @@ Oxford University Press.
   You will be evaluated as follows:   
   ----------------------------------- -----------------------------------
   Essay Bibliography and Outline      10%
+  (EBO)                               
 
   Mid-Term Test - online              20%
 
@@ -197,10 +199,10 @@ Oxford University Press.
   -----------------------------------------------------------------------
 
 **Necessary conditions for passing this course or receiving your earned
-grade:** you must write the December Exam (not necessarily pass them),
-and submit the Essay for the course (not necessarily earn a passing
-grade on the Essay, but your Essay must be assessed as minimally
-acceptable effort to complete a proper essay). If you do not meet the
+grade:** you must write the April Exam (not necessarily pass them), and
+submit the Essay for the course (not necessarily earn a passing grade on
+the Essay, but your Essay must be assessed as minimally acceptable
+effort to complete a proper essay). If you do not meet the
 aforementioned conditions, then you will receive a failing grade (not
 your earned grade based on completed assignments) for the course and not
 receive credit for this course. Contact Nig Narain (nnarain@uwo.ca) if
@@ -209,9 +211,10 @@ you have any questions.
 ## Attendance Bonus (5% on Essay)
 
 Students will receive a 0.625% bonus on their essay grade for every
-**Tuesday or Thursday** class where attendance was taken (attendance must be recorded through the
-Microsoft form each week during class time). It is the same attendance for
-the end of the Tuesday class (to encourage students to not be disruptive) . There is a maximum of 8 classes considered to earn
+**Tuesday or** **Thursday** class (either Tuesday or Thursday each week)
+attended (attendance must be recorded through the Microsoft form each
+week during class time (submissions outside of in-person lecture time
+will not be counted). There is a maximum of 8 classes considered to earn
 the full 5% bonus. You can check your participation through the link in
 Brightspace weekly. You cannot receive more than 100% on the essay.
 
@@ -233,7 +236,7 @@ https://wts.uwo.ca/helpdesk page. Alternatively, they can contact the
 Western Technology Services Helpdesk https://wts.uwo.ca/helpdesk online
 or by phone at 519-661-3800 or ext. 83800 for technical support. Current
 versions of all popular browsers (e.g., Safari, Chrome, Edge, Firefox)
-are supported with OWL Brightspace; what is most important is that you
+are supported with OWL Brightspace. What is most important is that you
 update your browser frequently to ensure it is current. All JavaScript
 and cookies should be enabled." (UWO guidance to students)
 
@@ -244,13 +247,13 @@ updated and most current information.
 
 ## Schedule of Lectures and Assignments Due Dates: What questions are we covering? What do we read? What Academic Considerations are applicable?
 
-**TERM 1: ember -- December**
+**TERM: January - April**
 
-**Week 0: Sep 4**
+**Week 0: Jan 6th**
 
-- Intro to the Course
+- Intro to the Course (not testable content)
 
-**Week 1: Sep 9 -- 11**
+**Week 1: Jan 8-- 13**
 
 - Lecture: Governing Ideas and Enduring Ideas
 
@@ -258,111 +261,127 @@ updated and most current information.
     Politics 6e* - Chapter 1 - Governing Ideas ***and*** Chapter 2 --
     Emerging Ideas
 
-**Week 2: Sep 16 -- 18**
+**Week 2: Jan 15 -- 20**
 
 - Lecture: Democratic Ideas
 
 - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
   Politics 6e* - Chapter 3 - Democratic Ideas
 
-**Week 3: Sep 23 -- 25**
+**Week 3: Jan 22-27**
 
 - Lecture: Radical Ideas
 
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 4 -Radical Ideas (continued from last week)
 
-**ember 30 - no class** (National Day for Truth and Reconciliation)
-
-**Week 4: Oct 7 - 9**
+**Week 4: Jan 29-Feb 3**
 
 - Lecture: Non-Western Ideas
 
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 5 - Non-Western Ideas
 
-**Wednesday October 8, 11:59 PM: Essay Bibliography and Outline (EBO)
-assignment Due via OWL** Brightspace **site**\
-**(no penalty applied if submitted by Tues October 14 11:59pm)**
+<!-- -->
 
-- [Concerning "Undocumented Absence" Academic
-  Consideration:]{.underline}
+- [**Fri Feb 6, 11:59 PM: Essay Bibliography and Outline (EBO)
+  assignment Due via OWL site** 🡪 **no penalty applied if submitted by
+  Thurs Feb 12 11:59pm)**]{.mark}
 
-  - You do not need to submit a request for academic consideration if
-    the EBO deadline cannot be met (self-attestation or otherwise)
+- *[Fri Feb 13, 11:59 PM: Late -10% Essay Bibliography and Outline (EBO)
+  assignment Due via OWL site 🡪 no penalty applied if submitted by Thurs
+  Feb 26 11:59pm]{.mark}*
 
-  - This is because an extension will be granted automatically, without
-    penalty, to Tuesday October 14th, for those experiencing extenuating
+- [[Concerning "Undocumented Absence" Academic
+  Consideration:]{.underline}]{.mark}
+
+  - [You do not need to submit a request for academic consideration if
+    the EBO deadline cannot be met (self-attestation or
+    otherwise)]{.mark}
+
+  - [This is because an extension will be granted automatically, without
+    penalty, to Thu Feb 12, for those experiencing extenuating
     circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Wednesday October 8^th^.
+    submission on the Due Date of Fri Feb 12.]{.mark}
 
-  - TO BE CLEAR: *this does not mean the EBO is "really" due on* Tuesday
-    October 14th. It is due on Wednesday October 8th, but after Tuesday
-    October 14^th^ 11:59pm, the EBO is considered late, but we will
-    still accept submission until Wednesday October 15th with a late
-    penalty of -10% applied
+  - [TO BE CLEAR: *this does not mean the EBO is "really" due on* Thu
+    Feb 12. It is due on Fri Feb 6, but after Thu Feb 12^th^ 11:59pm,
+    the EBO is considered late, but we will still accept submission Thu
+    Feb 26 11:59pm with a late penalty of -10% applied]{.mark}
 
-  - Again, a request for academic consideration will not be considered
-    if submitting between Wed Oct 8 11:59pm and Wed Oct 15 11:59pm
-    because an extension was already granted, and the EBO is now late
+  - [The aforementioned also applies to the Late -10% EBO with
+    respectively adjusted dates]{.mark}
 
-  - Per Senate Regulations: "An instructor may deny academic
+  - [Again, any requests for academic consideration will not be
+    considered if submitting between Fri Feb 6 and Thu Feb 26 11:59pm
+    because extensions were already granted and accounted for in the due
+    dates and no-penalty lee way dates]{.mark}
+
+  - [Per Senate Regulations: "An instructor may deny academic
     consideration relating to the timeframe submission of work where
-    there is already flexibility in the submission timeframe (e.g.,
-    72-hour submission window). This assessment flexibility must be
-    indicated on the course outline"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+    there is already flexibility in the submission]{.mark} [timeframe
+    (e.g., 72-hour submission window). This assessment flexibility must
+    be indicated on the course outline"
+    ([[https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot))]{.mark}
 
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+  - [Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
     absence? When flexibility in assessment exists and is clearly stated
     on the course outline, both undocumented absences and academic
     consideration requests with documentation may be denied."
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+    ([[https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot))]{.mark}
 
-- If you have significant extenuating documented circumstances, you
+- [If you have significant extenuating documented circumstances, you
   should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  [[https://registrar.uwo.ca/academics/academic_considerations/index.html]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html)
   and go through their Student Absence Portal to request such academic
-  consideration
+  consideration]{.mark}
 
-- If you have documented grounds for a late submission extension beyond
-  October 15th, in that case, you should read the Registrar's Academic
+- [If you have documented grounds for a late submission extension beyond
+  Thu Feb 26, in that case, you should read the Registrar's Academic
   Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  [[https://registrar.uwo.ca/academics/academic_considerations/index.html]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html)
   and go through their Student Absence Portal to request such academic
-  consideration
+  consideration]{.mark}
 
-- Those students who are accommodated with flexible deadlines through
+- [Those students who are accommodated with flexible deadlines through
   Accessible Education (AE) should check the OWL site for your
-  particular AE dates and other details and notes
+  particular AE dates and other details and notes]{.mark}
 
-**Week 5: Oct 14 -- 16**
+**Week 5: Feb 5-10**
 
 - Lecture: Indigenous peoples, Land and the UNDRIP
 
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 6 - Indigenous peoples, land and the UNDRIP
 
-**SUNDAY October 19, 2025, 6-7 PM \> Term 1 October Test via Brightspace
-(online only)**
+**Week 6: Feb 12-24**
 
-- *ONLY covers Weeks 1-4 of Lectures*
+- Lecture: The Politics of Race
 
-- Further details, rules, directions, cautions, etc., will be provided
-  on the OWL site
+  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
+    Politics 6e* - Chapter 7 - The Politics of Race
 
-- This Test is a Designated Assessment exemption from "Undocumented
-  Absence" Academic Consideration:
+**Reading Week Feb 14-22**
 
-  - October Test is designated as exempt from "undocumented absence"
-    academic consideration
+**[Mid-Term Test: Sun March 1 6pm-7pm via OWL site]{.mark}**
 
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+- [ONLY covers Weeks 1-4]{.mark}
+
+- [Further details, rules, directions, cautions, etc., will be provided
+  on the OWL site]{.mark}
+
+- [Mid-Term Test is a Designated Assessment exemption from "Undocumented
+  Absence" Academic Consideration:]{.mark}
+
+  - [Mid-Term Test is designated as exempt from "undocumented absence"
+    academic consideration]{.mark}
+
+  - [Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
     absence? \... Undocumented absences also cannot be used for the
     "designated assessment" in each course."
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+    ([[https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot))]{.mark}
 
-  - Per Senate regulation "Policy on Academic Consideration --
+  - [Per Senate regulation "Policy on Academic Consideration --
     Undergraduate Students in First Entry Programs", under "Policy":
     "Instructors may designate one assessment per half-course weight as
     requiring formal supporting documentation. In such cases, the
@@ -370,46 +389,39 @@ assignment Due via OWL** Brightspace **site**\
     demonstrate proficiency in the content evaluated by the missed
     assessment within the time frame of the course.", and note that our
     course is a full-year course so each term is 'half-course weight'
-    <https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf>)
+    [[https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf]{.underline}](https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf))]{.mark}
 
-- Documented Absence Academic Consideration: to request academic
+- [Documented Absence Academic Consideration: to request academic
   consideration for your medical, varsity sport, or other documented
   matter, you should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  [[https://registrar.uwo.ca/academics/academic_considerations/index.html]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html)
   and go through their Student Absence Portal to request such academic
-  consideration to write the Make-up Test
+  consideration to write the Make-up Test]{.mark}
 
-- If you don't have documented grounds for academic consideration, e.g.
+- [If you don't have documented grounds for academic consideration, e.g.
   you slept-in or you forgot about the test, you may write the Make-up
-  Test with a --10% penalty applied
+  Test with a --10% penalty applied]{.mark}
 
-- Make-up Test dates:
+- **[Make-up Test dates:]{.mark}**
 
-  - Wed Oct 22 6-7 PM
+  - **[Tues Mar 3 6pm]{.mark}**
 
-  - Fri Oct 24 6-7 PM
+  - **[Thurs Mar 5 6pm]{.mark}**
 
-- Those students who are accommodated with exam accommodations through
-  Accessible Education (AE) should check the OWL site for your
-  particular AE test details
+  - **[Sun Mar 8 6pm]{.mark}**
 
-**Week 6: Oct 21 -- 23**
+- *[Accessible Education (AE) students: you don't need to register for
+  this Test with Accommodated Exams so just check the OWL site for your
+  particular AE test details closer to the Test dates]{.mark}*
 
-- Lecture: The Politics of Race
-
-  - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
-    Politics 6e* - Chapter 7 - The Politics of Race
-
-**Week 7: Oct 28 -- 30**
+**Week 7: Feb 26-Mar3**
 
 - Lecture: Genders and sexualities
 
   - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
     Politics 6e* - Chapter 8 - Genders and sexualities
 
-**READING WEEK NOV 1 - 9**
-
-**Week 8: Nov 11 - 13**
+**Week 8: Mar 5-10**
 
 - Lecture: Ableism and Disability: A Peculiar Politics
 
@@ -418,7 +430,7 @@ assignment Due via OWL** Brightspace **site**\
   - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
     6e* - Chapter 9 - Disability - A peculiar politics
 
-**Week 9: Nov 18 -- 20**
+**Week 9: Mar 12-17**
 
 - Lecture: Citizenship and Borders
 
@@ -427,7 +439,7 @@ assignment Due via OWL** Brightspace **site**\
 - Reading: Brodie, Rein, Smith, *Critical Concepts: An Introduction to
   Politics 6e* - Chapter 10 - Citizenship and borders
 
-**Week 10: Nov 25 - 27**
+**Week 10: Mar 19-24**
 
 - Lecture: Digital Technology and Democracy
 
@@ -437,7 +449,7 @@ assignment Due via OWL** Brightspace **site**\
     6e* - Chapter 14: \' it\'s kinda complicated\': Digital technology
     and democracy
 
-**Week 11: Dec 2 - 4**
+**Week 11: Mar 26-31**
 
 - Lecture: International Relations
 
@@ -446,7 +458,71 @@ assignment Due via OWL** Brightspace **site**\
   - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
     6e - Chapter 16 - International Relations*
 
-**Week 12: Dec 9**
+[**Mon Mar 30 11:59pm: Essay assignment Due via OWL site** 🡪 **no
+penalty applied if submitted by Sun Apr 5 11:59pm**]{.mark}
+
+*[Mon Apr 6 11:59pm: Late -10% Essay assignment Due via OWL site 🡪 no
+penalty applied if submitted by Thu Apr 9 11:59pm]{.mark}*
+
+- [Concerning "Undocumented Absence" Academic Consideration:]{.mark}
+
+  - [You do not need to submit a request for academic consideration if
+    this Essay deadline cannot be met (self-attestation or
+    otherwise)]{.mark}
+
+  - [This is because an extension will be granted automatically, without
+    penalty, to Sun Apr 5 11:59pm for those experiencing extenuating
+    circumstances (e.g., illness, bereavement, etc.) that prevent
+    submission on the Due Date of Mon Mar 30 11:59pm]{.mark}
+
+  - [TO BE CLEAR: this does not mean the Essay is "really" due on Sun
+    Apr 5 11:59pm; it is due on Mon Mar 30 11:59pm, but after Sun Apr 5
+    11:59pm, the Essay is considered late, but we will still accept
+    submission until Thurs Apr 9 11:59pm with a late penalty of -10%
+    applied]{.mark}
+
+<!-- -->
+
+- [The aforementioned also applies to the Late -10% Essay with
+  respectively adjusted dates]{.mark}
+
+  - [Again, a request for academic consideration will not be considered
+    if submitting between Mon Mar 30 and Apr 5 11:59pm, because an
+    extension was already granted]{.mark}
+
+  - [Per Senate Regulations: "An instructor may deny academic
+    consideration relating to the timeframe submission of work where
+    there is already flexibility in the submission timeframe (e.g.,
+    72-hour submission window). This assessment flexibility must be
+    indicated on the course outline"
+    ([[https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot))]{.mark}
+
+  - [Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
+    absence? When flexibility in assessment exists and is clearly stated
+    on the course outline, both undocumented absences and academic
+    consideration requests with documentation may be denied"
+    ([[https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot))]{.mark}
+
+<!-- -->
+
+- [If you have significant extenuating documented circumstances, you
+  should read the Registrar's Academic Consideration page
+  [[https://registrar.uwo.ca/academics/academic_considerations/index.html]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html)
+  and go through their Student Absence Portal to request such academic
+  consideration]{.mark}
+
+- [If you have documented grounds for a late submission beyond April 9,
+  in that case, you should read the Registrar's Academic Consideration
+  page
+  [[https://registrar.uwo.ca/academics/academic_considerations/index.html]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html)
+  and go through their Student Absence Portal to request such academic
+  consideration]{.mark}
+
+- [Those students who are accommodated with flexible deadlines through
+  Accessible Education should check the OWL site for your particular AE
+  dates and other details and notes]{.mark}
+
+**Week 12: April 2-7**
 
 - Lecture: Political Ecology
 
@@ -455,92 +531,42 @@ assignment Due via OWL** Brightspace **site**\
   - Brodie, Rein, Smith, *Critical Concepts: An Introduction to Politics
     6e* - Chapter 19: Political Ecology
 
-**Essay assignment Due via OWL site** Wednesday December 3^rd^\
-**(no penalty applied if submitted by** Tuesday December 9th, 2025,
-**11:59pm)**
+**April 9 Exam Review**
 
-- Concerning "Undocumented Absence" Academic Consideration:
+- **[Final Exam: 2-hours, Date & Time set by Registrar, during Official
+  Exam Period, In-person]{.mark}**
 
-  - You do not need to submit a request for academic consideration if
-    this Essay deadline cannot be met (self-attestation or otherwise)
+- [ONLY covers Weeks 5-12]{.mark}
 
-  - This is because an extension will be granted automatically, without
-    penalty, to Tuesday, December 9, for those experiencing extenuating
-    circumstances (e.g., illness, bereavement, etc.) that prevent
-    submission on the Due Date of Wednesday, December 3.
+- [In-person exam on Campus]{.mark}
 
-  - TO BE CLEAR: this does not mean the Essay is "really" due on
-    Tuesday, December 9; it is due on Wednesday, December 3. But after
-    Tuesday, December 9 at 11:59pm, the Essay is considered late. We
-    will still accept submission until Wednesday, December 10 at
-    11:00pm, with a late penalty of -10% applied.
-
-  - Again, a request for academic consideration will not be considered
-    if submitting between Wednesday, December 3 and Wednesday, December
-    10, because an extension was already granted, and the Essay is now
-    late.
-
-  - Per Senate Regulations: "An instructor may deny academic
-    consideration relating to the timeframe submission of work where
-    there is already flexibility in the submission timeframe (e.g.,
-    72-hour submission window). This assessment flexibility must be
-    indicated on the course outline"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-  - Per Office of the Registrar FAQ "When CAN\'T I use an undocumented
-    absence? When flexibility in assessment exists and is clearly stated
-    on the course outline, both undocumented absences and academic
-    consideration requests with documentation may be denied"
-    (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
-
-- If you have significant extenuating documented circumstances, you
-  should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- If you have documented grounds for a late submission beyond March 7,
-  in that case, you should read the Registrar's Academic Consideration
-  page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
-  and go through their Student Absence Portal to request such academic
-  consideration
-
-- Those students who are accommodated with flexible deadlines through
-  Accessible Education should check the OWL site for your particular AE
-  dates and other details and notes
-
-**Term 1 December Exam: 2-hours, Date & Time set by Registrar, during
-Official Exam Period**
-
-- ONLY covers Weeks 5-12 Lectures
-
-- Note: this is during the Official Exam Period, so per the Office of
+- [Note: this is during the Official Exam period, so per the Office of
   the Registrar: "When CAN\'T I use an undocumented absence?
   Undocumented absences cannot be used for examinations scheduled by the
   Office of the Registrar during official examination periods (including
   take-home final exams and December mid-year exams for full courses)"
-  (<https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot>)
+  ([[https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot))]{.mark}
 
-- Documented Absence Academic Consideration: to request academic
+- [Documented Absence Academic Consideration: to request academic
   consideration for your medical, varsity sport, or other documented
   matter, you should read the Registrar's Academic Consideration page
-  <https://registrar.uwo.ca/academics/academic_considerations/index.html>
+  [[https://registrar.uwo.ca/academics/academic_considerations/index.html]{.underline}](https://registrar.uwo.ca/academics/academic_considerations/index.html)
   and go through their Student Absence Portal to request such academic
-  consideration to write the Make-up Exam
+  consideration to write the Make-up Exam]{.mark}
 
-- If you don't have documented grounds for academic consideration, e.g.
-  you slept-in or you forgot about the exam, you may write the Make-up
-  Exam with a --10% penalty applied
+- [If you don't have documented grounds for academic consideration, e.g.
+  you slept-in or you forgot about the Exam, you may write the Make-up
+  Exam (in-person) with a --10% penalty applied]{.mark}
 
-- Make-up Exam dates will be posted on the OWL site after the Registrar
-  sets the date for the Regularly Scheduled Exam (we do not permit
-  writing the exam *ahead* of the Regularly Scheduled Exam date) with
-  write options in December and early January
+- *[Accessible Education students: ensure you have selected to write our
+  Final Exam with AE Accommodated Exams services by March as this is an
+  in-person exam and they will need to make your arrangements
+  accordingly]{.mark}*
 
-- Those students who are accommodated with exam accommodations through
-  Accessible Education (AE) should check the OWL site for your
-  particular AE exam details
+- [Make-up Exam (in-person) dates in May 2026 will be posted on the OWL
+  site after the Registrar sets the date for the Regularly Scheduled
+  Exam (we do not permit writing the exam *ahead* of the Regularly
+  Scheduled Exam date)]{.mark}
 
 ## Important information and rules about the course: what are some general rules governing this course
 
@@ -1055,10 +1081,10 @@ Instruction](https://www.uwo.ca/univsec/pdf/academic_policies/registration_progr
     https://docs.google.com/document/d/1caSLk2JM40K4tdQHlLRwftYVGM6k8z0ZA2J12SwLhtU/edit?tab=t.0#heading=h.i7bagmx726nl
 
 
+
 If students have extensive questions about the essay or the EBO they should not use the syllabus bot but instead refer to the EBO and Essay bot as it has more details the link is here https://westernu.brightspace.com/d2l/le/lessons/130641/topics/3411596
 
 
-ast Update: Sep 3
 Reminder: You can also use the Course Info Bot
 Do I have to attend each lecture on Tuesdays and tutorial on Thursday each week? 
 Yes. 
