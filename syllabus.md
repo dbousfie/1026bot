@@ -1616,7 +1616,7 @@ There are 'no more or less' questions from each lecture, videos, readings, etc.,
 In-person exam
 Bring student ID
 Ensure you know your UserID
-it is he first part of your email address, e.g. nnarain@uwo.ca is my email address but my UserID is nnarain
+it is the first part of your email address, e.g. nnarain@uwo.ca is my email address but my UserID is nnarain
 Pencils will be provided but you can bring your own pencil and/or eraser
 Recommend you don't use black pen (tougher to change answers, etc.)
 Format: Multiple-choice
@@ -1630,7 +1630,7 @@ Leave all clothes, backpacks, and other stuff at the front or back of room as di
 University is not responsible for any lost, stolen or misplaced items (nor are we either)
 Date: TBD
 Location: TBD
-To access campus map: https://www.uwo.ca/about/visit/maps.html and you will need to enter the the buildings initials
+To access campus map: https://www.uwo.ca/about/visit/maps.html and you will need to enter the buildings initials
 Caution: if you don't read exam-related information, updates, emails, notifications, OWL pages, etc., that is on YOU and not grounds for appeal, etc.
 Caution: if you rely on misinformation/disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not grounds for appeal, etc.
 It is not allowed to start the Exam and then later decide you don't want to complete it because you will seek post-facto accommodation, this is not allowed so you should go forward and complete
