@@ -14,10 +14,6 @@ Political Science 1026: Political Power and Participation
 
   **Course             Prof Nig Narain <nnarain@uwo.ca>
   Coordinator**        
-
-  **Office Hours:**    Wednesday 11:00am-1:00pm via zoom - link in
-                       Brightspace
-
   **Email:**           <dbousfie@uwo.ca>
 
   **Telephone:**       289-620-6665 text only number
@@ -1548,9 +1544,6 @@ A: Not really - you have everything it would just be repeating what you already 
 Q: Are the extra slides (not covered in lecture) still testable?  
 A: Yes anything in the videos  
 
-Q: Midterm date: syllabus says 18th, in class you said 19th. Which is correct?  
-A: 19th is correct  
-
 Q: If we don’t know an answer on the exam, should we just guess?  
 A: Yes there's no penalty for guessing wrong  
 
@@ -1730,7 +1723,7 @@ Note again: We cannot rectify computer issues of any variety, type, source, etc.
 Contact OWL WTS 519-661-3800 see if they can help
 Can't use Undocumented Absence
 Mid-Term Test is a Designated Assessment exemption from “Undocumented Absence” Academic Consideration:
-October Test is designated as exempt from “undocumented absence” academic consideration
+March Test is designated as exempt from “undocumented absence” academic consideration
 Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? ... Undocumented absences also cannot be used for the “designated assessment” in each course.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
 Per Senate regulation “Policy on Academic Consideration – Undergraduate Students in First Entry Programs”, under “Policy”: “Instructors may designate one assessment per half-course weight as requiring formal supporting documentation. In such cases, the instructor must provide the student with another opportunity to demonstrate proficiency in the content evaluated by the missed assessment within the time frame of the course.”, and note that our course is a full-year course so each term is ‘half-course weight’  https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf)
 Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
@@ -1769,7 +1762,7 @@ Losing your Wifi access due to password change, locked system, revoked access in
 These are just some common grounds, but not exhaustive nor inclusive of all non-grounds for appeal or academic consideration
 Can't Use Undocumented Absence for Mid-Term Test
 This Test is a Designated Assessment exemption from “Undocumented Absence” Academic Consideration:
-October Test is designated as exempt from “undocumented absence” academic consideration
+March Test is designated as exempt from “undocumented absence” academic consideration
 Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? ... Undocumented absences also cannot be used for the “designated assessment” in each course.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
 Per Senate regulation “Policy on Academic Consideration – Undergraduate Students in First Entry Programs”, under “Policy”: “Instructors may designate one assessment per half-course weight as requiring formal supporting documentation. In such cases, the instructor must provide the student with another opportunity to demonstrate proficiency in the content evaluated by the missed assessment within the time frame of the course.”, and note that our course is a full-year course so each term is ‘half-course weight’  https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf)
 Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
