@@ -1118,10 +1118,10 @@ Yes.
 Do I have to download ProctorTrack, Proctorio, ProctorEdu, QuestionMark, etc., for the Mid-Term Test?
 No. We are not using any proctoring software which will cause computer issues, but also we don't have any way to monitor, etc., so we cannot and do not provide any rectification for computer issues,
 When in the Mid-Term Test?
-Check the Course Outline and the Mid-Term Info page.
+Check the Course Outline and the Mid-Term Info page here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653404
 
 When is the Mid-Term Make-up Test?
-Check the Course Outline and the Mid-Term Info page.
+Check the Course Outline and the Mid-Term Info page here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653404
 
 Is the Final Exam in-person?
 Yes.
@@ -1136,7 +1136,7 @@ What if I have travel plans that conflict with the Mid-Term Test or Final Exam?
 These are not grounds for academic consideration for the Mid-Term Test or the Final Exam.
 
 Where can I find information about the Essay assignment?
-The Essay information will be posted on  page on the Course Home page and in the Left Menu on the Content page
+The Essay information will be posted on  page on the Course Home page and in the Left Menu on the Content page here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653382
 
 When are grades released for assignments?
 When they are ready and available, we will let you know. See and keep checking th Announcements page to look for updates.
@@ -1347,7 +1347,7 @@ meet with you virtually.\"
 Necessary conditions for passing this course
 Necessary conditions for passing this course or receiving your earned grade: you must write the Exam; (not necessarily passing it, and submit the Essay for the course (not necessarily earn a passing grade on the Essay, but your Essay must be assessed as minimally acceptable effort to complete a proper essay). If you do not meet the aforementioned three conditions, then you will receive a failing grade (not your earned grade based on completed assignments) for the course and not receive credit for this course. Contact the course instructor if you have any questions.
 
-This bot does not have detailed essay and EBo information for that you should go to the EBO and Essay bot here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653384
+This bot does not have detailed essay and EBo information for that you should go to the EBO and Essay bot here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653382
 
 Question: how do I get the bot to summarize the lecture?
 Answer: there's too much data to upload all at once into the bot, you can do it yourself by taking the PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it in any chat bot with the prompt 'use this file to develop 10 multiple choice questions with four options'. 
@@ -1391,7 +1391,7 @@ Question: I have a class directly before this one completely across campus. Woul
 Answer: It’s okay to be a few minutes late. We always start 10 minutes after the official start time and end 10 minutes early.
 
 Question: If we are unable to come to Tuesday or Thursday’s class due to illness, are we still able to get the attendance bonus?
-Answer: You only need 8 of 12 attendance bonuses, precisely to allow for flexibility.
+Answer: You only need 8 of 12 attendance/group work bonuses, precisely to allow for flexibility.
 
 Question: Just wanted to know how the lecture structure is.
 Answer: Lectures are based on the textbook chapter, along with TikToks, discussion prompts, and open-ended questions.
@@ -1406,33 +1406,30 @@ Question: What other resources can I use beyond the textbook to be successful?
 Answer: Make sure to review the lectures and attend the tutorial hours.
 
 Question: What will the essay topic be about?
-Answer: There is a list of essay topics.
+Answer: There is a list of essay topics here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653382
 
 Question: What will we be writing the essay about?
-Answer: There is a list of essay topics.
+Answer: There is a list of essay topics here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653382
 
 Question: What’s the best way to take notes?
-Answer: It’s up to individual students. Feel free to ask the bot.
+Answer: It’s up to individual students.
 
 Question: When is our exam?
 Answer: Please review the course outline.
-
-Question: Why are there no TAs?
-Answer: There are not enough graduate students for the size of the course.
 
 Question: Will I be able to stay on top of the week-to-week work?
 Answer: Yes, but the assumption is that you are a mature student, so intrinsic motivation is important.
 
 Question: Will PowerPoints be posted?
-Answer: Yes, they are posted under course content in Brightspace.
+Answer: Yes, they are posted under course content in Brightspace here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653284
 
 Question: Will the slides of the lectures be posted for future review of content?
-Answer: Yes, they are all posted under course content.
+Answer: Yes, they are all posted under course content here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653284
 
 Question: Will there be guest speakers in any cases, or opportunities through the class to listen to guest speakers?
 Answer: Unlikely at this point. Normally we have senators and other political figures in some of the other classes, but it’s not likely in this first-year course.
 
-Question: Will Thursday lectures be online?
+Question: Will Thursday tutorials be online?
 Answer: No, they are strictly in person.
 
 Question: Would you recommend having the physical or the e-version of the textbook?
@@ -1467,9 +1464,6 @@ To be clear in 2025 we are only offering POLS 1025F/G and POLS 1026/FG as the re
 
 The green text in the Powerpoints is the instructors commentary and addition to the PowerPoint slides that were provided by the textbook manufacturer. It is the 'value added' of the course.
 
-Q: How many words is our EBO? How many rebuttals and counterarguments do we need?
-A: 1500 words
-
 Q: Is the bonus 5% applied to my overall grade at the end of the course or the grade for my essay? If it is applied to the essay grade, is it applied to the EBO or the actual essay assignment?
 A: It is applied to the essay grade
 
@@ -1486,7 +1480,7 @@ Q: AI-generated notes?
 A: The link to the notes is here http://tiny.cc/1020lecturesummaries
 
 Q: What is the essay supposed to be about?
-A: There are six pre-assigned topics
+A: There are six pre-assigned topics here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653382
 
 Q: Can we find the Thursday tutorial slides on Brightspace?
 A: They will be on the main page of the Brightspace sidebar link "POLS 1026 Course Content" or here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653284
@@ -1517,9 +1511,6 @@ A: In PowerPoint 'File' --> 'export' --> 'download as PDF' then you can put it i
 
 Q: What’s the point of AI literacy? Is it examinable?  
 A: No, it's University literacy  
-
-Q: Are we being tested on all this AI stuff?  
-A: Nothing on AI is tested  
 
 Q: Should we be taking notes on Thursday even though it’s not content for testing?  
 A: If you want  
@@ -1594,54 +1585,218 @@ A: 120 multiple choice questions in 2 hours, using gradescope with a printed in 
 For specific course content that covers the lectures from weeks 1-4 students should go to https://students3.politicaleconomy.ca/
 For specific course content that covers the lectures from weeks 5-12 students should go to https://students2.politicaleconomy.ca/
 
-Final exam information - the URL corresponds to the page for the final exam information below
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653369 Final Exam: Info, Date, Time, Location, Rooms, and more!
 
-READ OVER the Final Exam sub-pages:
-Final Exam Info, Details, Date, Time, Location
-Final Exam Tips, Advice,
-Suggestions, Good Practices
-Getting Academic Consideration
-Confirmation pages (as applicable) if you are writing a make-up exam
-Caution: if you don't fully read the Final Exam pages, etc., these are NOT grounds for consideration, etc.
-Caution: if you rely on misinformation/ disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not our responsibility or grounds for appeal, etc.
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653372  Accessible Education 
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653370 Final Exam Info, Details, Date, Time, Location
+Accessible Education Students: 
+You are writing through Accommodated Exam so please see them about your exam date, time, location, etc.
 
-Final Exam Info, Details, Date, Time, Location
-Covers Weeks 5-12's videos, PDFs, readings, etc.
-Study all materials
-There are 'no more or less' questions from each lecture, videos, readings, etc., so ensure you study everything 
-In-person exam
-Bring student ID
-Ensure you know your UserID
-it is the first part of your email address, e.g. nnarain@uwo.ca is my email address but my UserID is nnarain
-Pencils will be provided but you can bring your own pencil and/or eraser
-Recommend you don't use black pen (tougher to change answers, etc.)
+
+# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653374 Getting Academic Consideration 
+
+Getting Academic Consideration 
+Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
+Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Exam  for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+ Common Queries
+What if I have a conflict with another scheduled exam or event?
+Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
+Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Exam for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+What if I'm sick or have a significant emergency or have a conflict with another scheduled exam or event?
+Check out our the Registrar's Academic Considerations page for more info and options: https://registrar.uwo.ca/academics/academic_considerations/index.html
+What if I show up late?
+If you have grounds for Academic Consideration then don't start the Exam at all
+If you start the Exam, you cannot choose later to write a -10% penalty Make-up Exam or seek Academic Consideration to write again later
+If you start the Exam, then start from the section that is open to you and go forward from there BUT you cannot go back to complete missed questions or missed sections
+How do I choose the -10% Penalty Exam option?
+Email Nig to confirm you are going to write the -10% Penalty Exam
+Where is the Make-up Exam information?
+On the sub-page titled "Make-up Final Exam" 
+Can't use Undocumented Absence
+Note: this is during the Official Exam period, so per the Office of the Registrar: “When CAN'T I use an undocumented absence? Undocumented absences cannot be used for examinations scheduled by the Office of the Registrar during official examination periods (including take-home final exams and December mid-year exams for full courses)” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Exam, you may write the Make-up Exam with a –10% penalty applied
+
+# midterm test info here https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653405
+
+Mid-Term Test Info, Details, etc.
+Covers: Lectures & Readings from Lectures 1-4
+Lecture: Governing Ideas and Enduring Ideas
+Lecture: Democratic Ideas
+Lecture: Radical Ideas
+Lecture: Non-Western Ideas
+Access: Via OWL site: Assessment > Quizzes
+NOT using ProctorTrack
+Don't install it as we are not using it
+Even if it comes back online before our Test, we are not using it
+NOT using Zoom
+Don't need to go to a Zoom room during the Test
+ONLY using OWL to take the Test
 Format: Multiple-choice
-Total time: 2 hour = 120 minutes
-Total number of questions = 120 questions
-Closed book exam
-No notes or other sheets allowed at your exam table
-No calculators allowed
-No electronic devices allowed (leave on floor, in pocket, or at front of room
-Leave all clothes, backpacks, and other stuff at the front or back of room as directed by the Room Proctors
-University is not responsible for any lost, stolen or misplaced items (nor are we either)
-Date: TBD
-Location: TBD
-To access campus map: https://www.uwo.ca/about/visit/maps.html and you will need to enter the buildings initials
-Caution: if you don't read exam-related information, updates, emails, notifications, OWL pages, etc., that is on YOU and not grounds for appeal, etc.
+Date: Sun March 1 6pm-7pm
+Total time: 1 hour = 60 minutes
+Accessible Education Students: check the 'Accessible Education Mid-Term Test' page, which will be posted ahead of the exam
+Note you don't go through Accommodated Exams for the Mid-Term test
+You will be notified when this page is posted for you 
+Total number of questions = 60 questions
+WTS recommends you Enter into our Class OWL site's Assessment > Quizzes page
+5 minutes ahead of the Test start time
+WTS has advised to use Google Chrome instead of Firefox, Safari, Explorer, etc., to prevent OWL from having problems
+Linear format:
+Questions will show one at a time on your web browser & screen
+Proceed to next question automatically
+No returning to previously completed questions
+Proceeding through the Test: 
+Answer a question and hit Next button (which also saves your answer)
+Can only go forward, so you should firm up your answer before going to the next one
+May click 'Submit' on the screen for OWL to note your answer BUT you have to press 'Next' to go forward -- it's good to hit Submit first, then maybe think about it, before hitting Next
+If you hit Next and don't choose an answer, OWL will go forward without an answer and you can't go back
+Note: you can't email me your answers after the test etc. (only answers entered into OWL count for the test grade)
+Hitting Next means you want to go forward to the next question and you're done with that question
+Note: you can't email me your answers after the test, etc. (only answers entered into OWL count for the test grade)
+Open-book:
+Access to your notes, the textbook, the OWL site, OWL & YouTube lecture videos, etc., is assumed
+Note: having many websites, windows, etc., open can screw up OWL and we will not rectify that situation if you run into test troubles
+OWL randomly selects questions
+If you get the same question twice or more, this is still a legitimate question and counted so do answer it
+If you get the same options twice or more, this is still a legitimate options' set and counted so do answer it
+Some may get similar questions or may get different questions
+Test questions will be a randomized mix of readings and lecture videos across all relevant weeks
+Accessible Education (AE) Students: in the left-side menu, a sub-page below this page labelled for "Accessible Ed" will detail information for AE Students specifically
+NOTE: Technology issues are NOT grounds for Academic Consideration through the Student Portal, and do NOT count as "medical consideration" or "compassionate consideration
+Check your Test access before the Test
+Look for a sub-page which has "Confirmed > " which will make clear you are scheduled to complete the Test 
+If you don't see a "Confirmed > " 15 minutes before the start of the Test then email Nig
+If you are writing Accessible Ed, Make-up, etc., Test versions/sitting you may see more than one "Confirmed >" so ensure that you follow through to complete the correct one at the correct time, etc.
+For Make-up Mid-Term Test: 
+Should see a sub-page titled "Confirmed > [date, time]" which states your date & time
+You may be placed in the -10 Penalty Test sub-page initially until your Academic Consideration is processed, so check back after the Make-up Tests are over to ensure you were moved to Academic Consideration sub-page thereafter
+Visible only after your Make-Up Test request is processed & you have emailed your preferred Make-up Test time slot
+Please read the Academic Consideration page fully for important & relevant details
+Please read the Make-up Mid-Term Test: Info, Dates, etc. page fully for important & relevant details
+Look over the times of the Make-up Test and email Nig
+If you don't see a "Confirmed > [date, time]" by 12pm of the date of your selected Make-Up Test timeslot, then email Nig
+You must only write on the dates we have provided and no other dates will be provided, unless required by Academic Counselling
+When you email me related to this, you may not get an email response but look under email Reactions for: 1) thumbs-up = got your message, 2) bugle-fanfare = confirming; if there is no particular issue, I will likely not email you or respond to a request but just keep checking the OWL site's sub-pages under Mid-Term Test Info for your confirmations, etc.
+Ensure you check and re-fresh OWL pages so the correct pages are showing, etc.
+For Accessible Education Test -- if you have AE accommodation:
+Should see a sub-page titled "Accessible Education (AE) Test Timings" and a "Confirm > " sub-page which states the time your Test starts
+If you don't see a "Accessible Education (AE) Test Timings" page and you have AE-designation, then email Nig as you may have been missed
+Please read over the Accessible Education (AE) Test Timings page fully for important & relevant details
+Make-up Mid-Term Test:
+Please read "For Make-up Mid-Term Test" above as well
+Please read the Make-up Mid-Term Test: Info, Dates, etc. page fully for important & relevant details
+Should still see the Accessible Education (AE) Test Timings page AND page confirming you are writing the make-up test
+Caution: if you don't read test-related information, updates, emails, notifications, OWL pages, etc., that is on YOU and not grounds for appeal, etc.
 Caution: if you rely on misinformation/disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not grounds for appeal, etc.
-It is not allowed to start the Exam and then later decide you don't want to complete it because you will seek post-facto accommodation, this is not allowed so you should go forward and complete
+Taking the Test: Do's, Don'ts, Cautions, etc.
+If you don't see the Test in your list of Quizzes' Tests by 15 minutes ahead of the Test, e.g. 1:45pm on the day of the scheduled test, then email Nig asap
+Ensure you are refreshing the screen in case you logged on and it wasn't present
+I will not be answering emails about 'can't see it' ahead of the 15 minute window; stay focussed, not panicked
+Cannot rectify computer issues of any variety, type, source, etc., and we have no way to verify any issue as we are not tracking, etc., so no accommodation for computer issues will be provided
+Contact OWL WTS 519-661-3800 see if they can help
+If WTS cannot prove/establish/confirm problems at OWL's end, then there is no grounds for academic consideration
+DO NOT take computer issues to Academic Counselling and do NOT submit to Academic Counselling for 'compassionate consideration' for computer-/technology-relatate problem
+Beware of common problems which are NOT grounds for appeal or consideration:
+Browser issues or updates, etc.
+System updates, etc., that may be automatic (turn them off)
+Buying new computer equipment
+Using old computer equipment
+Using a tablet that has rendering, uploading, etc., and other problems
+Using a cellphone/mobile phone has rendering, uploading, etc., or other problems
+Not having paid your Internet bill or using an old/outdates Internet access system
+Throttled by your Intenet provider
+Using tethering access (e.g. through your phone, VPN proxy, etc.)
+Family member, etc., needing to use your computer, or having borrowed theirs so have to return to them
+Losing your Wifi access due to password change, locked system, revoked access in a public location (like in a Tim Hortons or Starbucks), airplane Wifi shut down/blocked, foreign-location IP blocking, etc.
+These are just some common grounds, but not exhaustive nor inclusive of all non-grounds for appeal or consideration
+DO NOT take computer issues to Academic Counselling and do NOT submit to Academic Counselling for 'compassionate consideration' for computer-/technology-relatate problem
+Once you start, the Test cannot be stopped and started, and you cannot write any questions missed at a later time slot, etc.
+If you want to write the -10% Penalty Make-up Test, remember not to start the Test at all
+Can only go forward, no going back, in the questions
+If your system goes down, etc., the Test usually cannot be restarted so MAKE SURE you have stable, connected Wifi, enough access time (if you buy it on a per-use basis), etc., as we have no way to rectify this situation during the Test
+Beware of opening multiple windows, programs, etc., as this can drag your computer or crash it, and we have no way to rectify this situation during the Test
+Expected you will take the Test on the honour system, but if you have extra tabs open work with colleagues, etc. regardless, you are responsible for your own work, and cannot use that as an excuse, e.g. colleagues give you wrong answers purposely, have too many tabs open and close OWL by mistake, browser or system grinds or crashes, Wifi overloaded, reduced band-with, run out of time because you were busy elsewhere, lose Wifi in the bathroom, etc.
+We will NOT be answering question content-related emails OR texts during the Test, BUT we will answer questions related to no-access, errors in questions, etc.
+If you don't have access to the Test then email me immediately
+If there is a a problem with a particular question, e.g. Question 8 was totally blank, note this (screen capture) and email us AFTER the Test 
+We cannot redress Test issues once OWL's process has started/is underway but we will redress post-Test as appropriate and relevant, and only if there is a verifiable issue which WTS can provide evidence 
+If you are having Technical Problems, please call or email WTS's Help Desk ASAP
+If you start the Test and decide you don't want to complete it because you will seek post-facto academic consideration, this is not allowed so you should go forward and complete
+OWL will log when you began the Test at any time -- OWL takes note of this right away, and you'll be assigned zeros
+Don't 'preview' the test to see if you want do it or would rather seek Academic Counselling's accommodation later, as you'll be assigned zero if OWL logs you started your Test
+REMINDER: there will be other folks taking the Test and also Make-Up Tests afterwards so please make an appropriate choice in discussing the test, etc., as folks who write make-up tests will be on discussion boards, group-chats, etc., and will consequently have access to your 'in-experience' information if you choose to share it, post it, etc. 
+Note again: We cannot rectify computer issues of any variety, type, source, etc., and we have no way to verify any issue as we are not tracking, etc., so no accommodation for computer issues will be provided
+Contact OWL WTS 519-661-3800 see if they can help
+Can't use Undocumented Absence
+Mid-Term Test is a Designated Assessment exemption from “Undocumented Absence” Academic Consideration:
+October Test is designated as exempt from “undocumented absence” academic consideration
+Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? ... Undocumented absences also cannot be used for the “designated assessment” in each course.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Per Senate regulation “Policy on Academic Consideration – Undergraduate Students in First Entry Programs”, under “Policy”: “Instructors may designate one assessment per half-course weight as requiring formal supporting documentation. In such cases, the instructor must provide the student with another opportunity to demonstrate proficiency in the content evaluated by the missed assessment within the time frame of the course.”, and note that our course is a full-year course so each term is ‘half-course weight’  https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the test, you may write the Make-up Test with a –10% penalty applied
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653371 Final Exam Tips, Advice, Suggestions, Good Practices
+# getting academic consideration https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653409
 
-Final Exam Tips, Advice,
+Getting Academic Consideration 
+Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Mid-Term Test
+Email Nig your preferred Make-up Test time and then look on the sub-pages under the Make-up Test for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+NOTE: computer-/technology-related issue are NOT grounds for academic consideration or 'compassionate consideration' (per Academic Counselling)
+ Common Queries
+What if I have a conflict with another scheduled test or event?
+Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
+Email Nig your preferred Make-up Test time and then look on the sub-pages under the Make-up Test for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
+What if I'm sick or have a significant emergency or have a conflict with another scheduled test or event?
+Check out our the Registrar's Academic Considerations page for more info and options: https://registrar.uwo.ca/academics/academic_considerations/index.html
+What if I show up late?
+If you have grounds for Academic Consideration then don't start the Test at all
+When you enter the Test, you enter a page with details & instructions, AND you can choose not to go forward BUT if you do, then you must complete the test in that sitting/session
+If you start the Test, you cannot choose later to write a -10% penalty Make-up Test or seek Academic Consideration to write again later
+How do I choose the -10% Penalty Test option?
+Email Nig to confirm you are going to write the -10% Penalty Test
+Where is the Make-up Test information?
+On the sub-page for the Mid-Term Test 
+Are there some common situations which won't be ground for Academic Consideration?
+Browser issues or updates, etc.
+System updates, etc., that may be automatic (turn them off)
+Buying new computer equipment
+Using old computer equipment
+Not having paid your Internet bill or using an old/outdates Internet access system
+Throttled by your Intenet provider
+Using tethering access (e.g. through your phone, VPN proxy, etc.)
+Family member, etc., needing to use your computer, or having borrowed theirs so have to return to them
+Losing your Wifi access due to password change, locked system, revoked access in a public location (like in a Tim Hortons or Starbucks), airplane Wifi shut down/blocked, foreign-location IP blocking, etc.
+These are just some common grounds, but not exhaustive nor inclusive of all non-grounds for appeal or academic consideration
+Can't Use Undocumented Absence for Mid-Term Test
+This Test is a Designated Assessment exemption from “Undocumented Absence” Academic Consideration:
+October Test is designated as exempt from “undocumented absence” academic consideration
+Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? ... Undocumented absences also cannot be used for the “designated assessment” in each course.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Per Senate regulation “Policy on Academic Consideration – Undergraduate Students in First Entry Programs”, under “Policy”: “Instructors may designate one assessment per half-course weight as requiring formal supporting documentation. In such cases, the instructor must provide the student with another opportunity to demonstrate proficiency in the content evaluated by the missed assessment within the time frame of the course.”, and note that our course is a full-year course so each term is ‘half-course weight’  https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the test, you may write the Make-up Test with a –10% penalty applied
+WTS advice on how to seek possible verification of OWL problem for possible documentation
+Whenever you experience issues, please contact the WTS Helpdesk immediately, 519-661-3800  
+They will walk you through a list of things to help document information that we can pass on for investigation
+These will include: 
+1) Browser and versionOS and Version?
+2) Exact date and time of the incident?
+3) OWL Server Node (click on the purple and white ! icon at the bottom of the page, will give Server: azuki## info)?
+4) User (this is if you are collecting info from someone else)?
+5) ISP (or IP address)?
+6) Are you/they accessing OWL from on or off campus?
+7) What you were doing in OWL?
+8) Are you able to access uwo.ca and wts.uwo.ca?
+9) Are you able to access other non-Western websites (ones they normally do not access)?
+NOTE: unless WTS can verify an OWL-end/WTS-end issue with evidence, there is no consideration to be redressed
+NOTE: Technology issues are NOT grounds for Academic Consideration through the Student Portal, and do NOT count as "medical consideration" or "compassionate consideration"
+
+# midterm test tips, advice, suggestions, good practices https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653407
+
+Test Tips, Advice,
 Suggestions, Good Practices
 Note:  
 This is a compilation of different experiences, ideas & suggestions.
-Use what applies to our Exam and makes sense to you.
+Use what applies to our Test and makes sense to you.
 Good luck!
 
 LOTS OF GOOD RESOURCES: UWO Learning Skills (click here)
@@ -1671,59 +1826,96 @@ Discuss issues, controversies, concerns with your classmates ... it'll become 'i
 Figure out the IMPORTANT stuff from the not-so important
 Know the KEY examples and the ones which repeat (they can help you understand the same example viewed from different Approaches)
 Go over the Terms with friends – 3 memory points = jogs your memory, usually
+Note again: We cannot rectify computer issues of any variety, type, source, etc., and we have no way to verify any issue as we are not tracking, etc., so no accommodation for computer issues will be provided
+Contact OWL WTS 519-661-3800 see if they can help
+Contact Academic Counselling if you have documented issues and they will contact me with their assessment and suggested direction
 Multiple Choice Tips  
 Cover up the Answers > Read the Question first > Think of likely answers = you'll be less susceptible to the 'distracter' options 
 Don't get too bogged down in tough questions > give them your best, thoughtful shot
 Keep track of the time
+Note again: We cannot rectify computer issues of any variety, type, source, etc., and we have no way to verify any issue as we are not tracking, etc., so no accommodation for computer issues will be provided
+Contact OWL WTS 519-661-3800 see if they can help
+Contact faculty Academic Counselling if you have documented issues and they will contact me with their
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653372  Accessible Education 
+# midterm test FAQs https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653408
 
-Accessible Education Students: 
-You are writing through Accommodated Exam so please see them about your exam date, time, location, etc.
+Mid-Term Test FAQs
+Updated: Jan 5
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653373 Final Exam FAQs
-
-Is the exam in-person?
-Yes
-Do I have to write the Exam in a particular location?
-Yes
-Ensure you check which room you are writing in and go to that room
+Is the Test online?
+Yes, 
+Do I have to write the Test in a particular location, country, etc.?
+No
+Reminder: check that you will have stable Internet access, don't face country-based access limitations, etc. -- these are not grounds for Academic Consideration
+Do I have to register for an Accommodated Exam per my Accessible Education directions?
+No, not for the Mid-term (you do for the Final Exam)
+We will address you Accessible Education accommodated exam direction and provide you information
+You will see an Accessible Education students' page for Accessible Education students ahead of the exam closer to the exam
+Can I chose to not write the Accessible Education 
 What if I need Academic Consideration?
 Read the Academic Consideration page
-What if I have a conflict with another scheduled exam or event?
+What if I have a conflict with another scheduled test or event?
 Read the Academic Consideration page
 What if I'm sick or have a significant emergency ?
 Read the Academic Consideration page
 What if I show up late?
 Read the Academic Consideration page
-If you choose to write the exam after you arrive late, you cannot ask for extra time and you cannot appeal the grade on this basis
-How do I choose the -10% Penalty Exam option?
-Email Nig to confirm you are going to write the -10% Penalty Exam
-Recommend emailing  after the regularly scheduled Exam date in case you decide to write the regularly scheduled Exam
-Where do I find the Make-up Exam date & time-slots?
-Read the Make-up Final Exam: Info, Dates, etc. page
-You must write on those dates and time-slots
-Confirmations of your Make-up Exam date and time
-Are there previous exams I can view or do?
+If I forgot to started it late, didn't manage my time to do 60 questions, closed the window by mistake, my computer rebooted (or other such stuff), can I write missed questions, etc., later with a -10% penalty or get academic consideration to write the make-up test?
+No
+You have to write the full Test  in the session when you do the Test, ie in one session/setting/timeslot, and anything missed, etc., cannot be rectified later
+If you start the Test, then you must complete the Test during the session, whenever you had started, and NO you can't do any of it later
+Reminder: when you enter the Test, OWL begins with an instructions page which allows you choose NOT to go forward, so if you are going to seek Academic Consideration or write the -10% Penalty Make-up Test, then you should NOT go forward -- and if you start, then you can't write the Make-up Test or -10% Penalty Make-up Test
+How are my Make-up Mid-Term Test-related processing and confirmation confirmed?
+Read the Make-up Mid-Term Test: Info, Dates, etc. page
+How do I choose the -10% Penalty Mid-Term Test option?
+Email Nig to confirm you are going to write the -10% Penalty Test
+Recommend emailing  after the regularly scheduled Test date in case you decide to write the regularly scheduled Test
+When your Make-up Test slot is confirmed, you'll see the confirmation on the Mid-Term Test sub-pages
+Where do I find the Make-up Test time-slots?
+Read the Course Outline
+Read the Make-up Mid-Term Test: Info, Dates, etc. page
+You must write during those time-slots only
+Are there previous tests I can view or do?
 No
 Is there a Review Session?
 No
-During the Exam, can I ask questions?
-Yes: for clarification, if there is an error, etc.
-No: for the answer
-Are Readings on the Exam?
+When will the Mid-Term Test be visible in my list of Quizzes available?
+Latest by 15 minutes before the start of the Test, eg 1:45pm ahead of the 2pm start
+If you don't see the Mid-Term Test by then or once it has started, email Nig right away at nnarain@uwo.ca
+During the Test, can I email about the content of a question or what the question is asking me?
+No
+If you think there is an error/issue with a question, then email Nig after the Test is over
+If I'm having issues with OWL broadly, or technical issues during the Test, etc., should I contact WTS?
+Yes
+They may be able to solve problems
+They will walk you through a list of things to help document information that we can pass on for investigation
+These will include: 
+1) Browser and versionOS and Version?
+2) Exact date and time of the incident?
+3) OWL Server Node (click on the purple and white ! icon at the bottom of the page, will give Server: azuki## info)?
+4) User (this is if you are collecting info from someone else)?
+5) ISP (or IP address)?
+6) Are you/they accessing OWL from on or off campus?
+7) What were you doing in OWL?
+8) Are you able to access uwo.ca and wts.uwo.ca?
+9) Are you able to access other non-Western websites (one they
+Are Readings on the Test?
 Yes
 Know the key/major/important points, ideas, authors/thinkers, examples and case studies
-Incidental ideas, passing examples, etc., are unlikely to be on the Exam
-Can look through Readings, etc., during the Exam
-Are Video Lectures on the Exam?
+Incidental ideas, passing examples, etc., are unlikely to be on the Test
+Can look through Readings, etc., during the Test
+Are Video Lectures on the Test?
 Yes
 Know the key/major/important points, ideas, authors/thinkers, examples and case studies
-Incidental mentions, passing reference, etc., are unlikely to be on the Exam
-Can look through Lectures, etc., during the Exam
-Are Exam questions mostly  from Readings or Videos? 
+Incidental mentions, passing reference, etc., are unlikely to be on the Test
+Can look through Lectures, etc., during the Test
+Are Test questions mostly  from Readings or Videos? 
 Mixture of readings and lecture videos 
+Questions are randomized by OWL so any mix of Readings and Video lecture materials' questions is random
 Questions have 'hints' in them -- authors, readings, concepts, ideas, etc. -- to help nudge you in the right direction to help you figure out the answer
+Are Test questions always unique?
+No
+OWL randomizes questions through its system so you may receive the same question and/or answers again and that is perfectly valid regardless
 Do I need to know specific dates?
 Not full dates
 Know the general year or decade of stuff that was discussed  of relevance
@@ -1735,65 +1927,101 @@ Concepts, key thinkers, major historical events (eg WWII or Cold War)
 Application/analysis of  major  ideas, concepts, frameworks
 Examples or cases or lists which were repeated or extensively discussed
 Frameworks or concepts which have been discussed
-Can I start and stop the Exam?
+Can I do it with friends and classmates?
+Not recommended as you'll get distracted, etc.
+Watch out for 'time burglary': students get chatting with each other and don't remember to go back to finish; walk away to get a coffee or drink and forget come back; start Instaing & Snapchatting, etc. and then suddenly realizes they don't have time left; computer goes into hibernation mode and drops OWL connection; someone mucks around on your computer; the 'friend' suggests to you wrong answers as malice/messing around or they don't know the stuff themselves, etc. (true stories)
+None of the above are grounds for academic consideration
+Can I start and stop the Test?
 No
-Once you start, you have to finish the Exam
-If you leave the Exam room and turn in your Exam, then you cannot come back to continue writing, etc.
+Once you start, you have to finish the Test
 Don't be in a rush
-Can't write the Exam in different sittings/sessions/timeslots -- must complete the full Exam in one sitting/session/timeslots
+What sort of situation-checklist would help to ensure Test success?
+Is this place quiet?
+Is the Wifi stable?
+Do you have your notes, readings, lectures, etc., handy?
+Is the computer fully-powered up, and better yet, plugged in?
+Have you set aside enough time to do the Test itself?
+Have you set aside enough time to study accordingly?
+Do I have to use the whole time?
+No
+If you are done before the time is over no need to worry and enjoy your free time
+Grade is based on the basis of your answers, not time taken, and no bonuses for early finish
 When will I know my result?
 Announcement will be sent when grade is available
 Will be able to see your grade on the OWL site Gradebook when released
-Don't email us asking for your individual result or the date when it will be released
+Don't email us asking for your individual result or the date when it will be released -- I won't be answering as it's only fair everyone knows when the results are released
+Are there some common situations which won't be grounds for Academic Consideration?
+Browser issues or updates, etc.
+System updates, etc., that may be automatic (turn them off)
+Buying new computer equipment
+Using old computer equipment
+Not having paid your Internet bill or using an old/outdates Internet access system
+Throttled by your Intenet provider
+Using tethering access (e.g. through your phone, VPN proxy, etc.)
+Family member, etc., needing to use your computer, or having borrowed theirs so have to return to them
+Losing your Wifi access due to password change, locked system, revoked access in a public location (like in a Tim Hortons or Starbucks), airplane Wifi shut down/blocked, foreign-location IP blocking, etc.
+These are just some common grounds, but not exhaustive nor inclusive of all non-grounds for appeal or academic consideration
+Do I have to download ProctorTrack, Proctorio, ProctorEdu, QuestionMark, etc.?
+No. We are not using any proctoring software which will cause computer issues, but also we don't have any way to monitor, etc., so we cannot and do not provide any rectification for computer issues, etc.
+Is there a location restriction on where I can right the tests and exams?
+No. You can write anywhere, there are no location restrictions. You can complete the tests and exams, or submit the EBO or essay, from any location as long as you have an Internet connection through to this OWL site. Reminder: you are responsible for all your computer equipment, Internet connections, computer updates, technology maintenance, times and timings, etc., and may be better served by doing your test, exams (and submissions) using the University computers.
+Can I see Academic Consideration for the Technology problems?
+No. Technology issues are NOT grounds for Academic Consideration through the Student Portal, and do NOT count as "medical consideration" or "compassionate consideration".
+Will the TAs answer or deal with Mid-Term questions?
+No
+Same applies for the Final Exam
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653374 Getting Academic Consideration 
-
-Getting Academic Consideration 
-Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
-Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Exam  for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
- Common Queries
-What if I have a conflict with another scheduled exam or event?
-Read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
-Email Nig your preferred Make-up Exam time and then look on the sub-pages under the Make-up Exam for your confirmation (you'll should see the page confirming your time-slot) IF APPROVED
-What if I'm sick or have a significant emergency or have a conflict with another scheduled exam or event?
-Check out our the Registrar's Academic Considerations page for more info and options: https://registrar.uwo.ca/academics/academic_considerations/index.html
-What if I show up late?
-If you have grounds for Academic Consideration then don't start the Exam at all
-If you start the Exam, you cannot choose later to write a -10% penalty Make-up Exam or seek Academic Consideration to write again later
-If you start the Exam, then start from the section that is open to you and go forward from there BUT you cannot go back to complete missed questions or missed sections
-How do I choose the -10% Penalty Exam option?
-Email Nig to confirm you are going to write the -10% Penalty Exam
-Where is the Make-up Exam information?
-On the sub-page titled "Make-up Final Exam" 
 Can't use Undocumented Absence
-Note: this is during the Official Exam period, so per the Office of the Registrar: “When CAN'T I use an undocumented absence? Undocumented absences cannot be used for examinations scheduled by the Office of the Registrar during official examination periods (including take-home final exams and December mid-year exams for full courses)” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
-Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Exam
-If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Exam, you may write the Make-up Exam with a –10% penalty applied
+Mid-Term Test is a Designated Assessment exemption from “Undocumented Absence” Academic Consideration:
+Mid-Term Test is designated as exempt from “undocumented absence” academic consideration
+Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? ... Undocumented absences also cannot be used for the “designated assessment” in each course.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Per Senate regulation “Policy on Academic Consideration – Undergraduate Students in First Entry Programs”, under “Policy”: “Instructors may designate one assessment per half-course weight as requiring formal supporting documentation. In such cases, the instructor must provide the student with another opportunity to demonstrate proficiency in the content evaluated by the missed assessment within the time frame of the course.”, and note that our course is a full-year course so each term is ‘half-course weight’  https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the test, you may write the Make-up Test with a –10% penalty applied
 
-# https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653375 Make-up Final Exam: Info, Dates, etc.
+# can't use undocumented absence https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653410
 
-Make-up Final Exam: Info, Dates, etc.
+https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653410
+
+# make up midterm test info dates Etc https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653411
+
+Make-up Mid-Term Test: Info, Dates, etc.
 (Academic Consideration or -10% Penalty)
-To be permitted to do the Make-up Final Exam, you need to meet one of these two criteria:
+To be permitted to do the Make-up Mid-Term Test, you need to meet one of these two criteria:
 You have Academic Counselling-approved Academic Consideration
-You have no documented grounds for academic consideration, so your only choice is the -10% penalty Make-up Final Exam
-Make-up Final Exam Date & Times (timeslots):  
-tbd
-
-all make-up exams will be tbd
+You have no documented grounds for academic consideration, so your only choice is the -10% penalty Make-up Mid-Term Test
+Make-up Mid-Term Test Date & Times (timeslots):
+Tues Mar 3 6pm
+Thurs Mar 5 6pm
+Sun Mar 8 6pm
+If none of the above time-slots are workable, you will need to speak to Academic Counselling for approval for another time 
 Confirmation of your Academic Consideration being processed is through the Student Portal AND please read the note sent when the confirmation is processed
-If you have emailed your preference ahead of the Consideration coming through, you will be put into a -10% group and the penalty will be reversed
+If you have emailed your preference ahead of Academic Consideration coming through, you will be put into a -10% group and the penalty will be reversed only after your Academic Consideration is processed
 Confirmation of your Make-up Test timeslot: 
 Visible on the OWL site on pages below this page
 Visible in the Announcements
 Reminder Announcements will be sent
 If you have Academic Consideration, check the Student Portal as well
-When you email me related to this, you may not get an email response but look under email Reactions for: 1) thumbs-up = got your message, 2) bugle-fanfare = confirming; if there is no particular issue, I will likely not email you a response
+When you email me related to this, you may not get an email response but look under email Reactions for:
+1) thumbs-up = got your message
+2) bugle-fanfare = confirming; if there is no particular issue, I will likely not email you a response
 Ensure you check and re-fresh OWL pages so the correct pages are showing, etc.
-NOTE: you can't also write the Make-up Test (or parts thereof) if you've already written the Test (or parts thereof) -- you are ONLY allowed to write at one session/time/slot of the test ONLY
+NOTE: you can't also write the Make-up Mid-Term Test if you've already written the Test or parts thereof
+you are ONLY allowed to write at one session/time/slot of the Test ONLY
+Reminder: Technology issues are NOT grounds for Academic Consideration through the Student Portal, and do NOT count as "medical consideration" or "compassionate consideration"
 Can't use Undocumented Absence
-Note: this is during the Official Exam period, so per the Office of the Registrar: “When CAN'T I use an undocumented absence? Undocumented absences cannot be used for examinations scheduled by the Office of the Registrar during official examination periods (including take-home final exams and December mid-year exams for full courses)” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
-Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
-If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the Test, you may write the Make-up Test with a –10% penalty applied
+Mid-Term Test is a Designated Assessment exemption from “Undocumented Absence” Academic Consideration:
+Mid-Term Test is designated as exempt from “undocumented absence” academic consideration
+Per Office of the Registrar FAQ “When CAN'T I use an undocumented absence? ... Undocumented absences also cannot be used for the “designated assessment” in each course.” (https://registrar.uwo.ca/academics/academic_considerations/index.html#cannot)
+Per Senate regulation “Policy on Academic Consideration – Undergraduate Students in First Entry Programs”, under “Policy”: “Instructors may designate one assessment per half-course weight as requiring formal supporting documentation. In such cases, the instructor must provide the student with another opportunity to demonstrate proficiency in the content evaluated by the missed assessment within the time frame of the course.”, and note that our course is a full-year course so each term is ‘half-course weight’  https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf)
+Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
+If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the test, you may write the Make-up Test with a –10% penalty applied
+
+
+
+
+
+
+
 
 
