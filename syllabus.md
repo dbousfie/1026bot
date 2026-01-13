@@ -383,8 +383,7 @@ updated and most current information.
     requiring formal supporting documentation. In such cases, the
     instructor must provide the student with another opportunity to
     demonstrate proficiency in the content evaluated by the missed
-    assessment within the time frame of the course.", and note that our
-    course is a full-year course so each term is 'half-course weight'
+    assessment within the time frame of the course.", 
     [[https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf]{.underline}](https://uwo.ca/univsec/pdf/academic_policies/appeals/academic_consideration_Sep24.pdf))]{.mark}
 
 - [Documented Absence Academic Consideration: to request academic
