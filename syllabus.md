@@ -208,7 +208,7 @@ you have any questions.
 
 Students will receive a 0.625% bonus on their essay grade for every
 **Tuesday or** **Thursday** class (either Tuesday or Thursday each week)
-attended (attendance must be recorded through the Microsoft form each
+attended (attendance must be recorded through the Microsoft form (the QR code Dan shows in class) each
 week during class time (submissions outside of in-person lecture time
 will not be counted). There is a maximum of 8 classes considered to earn
 the full 5% bonus. You can check your participation through the link in
