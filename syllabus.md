@@ -2009,6 +2009,9 @@ Per Senate regulation “Policy on Academic Consideration – Undergraduate Stud
 Documented Absence Academic Consideration: to request academic consideration for your medical, varsity sport, or other documented matter, you should read the Registrar’s Academic Consideration page https://registrar.uwo.ca/academics/academic_considerations/index.html and go through their Student Absence Portal to request such academic consideration to write the Make-up Test
 If you don’t have documented grounds for academic consideration, e.g. you slept-in or you forgot about the test, you may write the Make-up Test with a –10% penalty applied
 
+Q: How do I find my ta
+A: there is a link in brightspace to your ta it should be viewable here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653261
+
 
 
 
