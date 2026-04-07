@@ -2013,6 +2013,38 @@ Q: How do I find my ta
 A: there is a link in brightspace to your ta it should be viewable here https://westernu.brightspace.com/d2l/le/lessons/156117/units/3653261
 
 
+# final exam info https://westernu.brightspace.com/d2l/le/lessons/156117/topics/3653370
+
+Final Exam Info, Details, Date, Time, Location
+Covers Weeks 5-12's videos, lectures, PDFs, readings, etc. 
+Study all materials
+There are 'no more or less' questions from each lecture, videos, readings, etc., so ensure you study everything 
+In-person exam
+Bring student ID
+Ensure you know your UserID
+it is he first part of your email address, e.g. nnarain@uwo.ca is my email address but my UserID is nnarain
+Pencils will be provided but you can bring your own pencil and/or eraser
+Recommend you don't use black pen (tougher to change answers, etc.)
+Format: Multiple-choice
+Total time: 2 hour = 120 minutes
+Total number of questions = 120 questions
+Closed book exam
+No notes or other sheets allowed at your eam table
+No calculators allowed
+No electronic devices allowed (leave on floor, in pocket, or at front of room
+Leave all clothes, backpacks, and other stuff at the front or back of room as directed by the Room Proctors
+University is not responsible for any lost, stolen or misplaced items (nor are we either)
+Date: Wednesday, April 22, 2:00pm
+Location: ensure you go to the correct room based on your last name
+Achmar - Mirshahi = FEB GYM - Faculty of Education Gym
+Mitrovich - Zolfaghari = SJB AUD 154 - St. James Building Auditorium Room 154 
+To access campus map: https://www.uwo.ca/about/visit/maps.html and you will need to enter the the buildings initials
+Caution: if you don't read exam-related information, updates, emails, notifications, OWL pages, etc., that is on YOU and not grounds for appeal, etc.
+Caution: if you rely on misinformation/disinformation from Facebook, Twitter, Discord, Reddit, etc., that is on YOU and not grounds for appeal, etc.
+It is not allowed to start the Exam and then later decide you don't want to complete it because you will seek post-facto accommodation, this is not allowed so you should go forward and complete
+Accessible Education Students: 
+You are writing through Accommodated Exam so please see them about your exam date, time, location, etc.
+
 
 
 
